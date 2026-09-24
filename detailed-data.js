@@ -12,7 +12,7 @@ window.DETAILED_DATA = {
       }
     },
     {
-      "system": "Rule",
+      "system": "RD",
       "baseline": 1.0,
       "functional": 0.0,
       "picogen": 0.0,
@@ -219,7 +219,7 @@ window.DETAILED_DATA = {
       }
     },
     {
-      "system": "Rule",
+      "system": "RD",
       "spectral_rmse": {
         "point": 2.5870354175567627,
         "bootstrap_sd": 0.08710826022229463,
@@ -411,7 +411,7 @@ window.DETAILED_DATA = {
         }
       },
       {
-        "comparison": "Pico \u2212 Rule",
+        "comparison": "Pico \u2212 RD",
         "spectral_rmse": {
           "point": -1.542874813079834,
           "bootstrap_sd": 0.1046628806287977,
@@ -531,7 +531,7 @@ window.DETAILED_DATA = {
         }
       },
       {
-        "comparison": "Var \u2212 Rule",
+        "comparison": "Var \u2212 RD",
         "spectral_rmse": {
           "point": -1.2157641649246216,
           "bootstrap_sd": 0.03831971507860061,
@@ -621,7 +621,7 @@ window.DETAILED_DATA = {
         }
       },
       {
-        "comparison": "Base \u2212 Rule",
+        "comparison": "Base \u2212 RD",
         "spectral_rmse": {
           "point": 0.1688551902770996,
           "bootstrap_sd": 0.034192004169512596,
@@ -711,7 +711,7 @@ window.DETAILED_DATA = {
         }
       },
       {
-        "comparison": "Rule \u2212 MuseControlLite",
+        "comparison": "RD \u2212 MuseControlLite",
         "spectral_rmse": {
           "point": -1.3967511653900146,
           "bootstrap_sd": 0.11108384385555518,
@@ -741,7 +741,7 @@ window.DETAILED_DATA = {
         }
       },
       {
-        "comparison": "Rule \u2212 ACE-Step",
+        "comparison": "RD \u2212 ACE-Step",
         "spectral_rmse": {
           "point": -0.6358528137207031,
           "bootstrap_sd": 0.08190438242530108,
@@ -833,7 +833,7 @@ window.DETAILED_DATA = {
         }
       },
       {
-        "comparison": "Base \u2212 Rule",
+        "comparison": "Base \u2212 RD",
         "spectral_rmse": {
           "point": -0.03014063835144043,
           "bootstrap_sd": 0.028919934649986358,
@@ -863,7 +863,7 @@ window.DETAILED_DATA = {
         }
       },
       {
-        "comparison": "Var \u2212 Rule",
+        "comparison": "Var \u2212 RD",
         "spectral_rmse": {
           "point": 0.3414343595504761,
           "bootstrap_sd": 0.027216917321395754,

@@ -49,7 +49,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/i12/rule.mp3",
           "levels": {
             "integrated_lufs": -16.02,
@@ -122,7 +122,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/i38/rule.mp3",
           "levels": {
             "integrated_lufs": -15.98,
@@ -195,7 +195,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/eval_2NFCXSbkcxE_w2/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -267,7 +267,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk--d-rncF-xH0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.09,
@@ -339,7 +339,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk--uo3JmtXm7E-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.05,
@@ -411,7 +411,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk--vY_3qnrmkg-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.84,
@@ -483,7 +483,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-01JA7Gj_9lM-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.86,
@@ -555,7 +555,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-0THo2R6cLks-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -627,7 +627,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-10tvIZmPIfs-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.01,
@@ -699,7 +699,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-2xbW1Kl4h9A-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.05,
@@ -771,7 +771,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-3H8Thzn9ULY-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -843,7 +843,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-3oVHWBxdCqk-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -915,7 +915,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-44Zk43pOhsk-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.97,
@@ -987,7 +987,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-4NOJc2Cu4so-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -1059,7 +1059,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-592rZj6ax8E-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.02,
@@ -1131,7 +1131,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-5Z_oP_YELv8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -1203,7 +1203,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-5nFoJF5xn7U-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.92,
@@ -1275,7 +1275,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-71JOWP5jX_8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.93,
@@ -1347,7 +1347,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-7qYOTcFg5Qg-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.88,
@@ -1419,7 +1419,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-8Tia6k0moDE-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.86,
@@ -1491,7 +1491,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-8inWxyeHzuQ-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.12,
@@ -1563,7 +1563,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-8irAnD6zQ00-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.88,
@@ -1635,7 +1635,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-8kQr0xCASGI-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -1707,7 +1707,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-8osR4JxQ1dQ-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -1779,7 +1779,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-8v8uIb1G3qM-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -1851,7 +1851,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-9jIvWp8Qmoc-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.83,
@@ -1923,7 +1923,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-AQ40Mw7flaI-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.01,
@@ -1995,7 +1995,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-C1rTnN2CFoc-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -2067,7 +2067,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-CZHMkn8-dGs-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -2139,7 +2139,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-CnU5jHHfPec-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.89,
@@ -2211,7 +2211,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-D7sU4P89AS8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.01,
@@ -2283,7 +2283,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-DcJqktS6il0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -2355,7 +2355,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-EGhf9gb_9Z0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.93,
@@ -2427,7 +2427,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-EvnjZxNDWBM-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.92,
@@ -2499,7 +2499,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-GdWfVUZ5bqQ-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -2571,7 +2571,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-HP3ZDGPGHRE-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -2643,7 +2643,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-I6SZqQuGejQ-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.05,
@@ -2715,7 +2715,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-IU9DiBrFut8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.2,
@@ -2787,7 +2787,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-J1W9C8Br264-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.15,
@@ -2859,7 +2859,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-J81Bkcb0reo-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.97,
@@ -2931,7 +2931,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-J9GPKZR9zfs-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.17,
@@ -3003,7 +3003,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-JEl4b0EOWE4-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.02,
@@ -3075,7 +3075,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-JcxZL1ahvrM-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.08,
@@ -3147,7 +3147,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-KRy_F4U6DY8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.01,
@@ -3219,7 +3219,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-KT6rXMQ2aTQ-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -3291,7 +3291,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-Kau4arbVuHc-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -3363,7 +3363,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-KyLQum3nQoI-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.97,
@@ -3435,7 +3435,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-LCpnlaBDayc-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.04,
@@ -3507,7 +3507,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-LHUZSTvWc64-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.03,
@@ -3579,7 +3579,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-LwbxGdcSbx8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -3651,7 +3651,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-M6Cx2J-mDz8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.08,
@@ -3723,7 +3723,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-MKmBlRmD43c-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -3795,7 +3795,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-NeACSHzQHsw-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.98,
@@ -3867,7 +3867,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-NzKYScIhFeg-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -3939,7 +3939,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-O6ikwUdAJIE-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.2,
@@ -4011,7 +4011,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-P_8J3gOULYU-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.03,
@@ -4083,7 +4083,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-PgViCGed7cU-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.98,
@@ -4155,7 +4155,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-Prpd535UfCo-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.98,
@@ -4227,7 +4227,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-QAy2Y136OdE-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -4299,7 +4299,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-QujvtG5TQlY-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -4371,7 +4371,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-RrqaAUDyNLo-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -4443,7 +4443,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-SwZobFjOyx8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.01,
@@ -4515,7 +4515,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-T9D0FbvIDr8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -4587,7 +4587,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-TL16Blee88s-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.94,
@@ -4659,7 +4659,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-TWMLxmytVY8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.1,
@@ -4731,7 +4731,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-Tmc6Z9e89N0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.95,
@@ -4803,7 +4803,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-UKlWBWTUopE-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.86,
@@ -4875,7 +4875,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-UOZDZ2INlzQ-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.05,
@@ -4947,7 +4947,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-VBd0vbPEsa0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -5019,7 +5019,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-VuE4oxYUQTQ-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -5091,7 +5091,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-WdL4VWWOcWM-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.12,
@@ -5163,7 +5163,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-XMY7k9l1Q5c-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.95,
@@ -5235,7 +5235,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-XUpNWNZkllA-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.97,
@@ -5307,7 +5307,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-XlXCdIZT2cM-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.82,
@@ -5379,7 +5379,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-Y5u9HPvSKBQ-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -5451,7 +5451,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-ZBMKVgsDzAs-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.9,
@@ -5523,7 +5523,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-ZNSrPFtLii0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -5595,7 +5595,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-ZP1OIZ27FWY-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.16,
@@ -5667,7 +5667,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-ZQ8LGEXBLUg-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.96,
@@ -5739,7 +5739,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-aIkj0-O6cFg-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -5811,7 +5811,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-c2Po_MYwYno-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.08,
@@ -5883,7 +5883,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-eUsb0lmeGm4-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -5955,7 +5955,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-f5TCvWJfTlw-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -6027,7 +6027,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-fdMGQNiIwvU-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.96,
@@ -6099,7 +6099,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-fkn2jHQngoo-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.95,
@@ -6171,7 +6171,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-gg4RqNUYcK0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.05,
@@ -6243,7 +6243,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-hbokRw0LNnA-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.2,
@@ -6315,7 +6315,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-i30GvL-21Js-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -6387,7 +6387,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-iITQTizcYAI-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.85,
@@ -6459,7 +6459,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-ice7he6pkC0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -6531,7 +6531,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-je53yi8LeHA-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -6603,7 +6603,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-kSEQAx-1ucg-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.01,
@@ -6675,7 +6675,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-kUvjjpubHVc-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -6747,7 +6747,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-nRDLbls0Qkw-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -6819,7 +6819,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-oMne-2NgsW0-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -6891,7 +6891,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-onAh4b0XMO4-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.13,
@@ -6963,7 +6963,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-pErWFmY0VVs-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -7035,7 +7035,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-pO52ZptusIU-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -7107,7 +7107,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-pXMjx2AOrAo-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.97,
@@ -7179,7 +7179,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-pqpgQnwI1e8-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.01,
@@ -7251,7 +7251,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-qMDqCgfnJvw-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.11,
@@ -7323,7 +7323,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-qi8plO42onE-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -7395,7 +7395,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-qiA0x0JzgdA-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.03,
@@ -7467,7 +7467,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-rVL8hoR_Jlo-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.09,
@@ -7539,7 +7539,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-rqvzsUbFyfo-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.93,
@@ -7611,7 +7611,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-sIqOlYO1d6A-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.95,
@@ -7683,7 +7683,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-sJjTK7Q-Abc-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -7755,7 +7755,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-salA57uYcxY-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.92,
@@ -7827,7 +7827,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-sfXO14l1RSs-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -7899,7 +7899,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-sz-JbTfbAkI-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.99,
@@ -7971,7 +7971,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-wWZr_Qya7rU-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.07,
@@ -8043,7 +8043,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-x2qVsBDTKEU-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.18,
@@ -8115,7 +8115,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-x9aKalTFqdc-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.06,
@@ -8187,7 +8187,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-xiQJ8veqywY-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -15.98,
@@ -8259,7 +8259,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-y4QOkL9uDT4-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.04,
@@ -8331,7 +8331,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-yOi1daBHpTM-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -8403,7 +8403,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-zX7jcYJrmHk-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.07,
@@ -8475,7 +8475,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-zleHmDMI9ZU-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.18,
@@ -8547,7 +8547,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-zne6gHN2YH4-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -8619,7 +8619,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/kk-zzVltq86hJE-w0/rule.mp3",
           "levels": {
             "integrated_lufs": -16.02,
@@ -8691,7 +8691,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/i34/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -8764,7 +8764,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/i36/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,
@@ -8837,7 +8837,7 @@ window.LISTENING_SAMPLES = {
           }
         },
         "rule": {
-          "label": "Rule",
+          "label": "RD",
           "src": "assets/highlights/eval_-sS1aUJrZxE_w2/rule.mp3",
           "levels": {
             "integrated_lufs": -16.0,

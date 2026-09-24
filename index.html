@@ -24,7 +24,7 @@
     </section>
     <section id="system-comparison" aria-labelledby="comparison-title" hidden>
       <h2 id="comparison-title">Comparison of our systems</h2>
-      <p class="intro">Pico, Var, Base, and Rule on the same samples. The piano input and the original song are linked on YouTube at the same window, and every input uses the fixed text prompt &ldquo;instrumental, no vocals&rdquo;. Expand the authors&rsquo; listening comments where available. Model outputs are matched to <strong>&minus;16 LUFS integrated</strong> with a <strong>&minus;1 dBTP</strong> true-peak ceiling.</p>
+      <p class="intro">Pico, Var, Base, and RD on the same samples. The piano input and the original song are linked on YouTube at the same window, and every input uses the fixed text prompt &ldquo;instrumental, no vocals&rdquo;. Expand the authors&rsquo; listening comments where available. Model outputs are matched to <strong>&minus;16 LUFS integrated</strong> with a <strong>&minus;1 dBTP</strong> true-peak ceiling.</p>
       <div id="comparison-samples"></div>
     </section>
     <section id="detailed" aria-labelledby="detailed-title" hidden>
@@ -50,8 +50,8 @@
       </article>
 
       <article class="detail-card">
-        <h3>Rule-based augmentation</h3>
-        <p>Rule always starts from the original baseline transcription. As reported in the paper, it uses two augmentation types. Each four-bar segment is left unchanged with probability 0.50; otherwise it independently draws one of the following:</p>
+        <h3>Register&ndash;Density Augmentation (RD)</h3>
+        <p>RD always starts from the original baseline transcription. As reported in the paper, it uses two augmentation types. Each four-bar segment is left unchanged with probability 0.50; otherwise it independently draws one of the following:</p>
         <div class="table-scroll"><table class="plain-table"><thead><tr><th>Operation</th><th>Draw ratio</th><th>Exact transformation</th></tr></thead><tbody>
           <tr><td>Function-aware note deletion</td><td>0.20</td><td>Keep each onset’s bass note. Other chord-function notes draw a 0.05–0.20 deletion rate; tension/passing-function notes draw 0.20–0.60.</td></tr>
           <tr><td>Octave folding</td><td>0.30</td><td>Combines local inner-voice folding (0.20), where eligible notes move ±12 semitones at a per-onset rate drawn from 0.10–0.50 while remaining between the bass and top voice, and segment-level register folding (0.10), which draws −12, 0, or +12 semitones for the complete segment with equal probability.</td></tr>

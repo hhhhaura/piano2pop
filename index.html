@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22%3E%3Crect width=%2216%22 height=%2216%22 rx=%224%22 fill=%22%23675080%22/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header><h1>Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision</h1></header>
+    <nav class="tabs" aria-label="Demo collections">
+      <a id="highlights-tab" href="#highlights" aria-current="page">Piano2Pop vs Baselines</a>
+      <a id="comparison-tab" href="#system-comparison">Comparison of our systems</a>
+      <a id="detailed-tab" href="#detailed">Implementation details</a>
+    </nav>
+    <section id="highlights" aria-labelledby="highlights-title">
+      <h2 id="highlights-title">Piano2Pop vs Baselines</h2>
+      <p class="intro">Six samples comparing Piano2Pop (Pico) with MuseControlLite (Muse) and ACE-Step (ACE). Each sample links its 30-second window in the piano cover the models were given and in the original song, both on YouTube: the recordings are copyrighted, so only model outputs are hosted here. The original song includes vocals; the models generate the vocal-free accompaniment.</p>
+      <p class="intro">Model outputs are matched to <strong>&minus;16 LUFS integrated</strong> with a <strong>&minus;1 dBTP</strong> true-peak ceiling. Please listen with headphones.</p>
+      <div id="highlight-samples"></div>
+    </section>
+    <section id="system-comparison" aria-labelledby="comparison-title" hidden>
+      <h2 id="comparison-title">Comparison of our systems</h2>
+      <p class="intro">Compare Pico, Var, Base, and Rule on the same six samples. The piano input and the original song are linked on YouTube at the same window. Expand the authors’ listening comments where available. Model outputs are matched to <strong>&minus;16 LUFS integrated</strong> with a <strong>&minus;1 dBTP</strong> true-peak ceiling.</p>
+      <div id="comparison-samples"></div>
+    </section>
+    <section id="detailed" aria-labelledby="detailed-title" hidden>
+      <h2 id="detailed-title">Implementation details</h2>
+      <p class="intro">How the four systems choose their training transcriptions and apply augmentation, followed by evaluation results and paired comparisons. Training choices are made separately for each four-bar segment.</p>
+
+      <article class="detail-card">
+        <h3>What changes between the four systems?</h3>
+        <div class="table-scroll"><table id="system-mixtures"></table></div>
+        <p class="fine-print">Ratios are nominal draw probabilities. If a selected transcription is missing, too sparse, or exceeds 25 simultaneous notes, the loader tries other eligible variants and ultimately falls back to the baseline, so realized ratios can differ slightly.</p>
+      </article>
+
+      <article class="detail-card">
+        <h3>Function-selective transcription</h3>
+        <p>We first separate each training instrumental with HTDemucs, then transcribe one of four function-focused stem mixtures. The mixtures are weighted equally within the function-selective branch:</p>
+        <div class="table-scroll"><table class="plain-table"><thead><tr><th>Stem mixture</th><th>Included stems</th><th>Within branch</th><th>All Var draws</th></tr></thead><tbody>
+          <tr><td>Full</td><td>Drums, bass, other, guitar, piano</td><td>0.25</td><td>0.55</td></tr>
+          <tr><td>Harmonic</td><td>Bass, other, guitar, piano</td><td>0.25</td><td>0.15</td></tr>
+          <tr><td>No-bass</td><td>Drums, other, guitar, piano</td><td>0.25</td><td>0.15</td></tr>
+          <tr><td>Piano + bass</td><td>Piano, bass</td><td>0.25</td><td>0.15</td></tr>
+        </tbody></table></div>
+        <p>In Var, each four-bar segment draws the original full-instrumental piano transcription with probability 0.40 or the function-selective branch with total probability 0.60. Each mixture contributes 0.60 × 0.25 = 0.15 through the function-selective branch; because the normal transcription is also Full, its aggregate ratio is 0.40 + 0.15 = 0.55. The chosen MIDI is used without further style modification.</p>
+      </article>
+
+      <article class="detail-card">
+        <h3>Rule-based augmentation</h3>
+        <p>Rule always starts from the original baseline transcription. As reported in the paper, it uses two augmentation types. Each four-bar segment is left unchanged with probability 0.50; otherwise it independently draws one of the following:</p>
+        <div class="table-scroll"><table class="plain-table"><thead><tr><th>Operation</th><th>Draw ratio</th><th>Exact transformation</th></tr></thead><tbody>
+          <tr><td>Function-aware note deletion</td><td>0.20</td><td>Keep each onset’s bass note. Other chord-function notes draw a 0.05–0.20 deletion rate; tension/passing-function notes draw 0.20–0.60.</td></tr>
+          <tr><td>Octave folding</td><td>0.30</td><td>Combines local inner-voice folding (0.20), where eligible notes move ±12 semitones at a per-onset rate drawn from 0.10–0.50 while remaining between the bass and top voice, and segment-level register folding (0.10), which draws −12, 0, or +12 semitones for the complete segment with equal probability.</td></tr>
+        </tbody></table></div>
+        <p class="fine-print">These are the two augmentation families named in the paper. The function labels are heuristic rather than inferred chords: they are determined only by pitch interval above the local bass.</p>
+      </article>
+
+      <article class="detail-card">
+        <h3>Real-piano evaluation snapshot</h3>
+        <p>Raw estimate ± bootstrap standard error. Lower is better for spectral RMSE and FAD; higher is better for APA (32-d PCA). Energy shares are raw 0–1 values.</p>
+        <div class="table-scroll"><table id="estimate-table"></table></div>
+      </article>
+
+      <article class="detail-card">
+        <h3>Paired between-system comparisons</h3>
+        <p>Differences are first system minus second system. Each cell is point difference [95% basic-bootstrap CI]; <span class="significant">†</span> marks an interval that excludes zero.</p>
+        <h4>Real-piano conditioning</h4>
+        <div class="table-scroll"><table id="real-piano-comparisons"></table></div>
+        <h4>Muscriptor conditioning</h4>
+        <div class="table-scroll"><table id="muscriptor-comparisons"></table></div>
+      </article>
+
+      <article class="detail-card">
+        <h3>Evaluation protocol and scope</h3>
+        <p>Each metric uses 476 held-out songs × five windows. The same 1,000 seed-42 song-cluster draws are shared across systems, retaining all five windows from each selected song. APA’s 33-pair aligned/misaligned reference, the full ground-truth FAD distribution, and the full ground-truth mean mel shape stay fixed. APA is computed in a 32-dimensional PCA space fitted to the aligned reference (no whitening; 89.8% of reference variance): its 171 reference windows cannot estimate a full 512-dimensional CLAP covariance. System rankings are unchanged without projection, at 64 or 100 dimensions, and with Ledoit–Wolf reference covariances.</p>
+        <p class="fine-print">These intervals are conditional on the frozen references and are not adjusted for testing many system pairs. HTDemucs energy shares are separator-dependent estimates.</p>
+      </article>
+    </section>
+  </main>
+  <script src="highlight-data.js"></script>
+  <script src="detailed-data.js"></script>
+  <script src="site.js"></script>
+</body>
+</html>

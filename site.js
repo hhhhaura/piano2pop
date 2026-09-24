@@ -73,59 +73,93 @@
       cell.append(note);
     }
     cell.append(link);
+    if (ref.alignment === "automatic") {
+      const note = document.createElement("p");
+      note.className = "fine-print alignment-note";
+      note.textContent = "Starts where the piano window starts; not yet hand-aligned, so the song may lead or lag.";
+      cell.append(note);
+    }
     return cell;
   }
 
-  function render(root, panel, label, showComments) {
-  for (const [index, sample] of panel.samples.entries()) {
-    const article = document.createElement("article");
-    article.className = "sample";
-    const title = document.createElement("h3");
-    title.textContent = `${label} ${String(index + 1).padStart(2, "0")}`;
-    const identifier = document.createElement("p");
-    identifier.className = "sample-id";
-    identifier.textContent = `${sample.item_id} · Window ${sample.window}`;
-    article.append(title, identifier);
+  const GROUPS = {
+    karaokeys: {
+      title: "KaraoKeysPH covers",
+      note: "Every KaraoKeysPH song in the 476-song evaluation panel, hand-picked highlights first.",
+    },
+    sing2piano: {
+      title: "Sing2Piano covers",
+      note: "Sing2Piano does not allow its videos to be embedded, so these covers open on YouTube.",
+    },
+  };
 
-    const refs = document.createElement("div");
-    refs.className = "references";
-    for (const key of ["piano", "song"]) refs.append(reference(sample.references[key], title.textContent));
-    article.append(refs);
+  function render(root, samples, order, showComments) {
+    let group = null;
+    let count = 0;
+    for (const sample of samples) {
+      if (sample.group !== group) {
+        group = sample.group;
+        const heading = document.createElement("h3");
+        heading.className = "group-title";
+        const size = samples.filter(other => other.group === group).length;
+        heading.textContent = `${GROUPS[group].title} (${size})`;
+        const note = document.createElement("p");
+        note.className = "fine-print";
+        note.textContent = GROUPS[group].note;
+        root.append(heading, note);
+      }
+      count += 1;
+      const article = document.createElement("article");
+      article.className = "sample";
+      const title = document.createElement("h3");
+      title.textContent = `Sample ${String(count).padStart(3, "0")}`;
+      const identifier = document.createElement("p");
+      identifier.className = "sample-id";
+      identifier.textContent = `${sample.item_id} · Window ${sample.window}`;
+      article.append(title, identifier);
 
-    const tracks = document.createElement("div");
-    tracks.className = "tracks";
-    for (const track of sample.tracks) {
-      const cell = document.createElement("div");
-      cell.className = "track";
-      const name = document.createElement("h4");
-      name.textContent = track.label;
-      const audio = document.createElement("audio");
-      audio.controls = true;
-      audio.preload = "none";
-      audio.src = `${track.src}?v=loudness-matched-3`;
-      audio.setAttribute("aria-label", `${title.textContent}: ${track.label}`);
-      audio.addEventListener("play", () => pauseAll(audio));
-      cell.append(name, audio);
-      tracks.append(cell);
+      const refs = document.createElement("div");
+      refs.className = "references";
+      for (const key of ["piano", "song"]) {
+        refs.append(reference(sample.references[key], title.textContent));
+      }
+      article.append(refs);
+
+      const tracks = document.createElement("div");
+      tracks.className = "tracks";
+      for (const key of order) {
+        const track = sample.tracks[key];
+        const cell = document.createElement("div");
+        cell.className = "track";
+        const name = document.createElement("h4");
+        name.textContent = track.label;
+        const audio = document.createElement("audio");
+        audio.controls = true;
+        audio.preload = "none";
+        audio.src = `${track.src}?v=loudness-matched-4`;
+        audio.setAttribute("aria-label", `${title.textContent}: ${track.label}`);
+        audio.addEventListener("play", () => pauseAll(audio));
+        cell.append(name, audio);
+        tracks.append(cell);
+      }
+      article.append(tracks);
+      if (showComments && sample.comment) {
+        const details = document.createElement("details");
+        details.className = "listening-comment";
+        const summary = document.createElement("summary");
+        summary.textContent = "Authors’ listening comment";
+        const comment = document.createElement("p");
+        comment.textContent = sample.comment;
+        details.append(summary, comment);
+        article.append(details);
+      }
+      root.append(article);
     }
-    article.append(tracks);
-    if (showComments && sample.comment) {
-      const details = document.createElement("details");
-      details.className = "listening-comment";
-      const summary = document.createElement("summary");
-      summary.textContent = "Authors’ listening comment";
-      const comment = document.createElement("p");
-      comment.textContent = sample.comment;
-      details.append(summary, comment);
-      article.append(details);
-    }
-    root.append(article);
   }
-  }
-  render(document.getElementById("highlight-samples"), window.LISTENING_HIGHLIGHTS,
-    "Sample", false);
-  render(document.getElementById("comparison-samples"), window.SYSTEM_COMPARISON,
-    "Sample", true);
+  const samples = window.LISTENING_SAMPLES.samples;
+  render(document.getElementById("highlight-samples"), samples, ["pico", "muse", "ace"], false);
+  render(document.getElementById("comparison-samples"), samples,
+    ["pico", "var", "base", "rule"], true);
 
   function makeTable(root, headers, rows) {
     const head = document.createElement("thead");

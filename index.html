@@ -55,7 +55,7 @@
         <p>RDA always starts from the original baseline transcription. As reported in the paper, it uses two augmentation types. Each four-bar segment is left unchanged with probability 0.50; otherwise it independently draws one of the following:</p>
         <div class="table-scroll"><table class="plain-table"><thead><tr><th>Operation</th><th>Draw ratio</th><th>Exact transformation</th></tr></thead><tbody>
           <tr><td>Function-aware note deletion</td><td>0.20</td><td>Keep each onset’s bass note. Other chord-function notes draw a 0.05–0.20 deletion rate; tension/passing-function notes draw 0.20–0.60.</td></tr>
-          <tr><td>Octave folding</td><td>0.30</td><td>Combines local inner-voice folding (0.20), where eligible notes move ±12 semitones at a per-onset rate drawn from 0.10–0.50 while remaining between the bass and top voice, and segment-level register folding (0.10), which draws −12, 0, or +12 semitones for the complete segment with equal probability.</td></tr>
+          <tr><td>Octave folding</td><td>0.30</td><td>Shifts non-bass notes one octave toward the local register while preserving the bassline and topline boundaries: an eligible note moves ±12 semitones, at a per-onset rate drawn from 0.10–0.50, only if it stays between the bass and the top voice.</td></tr>
         </tbody></table></div>
         <p class="fine-print">These are the two augmentation families named in the paper. The function labels are heuristic rather than inferred chords: they are determined only by pitch interval above the local bass.</p>
       </article>
@@ -77,7 +77,7 @@
 
       <article class="detail-card">
         <h3>Evaluation protocol and scope</h3>
-        <p>Each metric uses 476 held-out songs × five windows. The same 1,000 seed-42 song-cluster draws are shared across systems, retaining all five windows from each selected song. APA’s 33-pair aligned/misaligned reference, the full ground-truth FAD distribution, and the full ground-truth mean mel shape stay fixed. APA is computed in a 32-dimensional PCA space fitted to the aligned reference (no whitening; 89.8% of reference variance): its 171 reference windows cannot estimate a full 512-dimensional CLAP covariance. System rankings are unchanged without projection, at 64 or 100 dimensions, and with Ledoit–Wolf reference covariances.</p>
+        <p>Each metric uses 476 held-out songs × five windows. The same 1,000 seed-42 song-cluster draws are shared across systems, retaining all five windows from each selected song. APA’s 33-pair aligned/misaligned reference, the full ground-truth FAD distribution, and the full ground-truth mean mel shape stay fixed. APA is computed in a 32-dimensional PCA space fitted to the aligned reference (no whitening; 89.8% of reference variance): its 171 reference windows cannot estimate a full 512-dimensional CLAP covariance. System rankings are unchanged for other k (e.g., 64).</p>
         <p class="fine-print">These intervals are conditional on the frozen references and are not adjusted for testing many system pairs. HTDemucs energy shares are separator-dependent estimates.</p>
       </article>
     </section>

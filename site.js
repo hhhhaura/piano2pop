@@ -159,7 +159,7 @@
   const samples = window.LISTENING_SAMPLES.samples;
   render(document.getElementById("highlight-samples"), samples, ["pico", "muse", "ace"], false);
   render(document.getElementById("comparison-samples"), samples,
-    ["pico", "var", "base", "rule"], true);
+    ["base", "var", "rule", "pico"], true);
 
   function makeTable(root, headers, rows) {
     const head = document.createElement("thead");
@@ -192,7 +192,8 @@
       fmtRatio(item.functional), fmtRatio(item.picogen),
       Object.entries(item.styles).filter(([, value]) => value > 0)
         .map(([name, value]) => `${name} ${fmtRatio(value)}`).join(" · ")]));
-  const fmtEstimate = value => `${value.point.toFixed(4)} ± ${value.bootstrap_sd.toFixed(4)}`;
+  const fmtEstimate = value => value
+    ? `${value.point.toFixed(4)} ± ${value.bootstrap_sd.toFixed(4)}` : "—";
   makeTable(document.getElementById("estimate-table"),
     ["System", "Spectral RMSE ↓", "APA ↑", "FAD ↓", "Bass + drums share", "Piano share"],
     window.DETAILED_DATA.estimates.map(item => [item.system, fmtEstimate(item.spectral_rmse),

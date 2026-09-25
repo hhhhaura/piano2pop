@@ -18,13 +18,13 @@
     </nav>
     <section id="highlights" aria-labelledby="highlights-title">
       <h2 id="highlights-title">Piano2Pop vs Baselines</h2>
-      <p class="intro">Piano2Pop (Pico) against MuseControlLite and ACE-Step on every KaraoKeysPH song in the 476-song evaluation panel, then three Sing2Piano highlights. Each sample links its 30-second window in the piano cover the models were given and in the original song, both on YouTube: the recordings are copyrighted, so only model outputs are hosted here. The original song includes vocals; the models generate the vocal-free accompaniment.</p>
+      <p class="intro">Piano2Pop (PiCo) against MuseControlLite and ACE-Step on every KaraoKeysPH song in the 476-song evaluation panel, then three Sing2Piano highlights. Each sample links its 30-second window in the piano cover the models were given and in the original song, both on YouTube: the recordings are copyrighted, so only model outputs are hosted here. The original song includes vocals; the models generate the vocal-free accompaniment.</p>
       <p class="intro">Every input uses the same fixed text prompt, <strong>&ldquo;instrumental, no vocals&rdquo;</strong>; the piano is the only song-specific condition. Model outputs are matched to <strong>&minus;16 LUFS integrated</strong> with a <strong>&minus;1 dBTP</strong> true-peak ceiling. Please listen with headphones.</p>
       <div id="highlight-samples"></div>
     </section>
     <section id="system-comparison" aria-labelledby="comparison-title" hidden>
       <h2 id="comparison-title">Comparison of our systems</h2>
-      <p class="intro">Pico, Var, Base, and RD on the same samples. The piano input and the original song are linked on YouTube at the same window, and every input uses the fixed text prompt &ldquo;instrumental, no vocals&rdquo;. Expand the authors&rsquo; listening comments where available. Model outputs are matched to <strong>&minus;16 LUFS integrated</strong> with a <strong>&minus;1 dBTP</strong> true-peak ceiling.</p>
+      <p class="intro">Base, FST, RDA, and PiCo on the same samples. The piano input and the original song are linked on YouTube at the same window, and every input uses the fixed text prompt &ldquo;instrumental, no vocals&rdquo;. Expand the authors&rsquo; listening comments where available. Model outputs are matched to <strong>&minus;16 LUFS integrated</strong> with a <strong>&minus;1 dBTP</strong> true-peak ceiling.</p>
       <div id="comparison-samples"></div>
     </section>
     <section id="detailed" aria-labelledby="detailed-title" hidden>
@@ -38,20 +38,20 @@
       </article>
 
       <article class="detail-card">
-        <h3>Function-selective transcription</h3>
+        <h3>Function-Selective Transcription (FST)</h3>
         <p>We first separate each training instrumental with HTDemucs, then transcribe one of four function-focused stem mixtures. The mixtures are weighted equally within the function-selective branch:</p>
-        <div class="table-scroll"><table class="plain-table"><thead><tr><th>Stem mixture</th><th>Included stems</th><th>Within branch</th><th>All Var draws</th></tr></thead><tbody>
+        <div class="table-scroll"><table class="plain-table"><thead><tr><th>Stem mixture</th><th>Included stems</th><th>Within branch</th><th>All FST draws</th></tr></thead><tbody>
           <tr><td>Full</td><td>Drums, bass, other, guitar, piano</td><td>0.25</td><td>0.55</td></tr>
           <tr><td>Harmonic</td><td>Bass, other, guitar, piano</td><td>0.25</td><td>0.15</td></tr>
           <tr><td>No-bass</td><td>Drums, other, guitar, piano</td><td>0.25</td><td>0.15</td></tr>
           <tr><td>Piano + bass</td><td>Piano, bass</td><td>0.25</td><td>0.15</td></tr>
         </tbody></table></div>
-        <p>In Var, each four-bar segment draws the original full-instrumental piano transcription with probability 0.40 or the function-selective branch with total probability 0.60. Each mixture contributes 0.60 × 0.25 = 0.15 through the function-selective branch; because the normal transcription is also Full, its aggregate ratio is 0.40 + 0.15 = 0.55. The chosen MIDI is used without further style modification.</p>
+        <p>In FST, each four-bar segment draws the original full-instrumental piano transcription with probability 0.40 or the function-selective branch with total probability 0.60. Each mixture contributes 0.60 × 0.25 = 0.15 through the function-selective branch; because the normal transcription is also Full, its aggregate ratio is 0.40 + 0.15 = 0.55. The chosen MIDI is used without further style modification.</p>
       </article>
 
       <article class="detail-card">
-        <h3>Register&ndash;Density Augmentation (RD)</h3>
-        <p>RD always starts from the original baseline transcription. As reported in the paper, it uses two augmentation types. Each four-bar segment is left unchanged with probability 0.50; otherwise it independently draws one of the following:</p>
+        <h3>Register&ndash;Density Augmentation (RDA)</h3>
+        <p>RDA always starts from the original baseline transcription. As reported in the paper, it uses two augmentation types. Each four-bar segment is left unchanged with probability 0.50; otherwise it independently draws one of the following:</p>
         <div class="table-scroll"><table class="plain-table"><thead><tr><th>Operation</th><th>Draw ratio</th><th>Exact transformation</th></tr></thead><tbody>
           <tr><td>Function-aware note deletion</td><td>0.20</td><td>Keep each onset’s bass note. Other chord-function notes draw a 0.05–0.20 deletion rate; tension/passing-function notes draw 0.20–0.60.</td></tr>
           <tr><td>Octave folding</td><td>0.30</td><td>Combines local inner-voice folding (0.20), where eligible notes move ±12 semitones at a per-onset rate drawn from 0.10–0.50 while remaining between the bass and top voice, and segment-level register folding (0.10), which draws −12, 0, or +12 semitones for the complete segment with equal probability.</td></tr>
@@ -60,7 +60,7 @@
       </article>
 
       <article class="detail-card">
-        <h3>Real-piano evaluation snapshot</h3>
+        <h3>Real-piano (OOD) results</h3>
         <p>Raw estimate ± bootstrap standard error. Lower is better for spectral RMSE and FAD; higher is better for APA (32-d PCA). Energy shares are raw 0–1 values.</p>
         <div class="table-scroll"><table id="estimate-table"></table></div>
       </article>
@@ -68,9 +68,9 @@
       <article class="detail-card">
         <h3>Paired between-system comparisons</h3>
         <p>Differences are first system minus second system. Each cell is point difference [95% basic-bootstrap CI]; <span class="significant">†</span> marks an interval that excludes zero.</p>
-        <h4>Real-piano conditioning</h4>
+        <h4>Real-piano (OOD) inputs</h4>
         <div class="table-scroll"><table id="real-piano-comparisons"></table></div>
-        <h4>Muscriptor conditioning</h4>
+        <h4>Training-distribution inputs (MuScriptor transcriptions)</h4>
         <div class="table-scroll"><table id="muscriptor-comparisons"></table></div>
       </article>
 

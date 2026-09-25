@@ -211,13 +211,21 @@
       fmtRatio(item.functional), fmtRatio(item.picogen),
       Object.entries(item.styles).filter(([, value]) => value > 0)
         .map(([name, value]) => `${name} ${fmtRatio(value)}`).join(" · ")]));
-  const fmtEstimate = value => value
-    ? `${value.point.toFixed(4)} ± ${value.bootstrap_sd.toFixed(4)}` : "—";
+  // Table 2's formatting: rounded to four places and then to three, as the paper's table was, with
+  // no leading zero; energy shares in percent to two places; ground truth's zero FAD/shape bare.
+  const round3 = x => Math.round(Math.round(x * 1e4) / 10) / 1000;
+  const bare = x => round3(x).toFixed(3).replace(/^(-?)0\./, "$1.");
+  const fmtEstimate = (value, zero = false) => !value ? "—"
+    : zero ? bare(value.point) : `${bare(value.point)}±${bare(value.bootstrap_sd)}`;
+  const fmtPercent = value => `${(value.point * 100).toFixed(2)}±${(value.bootstrap_sd * 100).toFixed(2)}`;
   makeTable(document.getElementById("estimate-table"),
-    ["System", "Spectral RMSE ↓", "APA ↑", "FAD ↓", "Bass + drums share", "Piano share"],
-    window.DETAILED_DATA.estimates.map(item => [item.system, fmtEstimate(item.spectral_rmse),
-      fmtEstimate(item.apa), fmtEstimate(item.fad), fmtEstimate(item.bass_drums_share),
-      fmtEstimate(item.piano_share)]));
+    ["System", "APA ↑", "FAD ↓", "Shape (dB) ↓", "B+D (%)", "Piano (%)"],
+    window.DETAILED_DATA.estimates.map(item => {
+      const gt = item.system === "Ground truth";
+      return [item.system, fmtEstimate(item.apa), fmtEstimate(item.fad, gt),
+        fmtEstimate(item.spectral_rmse, gt), fmtPercent(item.bass_drums_share),
+        fmtPercent(item.piano_share)];
+    }));
   const comparisonCell = value => ({
     text: `${value.point >= 0 ? "+" : ""}${value.point.toFixed(4)} ` +
       `[${value.ci95[0] >= 0 ? "+" : ""}${value.ci95[0].toFixed(4)}, ` +

@@ -29,11 +29,11 @@ window.LISTENING_SAMPLES = {
     "44Zk43pOhsk_w0",
     "5nFoJF5xn7U_w0",
     "AQ40Mw7flaI_w0",
-    "2NFCXSbkcxE_w2",
-    "592rZj6ax8E_w0",
-    "8irAnD6zQ00_w0",
-    "EvnjZxNDWBM_w0",
-    "GdWfVUZ5bqQ_w0",
+    "Smni5YBuPmo_w0",
+    "BfTtpCl4APM_w0",
+    "iFQRLKxvhR0_w0",
+    "AxquQF31qbg_w0",
+    "b385LhjODes_w0",
     "zf-KVaOvPTM_w1"
   ],
   "samples": [
@@ -9025,6 +9025,371 @@ window.LISTENING_SAMPLES = {
           "levels": {
             "integrated_lufs": -15.98,
             "true_peak_dbtp": -4.69
+          }
+        }
+      }
+    },
+    {
+      "key": "Smni5YBuPmo_w0",
+      "item_id": "Smni5YBuPmo",
+      "window": 0,
+      "group": "sing2piano",
+      "references": {
+        "piano": {
+          "label": "Piano input (cover on YouTube)",
+          "video_id": "Smni5YBuPmo",
+          "start": 51.437,
+          "seconds": 30.0,
+          "embeddable": false
+        },
+        "song": {
+          "label": "Original song, with vocals (YouTube)",
+          "video_id": "R7UrFYvl5TE",
+          "start": 49.724,
+          "seconds": 30.0,
+          "embeddable": true,
+          "alignment": "automatic"
+        }
+      },
+      "tracks": {
+        "pico": {
+          "label": "PiCo",
+          "src": "assets/highlights/s2p-Smni5YBuPmo-w0/pico.mp3",
+          "levels": {
+            "integrated_lufs": -16.02,
+            "true_peak_dbtp": -2.16
+          }
+        },
+        "var": {
+          "label": "FST",
+          "src": "assets/highlights/s2p-Smni5YBuPmo-w0/var.mp3",
+          "levels": {
+            "integrated_lufs": -15.95,
+            "true_peak_dbtp": -2.23
+          }
+        },
+        "base": {
+          "label": "Base",
+          "src": "assets/highlights/s2p-Smni5YBuPmo-w0/base.mp3",
+          "levels": {
+            "integrated_lufs": -15.96,
+            "true_peak_dbtp": -2.16
+          }
+        },
+        "rule": {
+          "label": "RDA",
+          "src": "assets/highlights/s2p-Smni5YBuPmo-w0/rule.mp3",
+          "levels": {
+            "integrated_lufs": -16.0,
+            "true_peak_dbtp": -2.28
+          }
+        },
+        "muse": {
+          "label": "MuseControlLite",
+          "src": "assets/highlights/s2p-Smni5YBuPmo-w0/muse.mp3",
+          "levels": {
+            "integrated_lufs": -16.04,
+            "true_peak_dbtp": -2.16
+          }
+        },
+        "ace": {
+          "label": "ACE-Step",
+          "src": "assets/highlights/s2p-Smni5YBuPmo-w0/ace.mp3",
+          "levels": {
+            "integrated_lufs": -15.9,
+            "true_peak_dbtp": -2.23
+          }
+        }
+      }
+    },
+    {
+      "key": "BfTtpCl4APM_w0",
+      "item_id": "BfTtpCl4APM",
+      "window": 0,
+      "group": "sing2piano",
+      "references": {
+        "piano": {
+          "label": "Piano input (cover on YouTube)",
+          "video_id": "BfTtpCl4APM",
+          "start": 57.134,
+          "seconds": 30.0,
+          "embeddable": false
+        },
+        "song": {
+          "label": "Original song, with vocals (YouTube)",
+          "video_id": "5X-8hcTwJ40",
+          "start": 56.547,
+          "seconds": 30.0,
+          "embeddable": true,
+          "alignment": "automatic"
+        }
+      },
+      "tracks": {
+        "pico": {
+          "label": "PiCo",
+          "src": "assets/highlights/s2p-BfTtpCl4APM-w0/pico.mp3",
+          "levels": {
+            "integrated_lufs": -15.96,
+            "true_peak_dbtp": -1.88
+          }
+        },
+        "var": {
+          "label": "FST",
+          "src": "assets/highlights/s2p-BfTtpCl4APM-w0/var.mp3",
+          "levels": {
+            "integrated_lufs": -15.94,
+            "true_peak_dbtp": -1.86
+          }
+        },
+        "base": {
+          "label": "Base",
+          "src": "assets/highlights/s2p-BfTtpCl4APM-w0/base.mp3",
+          "levels": {
+            "integrated_lufs": -15.92,
+            "true_peak_dbtp": -1.74
+          }
+        },
+        "rule": {
+          "label": "RDA",
+          "src": "assets/highlights/s2p-BfTtpCl4APM-w0/rule.mp3",
+          "levels": {
+            "integrated_lufs": -15.93,
+            "true_peak_dbtp": -2.21
+          }
+        },
+        "muse": {
+          "label": "MuseControlLite",
+          "src": "assets/highlights/s2p-BfTtpCl4APM-w0/muse.mp3",
+          "levels": {
+            "integrated_lufs": -15.97,
+            "true_peak_dbtp": -2.23
+          }
+        },
+        "ace": {
+          "label": "ACE-Step",
+          "src": "assets/highlights/s2p-BfTtpCl4APM-w0/ace.mp3",
+          "levels": {
+            "integrated_lufs": -16.0,
+            "true_peak_dbtp": -4.35
+          }
+        }
+      }
+    },
+    {
+      "key": "iFQRLKxvhR0_w0",
+      "item_id": "iFQRLKxvhR0",
+      "window": 0,
+      "group": "sing2piano",
+      "references": {
+        "piano": {
+          "label": "Piano input (cover on YouTube)",
+          "video_id": "iFQRLKxvhR0",
+          "start": 46.133,
+          "seconds": 30.0,
+          "embeddable": false
+        },
+        "song": {
+          "label": "Original song, with vocals (YouTube)",
+          "video_id": "t3zqFusFXis",
+          "start": 46.505,
+          "seconds": 30.0,
+          "embeddable": true,
+          "alignment": "automatic"
+        }
+      },
+      "tracks": {
+        "pico": {
+          "label": "PiCo",
+          "src": "assets/highlights/s2p-iFQRLKxvhR0-w0/pico.mp3",
+          "levels": {
+            "integrated_lufs": -16.09,
+            "true_peak_dbtp": -1.47
+          }
+        },
+        "var": {
+          "label": "FST",
+          "src": "assets/highlights/s2p-iFQRLKxvhR0-w0/var.mp3",
+          "levels": {
+            "integrated_lufs": -16.03,
+            "true_peak_dbtp": -2.17
+          }
+        },
+        "base": {
+          "label": "Base",
+          "src": "assets/highlights/s2p-iFQRLKxvhR0-w0/base.mp3",
+          "levels": {
+            "integrated_lufs": -16.03,
+            "true_peak_dbtp": -2.25
+          }
+        },
+        "rule": {
+          "label": "RDA",
+          "src": "assets/highlights/s2p-iFQRLKxvhR0-w0/rule.mp3",
+          "levels": {
+            "integrated_lufs": -16.06,
+            "true_peak_dbtp": -2.16
+          }
+        },
+        "muse": {
+          "label": "MuseControlLite",
+          "src": "assets/highlights/s2p-iFQRLKxvhR0-w0/muse.mp3",
+          "levels": {
+            "integrated_lufs": -16.08,
+            "true_peak_dbtp": -2.2
+          }
+        },
+        "ace": {
+          "label": "ACE-Step",
+          "src": "assets/highlights/s2p-iFQRLKxvhR0-w0/ace.mp3",
+          "levels": {
+            "integrated_lufs": -15.99,
+            "true_peak_dbtp": -2.53
+          }
+        }
+      }
+    },
+    {
+      "key": "AxquQF31qbg_w0",
+      "item_id": "AxquQF31qbg",
+      "window": 0,
+      "group": "sing2piano",
+      "references": {
+        "piano": {
+          "label": "Piano input (cover on YouTube)",
+          "video_id": "AxquQF31qbg",
+          "start": 109.08,
+          "seconds": 30.0,
+          "embeddable": false
+        },
+        "song": {
+          "label": "Original song, with vocals (YouTube)",
+          "video_id": "F9K5IS-inHs",
+          "start": 108.643,
+          "seconds": 30.0,
+          "embeddable": true,
+          "alignment": "automatic"
+        }
+      },
+      "tracks": {
+        "pico": {
+          "label": "PiCo",
+          "src": "assets/highlights/s2p-AxquQF31qbg-w0/pico.mp3",
+          "levels": {
+            "integrated_lufs": -16.01,
+            "true_peak_dbtp": -2.37
+          }
+        },
+        "var": {
+          "label": "FST",
+          "src": "assets/highlights/s2p-AxquQF31qbg-w0/var.mp3",
+          "levels": {
+            "integrated_lufs": -16.02,
+            "true_peak_dbtp": -2.26
+          }
+        },
+        "base": {
+          "label": "Base",
+          "src": "assets/highlights/s2p-AxquQF31qbg-w0/base.mp3",
+          "levels": {
+            "integrated_lufs": -16.0,
+            "true_peak_dbtp": -3.41
+          }
+        },
+        "rule": {
+          "label": "RDA",
+          "src": "assets/highlights/s2p-AxquQF31qbg-w0/rule.mp3",
+          "levels": {
+            "integrated_lufs": -16.0,
+            "true_peak_dbtp": -2.63
+          }
+        },
+        "muse": {
+          "label": "MuseControlLite",
+          "src": "assets/highlights/s2p-AxquQF31qbg-w0/muse.mp3",
+          "levels": {
+            "integrated_lufs": -16.0,
+            "true_peak_dbtp": -2.53
+          }
+        },
+        "ace": {
+          "label": "ACE-Step",
+          "src": "assets/highlights/s2p-AxquQF31qbg-w0/ace.mp3",
+          "levels": {
+            "integrated_lufs": -16.06,
+            "true_peak_dbtp": -2.95
+          }
+        }
+      }
+    },
+    {
+      "key": "b385LhjODes_w0",
+      "item_id": "b385LhjODes",
+      "window": 0,
+      "group": "sing2piano",
+      "references": {
+        "piano": {
+          "label": "Piano input (cover on YouTube)",
+          "video_id": "b385LhjODes",
+          "start": 186.419,
+          "seconds": 30.0,
+          "embeddable": false
+        },
+        "song": {
+          "label": "Original song, with vocals (YouTube)",
+          "video_id": "HeOpRzcqKrE",
+          "start": 185.989,
+          "seconds": 30.0,
+          "embeddable": true,
+          "alignment": "automatic"
+        }
+      },
+      "tracks": {
+        "pico": {
+          "label": "PiCo",
+          "src": "assets/highlights/s2p-b385LhjODes-w0/pico.mp3",
+          "levels": {
+            "integrated_lufs": -16.0,
+            "true_peak_dbtp": -2.21
+          }
+        },
+        "var": {
+          "label": "FST",
+          "src": "assets/highlights/s2p-b385LhjODes-w0/var.mp3",
+          "levels": {
+            "integrated_lufs": -16.05,
+            "true_peak_dbtp": -2.23
+          }
+        },
+        "base": {
+          "label": "Base",
+          "src": "assets/highlights/s2p-b385LhjODes-w0/base.mp3",
+          "levels": {
+            "integrated_lufs": -16.05,
+            "true_peak_dbtp": -1.97
+          }
+        },
+        "rule": {
+          "label": "RDA",
+          "src": "assets/highlights/s2p-b385LhjODes-w0/rule.mp3",
+          "levels": {
+            "integrated_lufs": -16.1,
+            "true_peak_dbtp": -2.09
+          }
+        },
+        "muse": {
+          "label": "MuseControlLite",
+          "src": "assets/highlights/s2p-b385LhjODes-w0/muse.mp3",
+          "levels": {
+            "integrated_lufs": -16.0,
+            "true_peak_dbtp": -2.25
+          }
+        },
+        "ace": {
+          "label": "ACE-Step",
+          "src": "assets/highlights/s2p-b385LhjODes-w0/ace.mp3",
+          "levels": {
+            "integrated_lufs": -16.0,
+            "true_peak_dbtp": -4.29
           }
         }
       }

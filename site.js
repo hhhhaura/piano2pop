@@ -162,7 +162,6 @@
       if (showComments && sample.comment) {
         const details = document.createElement("details");
         details.className = "listening-comment";
-        details.open = true;
         const summary = document.createElement("summary");
         summary.textContent = "Authors’ listening comment";
         const comment = document.createElement("p");

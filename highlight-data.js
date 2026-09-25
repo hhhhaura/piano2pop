@@ -29,7 +29,6 @@ window.LISTENING_SAMPLES = {
     "44Zk43pOhsk_w0",
     "5nFoJF5xn7U_w0",
     "AQ40Mw7flaI_w0",
-    "Smni5YBuPmo_w0",
     "BfTtpCl4APM_w0",
     "iFQRLKxvhR0_w0",
     "AxquQF31qbg_w0",

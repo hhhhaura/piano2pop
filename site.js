@@ -85,7 +85,7 @@
   const GROUPS = {
     karaokeys: {
       title: "KaraoKeysPH covers",
-      note: "Every KaraoKeysPH song in the 476-song evaluation panel, hand-picked highlights first.",
+      note: "Every KaraoKeysPH song in the 476-song evaluation panel, hand-picked samples first.",
     },
     sing2piano: {
       title: "Sing2Piano covers",
@@ -93,11 +93,11 @@
     },
   };
 
-  function render(root, samples, order, showComments) {
+  function render(root, samples, order, showComments, grouped = true) {
     let group = null;
     let count = 0;
     for (const sample of samples) {
-      if (sample.group !== group) {
+      if (grouped && sample.group !== group) {
         group = sample.group;
         const heading = document.createElement("h3");
         heading.className = "group-title";
@@ -157,7 +157,9 @@
     }
   }
   const samples = window.LISTENING_SAMPLES.samples;
-  render(document.getElementById("highlight-samples"), samples, ["pico", "muse", "ace"], false);
+  const byKey = new Map(samples.map(sample => [sample.key, sample]));
+  const chosen = window.LISTENING_SAMPLES.baseline_samples.map(key => byKey.get(key));
+  render(document.getElementById("highlight-samples"), chosen, ["pico", "muse", "ace"], false, false);
   render(document.getElementById("comparison-samples"), samples,
     ["base", "var", "rule", "pico"], true);
 
@@ -214,12 +216,14 @@
   }
 
   function selectCollection() {
-    const selected = ["highlights", "system-comparison", "detailed"]
-      .includes(window.location.hash.slice(1)) ? window.location.hash.slice(1) : "highlights";
-    for (const section of ["highlights", "system-comparison", "detailed"]) {
+    const sections = ["samples", "system-comparison", "detailed"];
+    // `#highlights` was this tab's earlier name; old links still land on it.
+    const hash = window.location.hash.slice(1) === "highlights" ? "samples" : window.location.hash.slice(1);
+    const selected = sections.includes(hash) ? hash : "samples";
+    for (const section of sections) {
       document.getElementById(section).hidden = section !== selected;
     }
-    for (const [id, active] of [["highlights-tab", selected === "highlights"],
+    for (const [id, active] of [["samples-tab", selected === "samples"],
       ["comparison-tab", selected === "system-comparison"],
       ["detailed-tab", selected === "detailed"]]) {
       const tab = document.getElementById(id);

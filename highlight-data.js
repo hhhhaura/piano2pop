@@ -1,8 +1,23 @@
 window.LISTENING_SAMPLES = {
-  "selection": "Every KaraoKeysPH song in the 476-song panel (hand-picked highlights first), then Sing2Piano highlights; not a user-study result",
+  "selection": "Comparison tab: every KaraoKeysPH song in the 476-song panel, then three Sing2Piano songs. Baseline tab: the samples in samples-order.json.",
   "text_prompt": "instrumental, no vocals",
+  "baseline_samples": [
+    "937Kdm-ZnZI_w4",
+    "AqBlCKOlOrg_w4",
+    "2NFCXSbkcxE_w2",
+    "01JA7Gj_9lM_w0",
+    "10tvIZmPIfs_w0",
+    "3H8Thzn9ULY_w0",
+    "44Zk43pOhsk_w0",
+    "5nFoJF5xn7U_w0",
+    "8Tia6k0moDE_w0",
+    "8inWxyeHzuQ_w0",
+    "8osR4JxQ1dQ_w0",
+    "C1rTnN2CFoc_w0"
+  ],
   "samples": [
     {
+      "key": "937Kdm-ZnZI_w4",
       "item_id": "937Kdm-ZnZI",
       "window": 4,
       "group": "karaokeys",
@@ -20,7 +35,7 @@ window.LISTENING_SAMPLES = {
           "start": 76.249,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -76,6 +91,7 @@ window.LISTENING_SAMPLES = {
       "comment": "A pleasing example with clearly audible differences in quality between the systems."
     },
     {
+      "key": "AqBlCKOlOrg_w4",
       "item_id": "AqBlCKOlOrg",
       "window": 4,
       "group": "karaokeys",
@@ -93,7 +109,7 @@ window.LISTENING_SAMPLES = {
           "start": 145.573,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -149,6 +165,7 @@ window.LISTENING_SAMPLES = {
       "comment": "A pleasing example with striking timbres from PiCo, although PiCo's audio quality still leaves room for improvement."
     },
     {
+      "key": "2NFCXSbkcxE_w2",
       "item_id": "2NFCXSbkcxE",
       "window": 2,
       "group": "karaokeys",
@@ -163,10 +180,10 @@ window.LISTENING_SAMPLES = {
         "song": {
           "label": "Original song, with vocals (YouTube)",
           "video_id": "TWH7KrbkDmY",
-          "start": 169.958,
+          "start": 173.0,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -221,6 +238,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "-d-rncF-xH0_w0",
       "item_id": "-d-rncF-xH0",
       "window": 0,
       "group": "karaokeys",
@@ -293,6 +311,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "-uo3JmtXm7E_w0",
       "item_id": "-uo3JmtXm7E",
       "window": 0,
       "group": "karaokeys",
@@ -365,6 +384,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "-vY_3qnrmkg_w0",
       "item_id": "-vY_3qnrmkg",
       "window": 0,
       "group": "karaokeys",
@@ -437,6 +457,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "01JA7Gj_9lM_w0",
       "item_id": "01JA7Gj_9lM",
       "window": 0,
       "group": "karaokeys",
@@ -454,7 +475,7 @@ window.LISTENING_SAMPLES = {
           "start": 101.322,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -509,6 +530,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "0THo2R6cLks_w0",
       "item_id": "0THo2R6cLks",
       "window": 0,
       "group": "karaokeys",
@@ -581,6 +603,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "10tvIZmPIfs_w0",
       "item_id": "10tvIZmPIfs",
       "window": 0,
       "group": "karaokeys",
@@ -598,7 +621,7 @@ window.LISTENING_SAMPLES = {
           "start": 67.427,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -653,6 +676,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "2xbW1Kl4h9A_w0",
       "item_id": "2xbW1Kl4h9A",
       "window": 0,
       "group": "karaokeys",
@@ -725,6 +749,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "3H8Thzn9ULY_w0",
       "item_id": "3H8Thzn9ULY",
       "window": 0,
       "group": "karaokeys",
@@ -739,10 +764,10 @@ window.LISTENING_SAMPLES = {
         "song": {
           "label": "Original song, with vocals (YouTube)",
           "video_id": "vXXW_1NUpYo",
-          "start": 123.089,
+          "start": 127.0,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -797,6 +822,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "3oVHWBxdCqk_w0",
       "item_id": "3oVHWBxdCqk",
       "window": 0,
       "group": "karaokeys",
@@ -869,6 +895,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "44Zk43pOhsk_w0",
       "item_id": "44Zk43pOhsk",
       "window": 0,
       "group": "karaokeys",
@@ -883,10 +910,10 @@ window.LISTENING_SAMPLES = {
         "song": {
           "label": "Original song, with vocals (YouTube)",
           "video_id": "98zHKN-xSHk",
-          "start": 114.473,
+          "start": 105.0,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -941,6 +968,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "4NOJc2Cu4so_w0",
       "item_id": "4NOJc2Cu4so",
       "window": 0,
       "group": "karaokeys",
@@ -1013,6 +1041,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "592rZj6ax8E_w0",
       "item_id": "592rZj6ax8E",
       "window": 0,
       "group": "karaokeys",
@@ -1085,6 +1114,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "5Z_oP_YELv8_w0",
       "item_id": "5Z_oP_YELv8",
       "window": 0,
       "group": "karaokeys",
@@ -1157,6 +1187,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "5nFoJF5xn7U_w0",
       "item_id": "5nFoJF5xn7U",
       "window": 0,
       "group": "karaokeys",
@@ -1174,7 +1205,7 @@ window.LISTENING_SAMPLES = {
           "start": 25.93,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -1229,6 +1260,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "71JOWP5jX_8_w0",
       "item_id": "71JOWP5jX_8",
       "window": 0,
       "group": "karaokeys",
@@ -1301,6 +1333,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "7qYOTcFg5Qg_w0",
       "item_id": "7qYOTcFg5Qg",
       "window": 0,
       "group": "karaokeys",
@@ -1373,6 +1406,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "8Tia6k0moDE_w0",
       "item_id": "8Tia6k0moDE",
       "window": 0,
       "group": "karaokeys",
@@ -1390,7 +1424,7 @@ window.LISTENING_SAMPLES = {
           "start": 7.856,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -1445,6 +1479,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "8inWxyeHzuQ_w0",
       "item_id": "8inWxyeHzuQ",
       "window": 0,
       "group": "karaokeys",
@@ -1462,7 +1497,7 @@ window.LISTENING_SAMPLES = {
           "start": 142.979,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -1517,6 +1552,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "8irAnD6zQ00_w0",
       "item_id": "8irAnD6zQ00",
       "window": 0,
       "group": "karaokeys",
@@ -1589,6 +1625,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "8kQr0xCASGI_w0",
       "item_id": "8kQr0xCASGI",
       "window": 0,
       "group": "karaokeys",
@@ -1661,6 +1698,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "8osR4JxQ1dQ_w0",
       "item_id": "8osR4JxQ1dQ",
       "window": 0,
       "group": "karaokeys",
@@ -1675,10 +1713,10 @@ window.LISTENING_SAMPLES = {
         "song": {
           "label": "Original song, with vocals (YouTube)",
           "video_id": "PxH3skG_UII",
-          "start": 118.748,
+          "start": 127.0,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -1733,6 +1771,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "8v8uIb1G3qM_w0",
       "item_id": "8v8uIb1G3qM",
       "window": 0,
       "group": "karaokeys",
@@ -1805,6 +1844,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "9jIvWp8Qmoc_w0",
       "item_id": "9jIvWp8Qmoc",
       "window": 0,
       "group": "karaokeys",
@@ -1877,6 +1917,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "AQ40Mw7flaI_w0",
       "item_id": "AQ40Mw7flaI",
       "window": 0,
       "group": "karaokeys",
@@ -1949,6 +1990,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "C1rTnN2CFoc_w0",
       "item_id": "C1rTnN2CFoc",
       "window": 0,
       "group": "karaokeys",
@@ -1963,10 +2005,10 @@ window.LISTENING_SAMPLES = {
         "song": {
           "label": "Original song, with vocals (YouTube)",
           "video_id": "-YUH8Xfz-jg",
-          "start": 129.68,
+          "start": 130.0,
           "seconds": 30.0,
           "embeddable": true,
-          "alignment": "automatic"
+          "alignment": "manual"
         }
       },
       "tracks": {
@@ -2021,6 +2063,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "CZHMkn8-dGs_w0",
       "item_id": "CZHMkn8-dGs",
       "window": 0,
       "group": "karaokeys",
@@ -2093,6 +2136,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "CnU5jHHfPec_w0",
       "item_id": "CnU5jHHfPec",
       "window": 0,
       "group": "karaokeys",
@@ -2165,6 +2209,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "D7sU4P89AS8_w0",
       "item_id": "D7sU4P89AS8",
       "window": 0,
       "group": "karaokeys",
@@ -2237,6 +2282,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "DcJqktS6il0_w0",
       "item_id": "DcJqktS6il0",
       "window": 0,
       "group": "karaokeys",
@@ -2309,6 +2355,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "EGhf9gb_9Z0_w0",
       "item_id": "EGhf9gb_9Z0",
       "window": 0,
       "group": "karaokeys",
@@ -2381,6 +2428,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "EvnjZxNDWBM_w0",
       "item_id": "EvnjZxNDWBM",
       "window": 0,
       "group": "karaokeys",
@@ -2453,6 +2501,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "GdWfVUZ5bqQ_w0",
       "item_id": "GdWfVUZ5bqQ",
       "window": 0,
       "group": "karaokeys",
@@ -2525,6 +2574,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "HP3ZDGPGHRE_w0",
       "item_id": "HP3ZDGPGHRE",
       "window": 0,
       "group": "karaokeys",
@@ -2597,6 +2647,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "I6SZqQuGejQ_w0",
       "item_id": "I6SZqQuGejQ",
       "window": 0,
       "group": "karaokeys",
@@ -2669,6 +2720,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "IU9DiBrFut8_w0",
       "item_id": "IU9DiBrFut8",
       "window": 0,
       "group": "karaokeys",
@@ -2741,6 +2793,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "J1W9C8Br264_w0",
       "item_id": "J1W9C8Br264",
       "window": 0,
       "group": "karaokeys",
@@ -2813,6 +2866,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "J81Bkcb0reo_w0",
       "item_id": "J81Bkcb0reo",
       "window": 0,
       "group": "karaokeys",
@@ -2885,6 +2939,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "J9GPKZR9zfs_w0",
       "item_id": "J9GPKZR9zfs",
       "window": 0,
       "group": "karaokeys",
@@ -2957,6 +3012,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "JEl4b0EOWE4_w0",
       "item_id": "JEl4b0EOWE4",
       "window": 0,
       "group": "karaokeys",
@@ -3029,6 +3085,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "JcxZL1ahvrM_w0",
       "item_id": "JcxZL1ahvrM",
       "window": 0,
       "group": "karaokeys",
@@ -3101,6 +3158,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "KRy_F4U6DY8_w0",
       "item_id": "KRy_F4U6DY8",
       "window": 0,
       "group": "karaokeys",
@@ -3173,6 +3231,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "KT6rXMQ2aTQ_w0",
       "item_id": "KT6rXMQ2aTQ",
       "window": 0,
       "group": "karaokeys",
@@ -3245,6 +3304,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "Kau4arbVuHc_w0",
       "item_id": "Kau4arbVuHc",
       "window": 0,
       "group": "karaokeys",
@@ -3317,6 +3377,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "KyLQum3nQoI_w0",
       "item_id": "KyLQum3nQoI",
       "window": 0,
       "group": "karaokeys",
@@ -3389,6 +3450,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "LCpnlaBDayc_w0",
       "item_id": "LCpnlaBDayc",
       "window": 0,
       "group": "karaokeys",
@@ -3461,6 +3523,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "LHUZSTvWc64_w0",
       "item_id": "LHUZSTvWc64",
       "window": 0,
       "group": "karaokeys",
@@ -3533,6 +3596,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "LwbxGdcSbx8_w0",
       "item_id": "LwbxGdcSbx8",
       "window": 0,
       "group": "karaokeys",
@@ -3605,6 +3669,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "M6Cx2J-mDz8_w0",
       "item_id": "M6Cx2J-mDz8",
       "window": 0,
       "group": "karaokeys",
@@ -3677,6 +3742,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "MKmBlRmD43c_w0",
       "item_id": "MKmBlRmD43c",
       "window": 0,
       "group": "karaokeys",
@@ -3749,6 +3815,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "NeACSHzQHsw_w0",
       "item_id": "NeACSHzQHsw",
       "window": 0,
       "group": "karaokeys",
@@ -3821,6 +3888,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "NzKYScIhFeg_w0",
       "item_id": "NzKYScIhFeg",
       "window": 0,
       "group": "karaokeys",
@@ -3893,6 +3961,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "O6ikwUdAJIE_w0",
       "item_id": "O6ikwUdAJIE",
       "window": 0,
       "group": "karaokeys",
@@ -3965,6 +4034,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "P_8J3gOULYU_w0",
       "item_id": "P_8J3gOULYU",
       "window": 0,
       "group": "karaokeys",
@@ -4037,6 +4107,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "PgViCGed7cU_w0",
       "item_id": "PgViCGed7cU",
       "window": 0,
       "group": "karaokeys",
@@ -4109,6 +4180,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "Prpd535UfCo_w0",
       "item_id": "Prpd535UfCo",
       "window": 0,
       "group": "karaokeys",
@@ -4181,6 +4253,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "QAy2Y136OdE_w0",
       "item_id": "QAy2Y136OdE",
       "window": 0,
       "group": "karaokeys",
@@ -4253,6 +4326,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "QujvtG5TQlY_w0",
       "item_id": "QujvtG5TQlY",
       "window": 0,
       "group": "karaokeys",
@@ -4325,6 +4399,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "RrqaAUDyNLo_w0",
       "item_id": "RrqaAUDyNLo",
       "window": 0,
       "group": "karaokeys",
@@ -4397,6 +4472,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "SwZobFjOyx8_w0",
       "item_id": "SwZobFjOyx8",
       "window": 0,
       "group": "karaokeys",
@@ -4469,6 +4545,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "T9D0FbvIDr8_w0",
       "item_id": "T9D0FbvIDr8",
       "window": 0,
       "group": "karaokeys",
@@ -4541,6 +4618,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "TL16Blee88s_w0",
       "item_id": "TL16Blee88s",
       "window": 0,
       "group": "karaokeys",
@@ -4613,6 +4691,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "TWMLxmytVY8_w0",
       "item_id": "TWMLxmytVY8",
       "window": 0,
       "group": "karaokeys",
@@ -4685,6 +4764,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "Tmc6Z9e89N0_w0",
       "item_id": "Tmc6Z9e89N0",
       "window": 0,
       "group": "karaokeys",
@@ -4757,6 +4837,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "UKlWBWTUopE_w0",
       "item_id": "UKlWBWTUopE",
       "window": 0,
       "group": "karaokeys",
@@ -4829,6 +4910,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "UOZDZ2INlzQ_w0",
       "item_id": "UOZDZ2INlzQ",
       "window": 0,
       "group": "karaokeys",
@@ -4901,6 +4983,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "VBd0vbPEsa0_w0",
       "item_id": "VBd0vbPEsa0",
       "window": 0,
       "group": "karaokeys",
@@ -4973,6 +5056,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "VuE4oxYUQTQ_w0",
       "item_id": "VuE4oxYUQTQ",
       "window": 0,
       "group": "karaokeys",
@@ -5045,6 +5129,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "WdL4VWWOcWM_w0",
       "item_id": "WdL4VWWOcWM",
       "window": 0,
       "group": "karaokeys",
@@ -5117,6 +5202,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "XMY7k9l1Q5c_w0",
       "item_id": "XMY7k9l1Q5c",
       "window": 0,
       "group": "karaokeys",
@@ -5189,6 +5275,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "XUpNWNZkllA_w0",
       "item_id": "XUpNWNZkllA",
       "window": 0,
       "group": "karaokeys",
@@ -5261,6 +5348,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "XlXCdIZT2cM_w0",
       "item_id": "XlXCdIZT2cM",
       "window": 0,
       "group": "karaokeys",
@@ -5333,6 +5421,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "Y5u9HPvSKBQ_w0",
       "item_id": "Y5u9HPvSKBQ",
       "window": 0,
       "group": "karaokeys",
@@ -5405,6 +5494,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "ZBMKVgsDzAs_w0",
       "item_id": "ZBMKVgsDzAs",
       "window": 0,
       "group": "karaokeys",
@@ -5477,6 +5567,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "ZNSrPFtLii0_w0",
       "item_id": "ZNSrPFtLii0",
       "window": 0,
       "group": "karaokeys",
@@ -5549,6 +5640,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "ZP1OIZ27FWY_w0",
       "item_id": "ZP1OIZ27FWY",
       "window": 0,
       "group": "karaokeys",
@@ -5621,6 +5713,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "ZQ8LGEXBLUg_w0",
       "item_id": "ZQ8LGEXBLUg",
       "window": 0,
       "group": "karaokeys",
@@ -5693,6 +5786,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "aIkj0-O6cFg_w0",
       "item_id": "aIkj0-O6cFg",
       "window": 0,
       "group": "karaokeys",
@@ -5765,6 +5859,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "c2Po_MYwYno_w0",
       "item_id": "c2Po_MYwYno",
       "window": 0,
       "group": "karaokeys",
@@ -5837,6 +5932,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "eUsb0lmeGm4_w0",
       "item_id": "eUsb0lmeGm4",
       "window": 0,
       "group": "karaokeys",
@@ -5909,6 +6005,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "f5TCvWJfTlw_w0",
       "item_id": "f5TCvWJfTlw",
       "window": 0,
       "group": "karaokeys",
@@ -5981,6 +6078,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "fdMGQNiIwvU_w0",
       "item_id": "fdMGQNiIwvU",
       "window": 0,
       "group": "karaokeys",
@@ -6053,6 +6151,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "fkn2jHQngoo_w0",
       "item_id": "fkn2jHQngoo",
       "window": 0,
       "group": "karaokeys",
@@ -6125,6 +6224,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "gg4RqNUYcK0_w0",
       "item_id": "gg4RqNUYcK0",
       "window": 0,
       "group": "karaokeys",
@@ -6197,6 +6297,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "hbokRw0LNnA_w0",
       "item_id": "hbokRw0LNnA",
       "window": 0,
       "group": "karaokeys",
@@ -6269,6 +6370,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "i30GvL-21Js_w0",
       "item_id": "i30GvL-21Js",
       "window": 0,
       "group": "karaokeys",
@@ -6341,6 +6443,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "iITQTizcYAI_w0",
       "item_id": "iITQTizcYAI",
       "window": 0,
       "group": "karaokeys",
@@ -6413,6 +6516,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "ice7he6pkC0_w0",
       "item_id": "ice7he6pkC0",
       "window": 0,
       "group": "karaokeys",
@@ -6485,6 +6589,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "je53yi8LeHA_w0",
       "item_id": "je53yi8LeHA",
       "window": 0,
       "group": "karaokeys",
@@ -6557,6 +6662,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "kSEQAx-1ucg_w0",
       "item_id": "kSEQAx-1ucg",
       "window": 0,
       "group": "karaokeys",
@@ -6629,6 +6735,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "kUvjjpubHVc_w0",
       "item_id": "kUvjjpubHVc",
       "window": 0,
       "group": "karaokeys",
@@ -6701,6 +6808,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "nRDLbls0Qkw_w0",
       "item_id": "nRDLbls0Qkw",
       "window": 0,
       "group": "karaokeys",
@@ -6773,6 +6881,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "oMne-2NgsW0_w0",
       "item_id": "oMne-2NgsW0",
       "window": 0,
       "group": "karaokeys",
@@ -6845,6 +6954,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "onAh4b0XMO4_w0",
       "item_id": "onAh4b0XMO4",
       "window": 0,
       "group": "karaokeys",
@@ -6917,6 +7027,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "pErWFmY0VVs_w0",
       "item_id": "pErWFmY0VVs",
       "window": 0,
       "group": "karaokeys",
@@ -6989,6 +7100,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "pO52ZptusIU_w0",
       "item_id": "pO52ZptusIU",
       "window": 0,
       "group": "karaokeys",
@@ -7061,6 +7173,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "pXMjx2AOrAo_w0",
       "item_id": "pXMjx2AOrAo",
       "window": 0,
       "group": "karaokeys",
@@ -7133,6 +7246,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "pqpgQnwI1e8_w0",
       "item_id": "pqpgQnwI1e8",
       "window": 0,
       "group": "karaokeys",
@@ -7205,6 +7319,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "qMDqCgfnJvw_w0",
       "item_id": "qMDqCgfnJvw",
       "window": 0,
       "group": "karaokeys",
@@ -7277,6 +7392,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "qi8plO42onE_w0",
       "item_id": "qi8plO42onE",
       "window": 0,
       "group": "karaokeys",
@@ -7349,6 +7465,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "qiA0x0JzgdA_w0",
       "item_id": "qiA0x0JzgdA",
       "window": 0,
       "group": "karaokeys",
@@ -7421,6 +7538,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "rVL8hoR_Jlo_w0",
       "item_id": "rVL8hoR_Jlo",
       "window": 0,
       "group": "karaokeys",
@@ -7493,6 +7611,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "rqvzsUbFyfo_w0",
       "item_id": "rqvzsUbFyfo",
       "window": 0,
       "group": "karaokeys",
@@ -7565,6 +7684,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "sIqOlYO1d6A_w0",
       "item_id": "sIqOlYO1d6A",
       "window": 0,
       "group": "karaokeys",
@@ -7637,6 +7757,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "sJjTK7Q-Abc_w0",
       "item_id": "sJjTK7Q-Abc",
       "window": 0,
       "group": "karaokeys",
@@ -7709,6 +7830,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "salA57uYcxY_w0",
       "item_id": "salA57uYcxY",
       "window": 0,
       "group": "karaokeys",
@@ -7781,6 +7903,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "sfXO14l1RSs_w0",
       "item_id": "sfXO14l1RSs",
       "window": 0,
       "group": "karaokeys",
@@ -7853,6 +7976,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "sz-JbTfbAkI_w0",
       "item_id": "sz-JbTfbAkI",
       "window": 0,
       "group": "karaokeys",
@@ -7925,6 +8049,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "wWZr_Qya7rU_w0",
       "item_id": "wWZr_Qya7rU",
       "window": 0,
       "group": "karaokeys",
@@ -7997,6 +8122,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "x2qVsBDTKEU_w0",
       "item_id": "x2qVsBDTKEU",
       "window": 0,
       "group": "karaokeys",
@@ -8069,6 +8195,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "x9aKalTFqdc_w0",
       "item_id": "x9aKalTFqdc",
       "window": 0,
       "group": "karaokeys",
@@ -8141,6 +8268,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "xiQJ8veqywY_w0",
       "item_id": "xiQJ8veqywY",
       "window": 0,
       "group": "karaokeys",
@@ -8213,6 +8341,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "y4QOkL9uDT4_w0",
       "item_id": "y4QOkL9uDT4",
       "window": 0,
       "group": "karaokeys",
@@ -8285,6 +8414,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "yOi1daBHpTM_w0",
       "item_id": "yOi1daBHpTM",
       "window": 0,
       "group": "karaokeys",
@@ -8357,6 +8487,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "zX7jcYJrmHk_w0",
       "item_id": "zX7jcYJrmHk",
       "window": 0,
       "group": "karaokeys",
@@ -8429,6 +8560,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "zleHmDMI9ZU_w0",
       "item_id": "zleHmDMI9ZU",
       "window": 0,
       "group": "karaokeys",
@@ -8501,6 +8633,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "zne6gHN2YH4_w0",
       "item_id": "zne6gHN2YH4",
       "window": 0,
       "group": "karaokeys",
@@ -8573,6 +8706,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "zzVltq86hJE_w0",
       "item_id": "zzVltq86hJE",
       "window": 0,
       "group": "karaokeys",
@@ -8645,6 +8779,7 @@ window.LISTENING_SAMPLES = {
       }
     },
     {
+      "key": "dTZJ5YLslXA_w4",
       "item_id": "dTZJ5YLslXA",
       "window": 4,
       "group": "sing2piano",
@@ -8718,6 +8853,7 @@ window.LISTENING_SAMPLES = {
       "comment": "We find this a pleasing example overall."
     },
     {
+      "key": "zf-KVaOvPTM_w1",
       "item_id": "zf-KVaOvPTM",
       "window": 1,
       "group": "sing2piano",
@@ -8791,6 +8927,7 @@ window.LISTENING_SAMPLES = {
       "comment": "Base remains almost entirely piano, while PiCo produces a particularly strong result."
     },
     {
+      "key": "-sS1aUJrZxE_w2",
       "item_id": "-sS1aUJrZxE",
       "window": 2,
       "group": "sing2piano",

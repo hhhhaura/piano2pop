@@ -16,6 +16,10 @@ window.LISTENING_SAMPLES = {
     "C1rTnN2CFoc_w0"
   ],
   "comparison_samples": [
+    "8kQr0xCASGI_w0",
+    "J81Bkcb0reo_w0",
+    "dTZJ5YLslXA_w4",
+    "-sS1aUJrZxE_w2",
     "-d-rncF-xH0_w0",
     "-uo3JmtXm7E_w0",
     "-vY_3qnrmkg_w0",
@@ -25,10 +29,6 @@ window.LISTENING_SAMPLES = {
     "44Zk43pOhsk_w0",
     "5nFoJF5xn7U_w0",
     "AQ40Mw7flaI_w0",
-    "8kQr0xCASGI_w0",
-    "J81Bkcb0reo_w0",
-    "dTZJ5YLslXA_w4",
-    "-sS1aUJrZxE_w2",
     "2NFCXSbkcxE_w2",
     "592rZj6ax8E_w0",
     "8irAnD6zQ00_w0",

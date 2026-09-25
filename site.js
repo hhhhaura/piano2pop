@@ -93,7 +93,19 @@
     },
   };
 
-  function render(root, samples, order, showComments, grouped = true) {
+  function pianoLink(ref) {
+    const line = document.createElement("p");
+    line.className = "piano-link";
+    const link = document.createElement("a");
+    link.href = `https://www.youtube.com/watch?v=${ref.video_id}&t=${Math.floor(ref.start)}s`;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = `Piano input: open the cover on YouTube at ${clock(ref.start)} ↗`;
+    line.append(link);
+    return line;
+  }
+
+  function render(root, samples, order, showComments, grouped = true, embedded = true) {
     let group = null;
     let count = 0;
     for (const sample of samples) {
@@ -118,12 +130,16 @@
       identifier.textContent = `${sample.item_id} · Window ${sample.window}`;
       article.append(title, identifier);
 
-      const refs = document.createElement("div");
-      refs.className = "references";
-      for (const key of ["piano", "song"]) {
-        refs.append(reference(sample.references[key], title.textContent));
+      if (embedded) {
+        const refs = document.createElement("div");
+        refs.className = "references";
+        for (const key of ["piano", "song"]) {
+          refs.append(reference(sample.references[key], title.textContent));
+        }
+        article.append(refs);
+      } else {
+        article.append(pianoLink(sample.references.piano));
       }
-      article.append(refs);
 
       const tracks = document.createElement("div");
       tracks.className = "tracks";
@@ -146,6 +162,7 @@
       if (showComments && sample.comment) {
         const details = document.createElement("details");
         details.className = "listening-comment";
+        details.open = true;
         const summary = document.createElement("summary");
         summary.textContent = "Authors’ listening comment";
         const comment = document.createElement("p");
@@ -160,8 +177,9 @@
   const byKey = new Map(samples.map(sample => [sample.key, sample]));
   const chosen = window.LISTENING_SAMPLES.baseline_samples.map(key => byKey.get(key));
   render(document.getElementById("highlight-samples"), chosen, ["pico", "muse", "ace"], false, false);
-  render(document.getElementById("comparison-samples"), samples,
-    ["base", "var", "rule", "pico"], true);
+  const compared = window.LISTENING_SAMPLES.comparison_samples.map(key => byKey.get(key));
+  render(document.getElementById("comparison-samples"), compared,
+    ["base", "var", "rule", "pico"], true, false, false);
 
   function makeTable(root, headers, rows) {
     const head = document.createElement("thead");

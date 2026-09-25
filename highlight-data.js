@@ -15,6 +15,27 @@ window.LISTENING_SAMPLES = {
     "8osR4JxQ1dQ_w0",
     "C1rTnN2CFoc_w0"
   ],
+  "comparison_samples": [
+    "-d-rncF-xH0_w0",
+    "-uo3JmtXm7E_w0",
+    "-vY_3qnrmkg_w0",
+    "01JA7Gj_9lM_w0",
+    "3H8Thzn9ULY_w0",
+    "3oVHWBxdCqk_w0",
+    "44Zk43pOhsk_w0",
+    "5nFoJF5xn7U_w0",
+    "AQ40Mw7flaI_w0",
+    "8kQr0xCASGI_w0",
+    "J81Bkcb0reo_w0",
+    "dTZJ5YLslXA_w4",
+    "-sS1aUJrZxE_w2",
+    "2NFCXSbkcxE_w2",
+    "592rZj6ax8E_w0",
+    "8irAnD6zQ00_w0",
+    "EvnjZxNDWBM_w0",
+    "GdWfVUZ5bqQ_w0",
+    "zf-KVaOvPTM_w1"
+  ],
   "samples": [
     {
       "key": "937Kdm-ZnZI_w4",
@@ -308,7 +329,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -2.39
           }
         }
-      }
+      },
+      "comment": "Base and FST differ slightly in the low end."
     },
     {
       "key": "-uo3JmtXm7E_w0",
@@ -381,7 +403,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -2.23
           }
         }
-      }
+      },
+      "comment": "PiCo sounds noticeably fuller across the frequency range."
     },
     {
       "key": "-vY_3qnrmkg_w0",
@@ -454,7 +477,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -2.22
           }
         }
-      }
+      },
+      "comment": "All four systems sound good here."
     },
     {
       "key": "01JA7Gj_9lM_w0",
@@ -527,7 +551,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -3.49
           }
         }
-      }
+      },
+      "comment": "FST adds effects, as it tends to more often than Base. RDA adds some here too, but does not sound as good as FST."
     },
     {
       "key": "0THo2R6cLks_w0",
@@ -819,7 +844,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -2.25
           }
         }
-      }
+      },
+      "comment": "FST has drums where Base and RDA have none, and it is more balanced, with a clear bass."
     },
     {
       "key": "3oVHWBxdCqk_w0",
@@ -892,7 +918,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -2.23
           }
         }
-      }
+      },
+      "comment": "Base and RDA again lack low-frequency content, and PiCo tends to sound less clear (somewhat muddy)."
     },
     {
       "key": "44Zk43pOhsk_w0",
@@ -965,7 +992,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -2.27
           }
         }
-      }
+      },
+      "comment": "As in the previous sample: Base and RDA lack low-frequency content, and PiCo is less clear."
     },
     {
       "key": "4NOJc2Cu4so_w0",
@@ -1257,7 +1285,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -2.24
           }
         }
-      }
+      },
+      "comment": "The drop is most pronounced in FST, then RDA, then Base."
     },
     {
       "key": "71JOWP5jX_8_w0",
@@ -1987,7 +2016,8 @@ window.LISTENING_SAMPLES = {
             "true_peak_dbtp": -2.21
           }
         }
-      }
+      },
+      "comment": "RDA sounds poor here."
     },
     {
       "key": "C1rTnN2CFoc_w0",

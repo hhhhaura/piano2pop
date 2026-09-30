@@ -1,0 +1,12 @@
+# @package _global_
+# Always the original transcription; each segment keeps it unchanged with probability 0.5, or draws
+# function-aware note deletion (0.2) or octave folding (inner-voice 0.2, whole-segment 0.1).
+window:
+  segment_augment: true
+augment:
+  baseline_probability: 1.0
+  picogen_probability: 0.0
+  normal: 0.5
+  chord_thin: 0.2
+  octave_move: 0.2
+  octave_shift: 0.1

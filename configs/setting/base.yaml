@@ -1,0 +1,4 @@
+# @package _global_
+# The original full-instrumental transcription, unchanged.
+window:
+  segment_augment: false

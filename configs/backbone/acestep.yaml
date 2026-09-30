@@ -1,0 +1,4 @@
+# @package _global_
+# The paper's backbone: a full finetune of ACE-Step v1.5 (`finetune:` in config.yaml).
+model:
+  backbone: acestep

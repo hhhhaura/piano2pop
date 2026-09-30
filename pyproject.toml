@@ -1,0 +1,118 @@
+[project]
+name = "p2pa"
+version = "0.1.0"
+description = "Piano2Pop: piano MIDI demos to instrumental pop productions, by fine-tuning ACE-Step v1.5"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  # ACE-Step's checkpoint ships its modelling code (`trust_remote_code`), so its own imports are
+  # this project's dependencies: einops and vector-quantize-pytorch are pulled in by
+  # `modeling_acestep_v15_base.py` at import time even though nothing here calls them directly.
+  "einops>=0.8",
+  "vector-quantize-pytorch>=1.14",
+  "hydra-core>=1.3",
+  "huggingface-hub>=0.34",
+  "mido>=1.3",
+  "numpy>=1.26,<3",
+  "omegaconf>=2.3",
+  # Read by the RSS guard. A training run that quietly swaps the host to death is the failure this
+  # project exists not to repeat, so the dependency is not optional.
+  "psutil>=5.9",
+  "pytorch-lightning>=2.3",
+  "pyyaml>=6",
+  "safetensors>=0.4",
+  "symusic>=0.6.0",
+  "tensorboard>=2.17",
+  # torch and torchaudio are deliberately NOT here. They are in the `cu124` / `cu130` extras
+  # below, because a requirement listed in this table resolves from PyPI before any
+  # `[tool.uv.sources]` extra routing is consulted — which silently defeated the whole mechanism
+  # and locked one CUDA build for both machines.
+  "tqdm>=4.66",
+  # The checkpoint records transformers 4.57.0.dev0 and imports attention internals whose
+  # semantics changed in 5.x. Transformers 5.16 imports successfully but silently turns the
+  # lyric encoder and first DiT attention layer into NaNs.
+  "transformers>=4.57,<4.58",
+  # AutoencoderOobleck — the ACE-Step VAE, needed only to decode latents back to audio.
+  "diffusers>=0.34",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+# The CUDA build, as a choice made at install time rather than a pin in the lockfile. The wheels
+# differ only in which index they come from, so the two extras list the same requirements and
+# `[tool.uv.sources]` below routes them. Exactly one may be installed at a time; `[tool.uv]
+# conflicts` makes uv enforce that rather than letting the second silently overwrite the first.
+#
+#   uv sync --extra dev --extra cu130    # this workstation: Blackwell, driver 580+
+#   uv sync --extra dev --extra cu124    # the cluster: driver ~550, speaks CUDA 12.4
+#
+# Getting this wrong used to fail forty lines into Lightning's accelerator setup, on a node
+# already charged for, as `The NVIDIA driver on your system is too old (found version 12040)`.
+# Floor, not a pin. 2.6 is where `torch.load` defaults to weights_only=True, which is what the
+# ACE-Step checkpoint's own loading path assumes.
+cu124 = ["torch>=2.6", "torchaudio>=2.6"]
+cu130 = ["torch>=2.6", "torchaudio>=2.6"]
+
+[project.scripts]
+p2pa-prep = "p2pa.prepare:main"
+p2pa-prep-text = "p2pa.prompt:main"
+p2pa-train = "p2pa.train:main"
+p2pa-sample = "p2pa.sample:main"
+p2pa-pack = "p2pa.pack:main"
+p2pa-unpack = "p2pa.pack:unpack_main"
+p2pa-corpus-index = "p2pa.corpus_index:main"
+p2pa-corpus-process = "p2pa.corpus_process:main"
+# Relaunch a run from the `resolved_config.yaml` it wrote, so the overrides a run was started with
+# live with the run rather than in whichever shell script happened to launch it.
+p2pa-resume = "p2pa.train:resume_main"
+
+[tool.uv]
+# numpy 2 is what this project's stack is built against; a transitive requirement asking for
+# numpy 1 must not be allowed to drag the whole environment back.
+override-dependencies = ["numpy>=1.26,<3"]
+# Exactly one CUDA build may be installed at a time. Declaring the conflict makes uv enforce that
+# and lock both resolutions, instead of letting a second `--extra` silently overwrite the first.
+conflicts = [[{ extra = "cu124" }, { extra = "cu130" }]]
+
+[tool.uv.sources]
+torch = [
+  { index = "torch-cu124", extra = "cu124" },
+  { index = "torch-cu130", extra = "cu130" },
+]
+torchaudio = [
+  { index = "torch-cu124", extra = "cu124" },
+  { index = "torch-cu130", extra = "cu130" },
+]
+
+# `explicit = true`: these indexes serve *only* the packages routed to them above. Without it uv
+# would consider them for every dependency, and anything mirrored there would come from PyPI or
+# not depending on resolution order.
+[[tool.uv.index]]
+name = "torch-cu124"
+url = "https://download.pytorch.org/whl/cu124"
+explicit = true
+
+[[tool.uv.index]]
+name = "torch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/p2pa"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-m 'not slow'"
+markers = [
+  "slow: builds the real backbone or trains for a few hundred steps",
+]
+
+[tool.ruff]
+line-length = 110
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]

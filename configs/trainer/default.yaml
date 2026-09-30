@@ -1,0 +1,62 @@
+# 500,000 optimizer steps, not epochs: a step budget means the same whatever the batch size. The
+# paper's four systems each ran exactly this, resuming from last.ckpt across wall-clock limits.
+max_steps: 500000
+weight_decay: 1.0e-2
+grad_clip: 1.0
+# A finetune needs a warmup that a from-scratch run does not: the roll encoder's output projection
+# starts at exactly zero and the backbone does not, so the first steps otherwise move the
+# pretrained weights most and the condition least.
+warmup_steps: 500
+precision: bf16-mixed
+accelerator: auto
+# Exactly one GPU. validate_config rejects anything else and explains why: run several settings
+# side by side instead of splitting one across cards.
+devices: [0]
+# On by default. The condition enters at `proj_in`, so the gradient to the roll encoder traverses
+# all 24 layers whether or not the backbone is frozen — freezing saves optimizer and gradient
+# memory, but never activations. This is the only lever that does.
+gradient_checkpointing: true
+log_every_n_steps: 20
+auto_resume: true
+
+val_check_interval: 2000
+limit_val_batches: 40
+# Validation loss is averaged over this many fixed timesteps with a per-item seed, so the monitored
+# metric is deterministic instead of a one-sample estimate of an expectation. Sixteen finetunes of
+# one base model sit close enough together that a noisy metric makes top-k selection near-random.
+val_timesteps: 5
+
+sample_items: 2
+# Listening only: deterministic real-pianist covers, conditioned on Kong transcriptions. These
+# are exported beside the corpus samples but never contribute to val/loss or checkpoint ranking.
+kong_sample_items: 2
+# BeatThis on two recordings in the portable 196-cover panel: 63.8 BPM and 130.4 BPM.
+# The order is slow, fast; the BPMs are recorded so a portable training box need not install the
+# detector merely to label two fixed listening artifacts.
+kong_sample_ids: [0TMG60NMShM, 00wvcg5SmFs]
+kong_sample_bpms: [63.8, 130.4]
+sample_every_n_steps: 10000
+sample_ids: []
+mp3_bitrate_kbps: 192
+
+accumulate_grad_batches: 1
+
+# A rehearsal: run this many steps, print peak VRAM, peak RSS and ms/step, then stop without
+# writing a checkpoint. 0 is a real run. `run/dryrun.sh` sets it; do one before committing a GPU
+# for 250k steps, because the alternative is finding out about memory two hours in.
+dry_run_steps: 0
+
+# --- guards -----------------------------------------------------------------------------------
+# Raise rather than let the OOM killer decide. Measured as **PSS** across the whole process tree:
+# dataloader workers are forked and share the parent's pages, and RSS counts a shared page in full
+# in every process that maps it — summing RSS reported 5x the truth on a five-process tree and
+# stopped two legitimate resumes that were never near the limit.
+#
+# 64 GB. A full finetune measures ~21 GB steady state; the margin covers a transient checkpoint
+# load during a resume. Lower it on a smaller host.
+rss_limit_gb: 64.0
+# A step whose loss exceeds this many times the running median is logged with its sample ids and
+# skipped. The corrupted MIDI that spiked p2p-stable's curve becomes an identified track here,
+# and prep's outlier filter is meant to have caught it long before this fires.
+loss_spike_factor: 8.0
+loss_spike_warmup: 200

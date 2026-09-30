@@ -1,0 +1,8 @@
+# @package _global_
+# Every segment is PiCoGen's piano cover of the track; the original transcription is the fallback
+# only where a segment has too few notes or too many simultaneous ones.
+window:
+  segment_augment: true
+augment:
+  baseline_probability: 0.0
+  picogen_probability: 1.0

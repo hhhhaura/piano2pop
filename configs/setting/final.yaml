@@ -1,0 +1,11 @@
+# @package _global_
+# PiCoGen and the MuScriptor variants together: original 0.3, PiCoGen 0.4, variants 0.3, with the
+# organ and strings decodes back in the pool.
+window:
+  segment_augment: true
+augment:
+  baseline_probability: 0.3
+  picogen_probability: 0.4
+data:
+  source:
+    excluded_variant_programs: []

@@ -1,0 +1,13 @@
+# @package _global_
+# `p2p`'s rectified-flow DiT trained from random initialisation (`scratch:` in config.yaml), in
+# place of ACE-Step's pretrained one. Not in the paper. Same corpus, windows, roll encoder and
+# settings; what changes with the backbone is below.
+model:
+  backbone: scratch
+  # Plain linear guidance on the roll, which this model learns a null for. ACE-Step's scale of 7
+  # is tuned for its momentum-buffered APG and over-saturates here.
+  guidance: 2.0
+  inference_steps: 50
+data:
+  # A small model: batch 16 at 30 s peaks near 12 GB of VRAM.
+  batch_size: 16

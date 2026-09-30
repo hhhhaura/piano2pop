@@ -1,0 +1,8 @@
+# @package _global_
+# Each segment draws the original transcription with probability 0.4, otherwise one of the track's
+# MuScriptor variants (evenly). No PiCoGen, no style change.
+window:
+  segment_augment: true
+augment:
+  baseline_probability: 0.4
+  picogen_probability: 0.0

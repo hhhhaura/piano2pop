@@ -1,0 +1,8738 @@
+{
+ "note": "Per-file YouTube id, the seconds cut from its head (channel ident plus leading silence), and the duration after the cut, as downloaded for the paper. trim.py applies these cuts.",
+ "results": [
+  {
+   "piano_id": "C1rTnN2CFoc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "C1rTnN2CFoc",
+     "status": "downloaded",
+     "trimmed": 7.0589569999999995,
+     "duration": 263.012
+    },
+    "song.m4a": {
+     "video_id": "-YUH8Xfz-jg",
+     "status": "downloaded",
+     "trimmed": 0.597279,
+     "duration": 263.251
+    }
+   }
+  },
+  {
+   "piano_id": "b1oKY3OGYzY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "b1oKY3OGYzY",
+     "status": "downloaded",
+     "duration": 227.881
+    },
+    "song.m4a": {
+     "video_id": "-5q5mZbe3V8",
+     "status": "downloaded",
+     "duration": 230.342
+    }
+   }
+  },
+  {
+   "piano_id": "GdWfVUZ5bqQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "GdWfVUZ5bqQ",
+     "status": "downloaded",
+     "trimmed": 6.712789,
+     "duration": 307.383
+    },
+    "song.m4a": {
+     "video_id": "-Z_NvVMUcG8",
+     "status": "downloaded",
+     "duration": 300.188
+    }
+   }
+  },
+  {
+   "piano_id": "pTJzkT0kGtU",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "G4Lbc9uDLSA",
+     "status": "downloaded",
+     "trimmed": 2.730385,
+     "duration": 164.546
+    },
+    "piano.m4a": {
+     "video_id": "pTJzkT0kGtU",
+     "status": "downloaded",
+     "trimmed": 0.34746,
+     "duration": 166.906
+    },
+    "song.m4a": {
+     "video_id": "-UJCMfuFtSQ",
+     "status": "downloaded",
+     "trimmed": 2.529705,
+     "duration": 164.051
+    }
+   }
+  },
+  {
+   "piano_id": "-6Gpm69OpxA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-6Gpm69OpxA",
+     "status": "downloaded",
+     "trimmed": 0.532812,
+     "duration": 226.35
+    },
+    "song.m4a": {
+     "video_id": "-aA2olq5GeU",
+     "status": "downloaded",
+     "duration": 220.868
+    }
+   }
+  },
+  {
+   "piano_id": "I6SZqQuGejQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "I6SZqQuGejQ",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 251.954
+    },
+    "song.m4a": {
+     "video_id": "-r0_zVDdTjU",
+     "status": "downloaded",
+     "duration": 254.212
+    }
+   }
+  },
+  {
+   "piano_id": "K9fhJDu4JkU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "K9fhJDu4JkU",
+     "status": "downloaded",
+     "duration": 217.06
+    },
+    "song.m4a": {
+     "video_id": "-nwdjQmc_N8",
+     "status": "downloaded",
+     "duration": 210.35
+    }
+   }
+  },
+  {
+   "piano_id": "zAOSDUlHKgE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "zAOSDUlHKgE",
+     "status": "downloaded",
+     "trimmed": 0.616961,
+     "duration": 252.527
+    },
+    "song.m4a": {
+     "video_id": "-zoIL0n_9Vw",
+     "status": "downloaded",
+     "trimmed": 0.537891,
+     "duration": 247.87
+    }
+   }
+  },
+  {
+   "piano_id": "71JOWP5jX_8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "JSbIdYh3bzQ",
+     "status": "downloaded",
+     "trimmed": 0.915918,
+     "duration": 182.313
+    },
+    "piano.m4a": {
+     "video_id": "71JOWP5jX_8",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 188.099
+    },
+    "song.m4a": {
+     "video_id": "-tWuVqZnoL4",
+     "status": "downloaded",
+     "duration": 220.566
+    }
+   }
+  },
+  {
+   "piano_id": "GCPvflLsGyY",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Q7tDVUt3Rlg",
+     "status": "downloaded",
+     "trimmed": 1.500862,
+     "duration": 236.829
+    },
+    "piano.m4a": {
+     "video_id": "GCPvflLsGyY",
+     "status": "downloaded",
+     "trimmed": 0.627483,
+     "duration": 240.28
+    },
+    "song.m4a": {
+     "video_id": "-ySWIyJj3I0",
+     "status": "downloaded",
+     "trimmed": 0.323492,
+     "duration": 235.197
+    }
+   }
+  },
+  {
+   "piano_id": "bswqAGteNaE",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Yz_SVSGs9p4",
+     "status": "downloaded",
+     "trimmed": 0.380635,
+     "duration": 263.7
+    },
+    "piano.m4a": {
+     "video_id": "bswqAGteNaE",
+     "status": "downloaded",
+     "trimmed": 0.441905,
+     "duration": 261.201
+    },
+    "song.m4a": {
+     "video_id": "02Ai_4eG6ug",
+     "status": "downloaded",
+     "trimmed": 0.337007,
+     "duration": 263.698
+    }
+   }
+  },
+  {
+   "piano_id": "8Tia6k0moDE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8Tia6k0moDE",
+     "status": "downloaded",
+     "trimmed": 8.350363,
+     "duration": 241.612
+    },
+    "song.m4a": {
+     "video_id": "0CFPEJBh4QI",
+     "status": "downloaded",
+     "trimmed": 0.370181,
+     "duration": 236.218
+    }
+   }
+  },
+  {
+   "piano_id": "x70UbpUo4u4",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "pJWVNUtdKns",
+     "status": "downloaded",
+     "duration": 225.048
+    },
+    "piano.m4a": {
+     "video_id": "x70UbpUo4u4",
+     "status": "downloaded",
+     "trimmed": 0.948639,
+     "duration": 226.004
+    },
+    "song.m4a": {
+     "video_id": "07SeT_QSJ08",
+     "status": "downloaded",
+     "trimmed": 0.343651,
+     "duration": 266.872
+    }
+   }
+  },
+  {
+   "piano_id": "j0DQr3N9xUk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "j0DQr3N9xUk",
+     "status": "downloaded",
+     "trimmed": 0.808005,
+     "duration": 153.164
+    },
+    "song.m4a": {
+     "video_id": "0J6tGMnBLlM",
+     "status": "downloaded",
+     "duration": 148.12
+    }
+   }
+  },
+  {
+   "piano_id": "8irAnD6zQ00",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8irAnD6zQ00",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 279.098
+    },
+    "song.m4a": {
+     "video_id": "0IGUmJJ6a54",
+     "status": "downloaded",
+     "duration": 279.638
+    }
+   }
+  },
+  {
+   "piano_id": "rVL8hoR_Jlo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "rVL8hoR_Jlo",
+     "status": "downloaded",
+     "trimmed": 7.970363,
+     "duration": 229.268
+    },
+    "song.m4a": {
+     "video_id": "0NS4k5uksXM",
+     "status": "downloaded",
+     "trimmed": 2.563651,
+     "duration": 231.772
+    }
+   }
+  },
+  {
+   "piano_id": "8Kr-tPWreIw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8Kr-tPWreIw",
+     "status": "downloaded",
+     "trimmed": 0.327846,
+     "duration": 204.728
+    },
+    "song.m4a": {
+     "video_id": "0bhsXykXxfg",
+     "status": "downloaded",
+     "trimmed": 2.475306,
+     "duration": 205.506
+    }
+   }
+  },
+  {
+   "piano_id": "6SNJdJFU6pE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "6SNJdJFU6pE",
+     "status": "downloaded",
+     "trimmed": 0.410839,
+     "duration": 247.648
+    },
+    "song.m4a": {
+     "video_id": "0pa74Dq3iAU",
+     "status": "downloaded",
+     "trimmed": 5.347664,
+     "duration": 247.935
+    }
+   }
+  },
+  {
+   "piano_id": "6B50JRzTKNc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "6B50JRzTKNc",
+     "status": "downloaded",
+     "trimmed": 2.929388,
+     "duration": 201.012
+    },
+    "song.m4a": {
+     "video_id": "0m9icI0AOhw",
+     "status": "downloaded",
+     "duration": 199.947
+    }
+   }
+  },
+  {
+   "piano_id": "WpeOIw_FF5I",
+   "files": {
+    "piano.m4a": {
+     "video_id": "WpeOIw_FF5I",
+     "status": "downloaded",
+     "trimmed": 0.548367,
+     "duration": 223.315
+    },
+    "song.m4a": {
+     "video_id": "0x_Um87ulj0",
+     "status": "downloaded",
+     "trimmed": 0.341701,
+     "duration": 222.524
+    }
+   }
+  },
+  {
+   "piano_id": "c2Po_MYwYno",
+   "files": {
+    "piano.m4a": {
+     "video_id": "c2Po_MYwYno",
+     "status": "downloaded",
+     "trimmed": 7.039002,
+     "duration": 249.541
+    },
+    "song.m4a": {
+     "video_id": "1Ej3InS5FEM",
+     "status": "downloaded",
+     "trimmed": 0.589229,
+     "duration": 241.316
+    }
+   }
+  },
+  {
+   "piano_id": "h3ODLHmNF8o",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "OWnJ4NQ3Ko4",
+     "status": "downloaded",
+     "duration": 216.294
+    },
+    "piano.m4a": {
+     "video_id": "h3ODLHmNF8o",
+     "status": "downloaded",
+     "trimmed": 0.684014,
+     "duration": 217.444
+    },
+    "song.m4a": {
+     "video_id": "0qE2mTzg5Iw",
+     "status": "downloaded",
+     "duration": 216.41
+    }
+   }
+  },
+  {
+   "piano_id": "Qla5achRiJ4",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "gWSeKeti9SY",
+     "status": "downloaded",
+     "duration": 215.063
+    },
+    "piano.m4a": {
+     "video_id": "Qla5achRiJ4",
+     "status": "downloaded",
+     "trimmed": 0.466213,
+     "duration": 210.975
+    },
+    "song.m4a": {
+     "video_id": "1RKqOmSkGgM",
+     "status": "downloaded",
+     "duration": 218.314
+    }
+   }
+  },
+  {
+   "piano_id": "Dolu178rWmQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Dolu178rWmQ",
+     "status": "downloaded",
+     "trimmed": 0.556145,
+     "duration": 221.426
+    },
+    "song.m4a": {
+     "video_id": "1ZxF_nA1SxQ",
+     "status": "downloaded",
+     "trimmed": 0.862971,
+     "duration": 212.064
+    }
+   }
+  },
+  {
+   "piano_id": "bKpQIcEMP6A",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "PQbpUBSoMEo",
+     "status": "downloaded",
+     "trimmed": 0.306712,
+     "duration": 217.566
+    },
+    "piano.m4a": {
+     "video_id": "bKpQIcEMP6A",
+     "status": "downloaded",
+     "trimmed": 0.57966,
+     "duration": 217.85
+    },
+    "song.m4a": {
+     "video_id": "1TtvG18iSxY",
+     "status": "downloaded",
+     "duration": 213.09
+    }
+   }
+  },
+  {
+   "piano_id": "7KkZS-OPoZc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "7KkZS-OPoZc",
+     "status": "downloaded",
+     "trimmed": 0.575737,
+     "duration": 221.477
+    },
+    "song.m4a": {
+     "video_id": "1aMCVgRKcP4",
+     "status": "downloaded",
+     "trimmed": 0.340113,
+     "duration": 222.919
+    }
+   }
+  },
+  {
+   "piano_id": "DWXOW9oJm44",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "UvRNI5PS5kQ",
+     "status": "downloaded",
+     "duration": 200.086
+    },
+    "piano.m4a": {
+     "video_id": "DWXOW9oJm44",
+     "status": "downloaded",
+     "duration": 207.61
+    },
+    "song.m4a": {
+     "video_id": "1YUBbF24H44",
+     "status": "downloaded",
+     "trimmed": 0.414308,
+     "duration": 205.384
+    }
+   }
+  },
+  {
+   "piano_id": "UKlWBWTUopE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "UKlWBWTUopE",
+     "status": "downloaded",
+     "trimmed": 6.74873,
+     "duration": 221.69
+    },
+    "song.m4a": {
+     "video_id": "1lrFsXkT_rM",
+     "status": "downloaded",
+     "duration": 216.015
+    }
+   }
+  },
+  {
+   "piano_id": "CXmIg8lePms",
+   "files": {
+    "piano.m4a": {
+     "video_id": "CXmIg8lePms",
+     "status": "downloaded",
+     "duration": 187.176
+    },
+    "song.m4a": {
+     "video_id": "2Z8L4Qed8F8",
+     "status": "downloaded",
+     "duration": 185.899
+    }
+   }
+  },
+  {
+   "piano_id": "qNdTLxVdPD4",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "UBa6Z4j8rNU",
+     "status": "downloaded",
+     "trimmed": 0.426463,
+     "duration": 205.442
+    },
+    "piano.m4a": {
+     "video_id": "qNdTLxVdPD4",
+     "status": "downloaded",
+     "trimmed": 0.63966,
+     "duration": 206.204
+    },
+    "song.m4a": {
+     "video_id": "23g5HBOg3Ic",
+     "status": "downloaded",
+     "duration": 262.269
+    }
+   }
+  },
+  {
+   "piano_id": "-sS1aUJrZxE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-sS1aUJrZxE",
+     "status": "downloaded",
+     "trimmed": 0.418594,
+     "duration": 265.729
+    },
+    "song.m4a": {
+     "video_id": "2AH5l-vrY9Q",
+     "status": "downloaded",
+     "duration": 260.435
+    }
+   }
+  },
+  {
+   "piano_id": "pTtMoMbJ-SY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "pTtMoMbJ-SY",
+     "status": "downloaded",
+     "trimmed": 1.255465,
+     "duration": 176.215
+    },
+    "song.m4a": {
+     "video_id": "2cBzMSPYKas",
+     "status": "downloaded",
+     "trimmed": 2.138141,
+     "duration": 167.252
+    }
+   }
+  },
+  {
+   "piano_id": "RrqaAUDyNLo",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "ojy7Q-8Tdbw",
+     "status": "downloaded",
+     "duration": 168.345
+    },
+    "piano.m4a": {
+     "video_id": "RrqaAUDyNLo",
+     "status": "downloaded",
+     "trimmed": 8.109546,
+     "duration": 173.958
+    },
+    "song.m4a": {
+     "video_id": "27RUCIHnASM",
+     "status": "downloaded",
+     "duration": 170.388
+    }
+   }
+  },
+  {
+   "piano_id": "stV_7ndtgIw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "stV_7ndtgIw",
+     "status": "downloaded",
+     "trimmed": 0.436553,
+     "duration": 288.791
+    },
+    "song.m4a": {
+     "video_id": "2f4gu97XWFg",
+     "status": "downloaded",
+     "trimmed": 0.304739,
+     "duration": 297.097
+    }
+   }
+  },
+  {
+   "piano_id": "lsWWIGTwZoU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "lsWWIGTwZoU",
+     "status": "downloaded",
+     "trimmed": 2.634422,
+     "duration": 233.35
+    },
+    "song.m4a": {
+     "video_id": "2vjPBrBU-TM",
+     "status": "downloaded",
+     "trimmed": 1.017642,
+     "duration": 230.346
+    }
+   }
+  },
+  {
+   "piano_id": "WQD6oFyzIpY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "WQD6oFyzIpY",
+     "status": "downloaded",
+     "trimmed": 1.081973,
+     "duration": 214.632
+    },
+    "song.m4a": {
+     "video_id": "3A6nG-Kg2m8",
+     "status": "downloaded",
+     "duration": 220.984
+    }
+   }
+  },
+  {
+   "piano_id": "ygUeF8HhtFk",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "FQ9d4RXW9HU",
+     "status": "downloaded",
+     "trimmed": 0.397755,
+     "duration": 185.292
+    },
+    "piano.m4a": {
+     "video_id": "ygUeF8HhtFk",
+     "status": "downloaded",
+     "duration": 185.574
+    },
+    "song.m4a": {
+     "video_id": "2vrV69cL03E",
+     "status": "downloaded",
+     "trimmed": 0.417007,
+     "duration": 184.901
+    }
+   }
+  },
+  {
+   "piano_id": "ZBMKVgsDzAs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ZBMKVgsDzAs",
+     "status": "downloaded",
+     "trimmed": 6.5987979999999995,
+     "duration": 243.434
+    },
+    "song.m4a": {
+     "video_id": "3OdTKfYqBXY",
+     "status": "downloaded",
+     "trimmed": 0.319025,
+     "duration": 246.416
+    }
+   }
+  },
+  {
+   "piano_id": "x9aKalTFqdc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "x9aKalTFqdc",
+     "status": "downloaded",
+     "trimmed": 7.162426,
+     "duration": 271.709
+    },
+    "song.m4a": {
+     "video_id": "3WzD35Qkmls",
+     "status": "downloaded",
+     "trimmed": 3.644354,
+     "duration": 270.629
+    }
+   }
+  },
+  {
+   "piano_id": "T9D0FbvIDr8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "T9D0FbvIDr8",
+     "status": "downloaded",
+     "trimmed": 7.06678,
+     "duration": 326.837
+    },
+    "song.m4a": {
+     "video_id": "3rT8Re1EIQc",
+     "status": "downloaded",
+     "trimmed": 0.59415,
+     "duration": 333.17
+    }
+   }
+  },
+  {
+   "piano_id": "dNovLDUJ4fY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "dNovLDUJ4fY",
+     "status": "downloaded",
+     "trimmed": 0.300635,
+     "duration": 166.814
+    },
+    "song.m4a": {
+     "video_id": "3a8LVTchUDk",
+     "status": "downloaded",
+     "trimmed": 0.699705,
+     "duration": 171.871
+    }
+   }
+  },
+  {
+   "piano_id": "t6xBpXRAzTM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "t6xBpXRAzTM",
+     "status": "downloaded",
+     "trimmed": 2.807664,
+     "duration": 203.339
+    },
+    "song.m4a": {
+     "video_id": "3beLZhXgRnY",
+     "status": "downloaded",
+     "duration": 200.11
+    }
+   }
+  },
+  {
+   "piano_id": "VBd0vbPEsa0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "VBd0vbPEsa0",
+     "status": "downloaded",
+     "trimmed": 7.786576,
+     "duration": 277.61
+    },
+    "song.m4a": {
+     "video_id": "3tE7GEjckZI",
+     "status": "downloaded",
+     "trimmed": 0.548912,
+     "duration": 282.758
+    }
+   }
+  },
+  {
+   "piano_id": "dOaVcPmzCq4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "dOaVcPmzCq4",
+     "status": "downloaded",
+     "trimmed": 0.671565,
+     "duration": 284.4
+    },
+    "song.m4a": {
+     "video_id": "3tE7GEjckZI",
+     "status": "downloaded",
+     "trimmed": 0.548912,
+     "duration": 282.758
+    }
+   }
+  },
+  {
+   "piano_id": "4dLaZj5c3j8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "4dLaZj5c3j8",
+     "status": "downloaded",
+     "trimmed": 0.537483,
+     "duration": 234.425
+    },
+    "song.m4a": {
+     "video_id": "4Th0EwFmkLA",
+     "status": "downloaded",
+     "trimmed": 0.609569,
+     "duration": 224.624
+    }
+   }
+  },
+  {
+   "piano_id": "Kjl3Tg2cYYg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Kjl3Tg2cYYg",
+     "status": "downloaded",
+     "trimmed": 1.993991,
+     "duration": 216.157
+    },
+    "song.m4a": {
+     "video_id": "4Mg_Qtr6Osg",
+     "status": "downloaded",
+     "duration": 211.65
+    }
+   }
+  },
+  {
+   "piano_id": "uU-B7eVYTO8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "j6plpmibr-M",
+     "status": "downloaded",
+     "trimmed": 0.61907,
+     "duration": 163.383
+    },
+    "piano.m4a": {
+     "video_id": "uU-B7eVYTO8",
+     "status": "downloaded",
+     "trimmed": 0.855057,
+     "duration": 162.613
+    },
+    "song.m4a": {
+     "video_id": "4bwnO0FQp1s",
+     "status": "downloaded",
+     "trimmed": 0.32678,
+     "duration": 163.235
+    }
+   }
+  },
+  {
+   "piano_id": "01JA7Gj_9lM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "vh3quIt8Xn8",
+     "status": "downloaded",
+     "trimmed": 1.034512,
+     "duration": 292.791
+    },
+    "piano.m4a": {
+     "video_id": "01JA7Gj_9lM",
+     "status": "downloaded",
+     "trimmed": 6.852812,
+     "duration": 298.444
+    },
+    "song.m4a": {
+     "video_id": "51Jn7_lW58o",
+     "status": "downloaded",
+     "trimmed": 0.536984,
+     "duration": 304.69
+    }
+   }
+  },
+  {
+   "piano_id": "zf-KVaOvPTM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "vK3Iwsqz_1E",
+     "status": "downloaded",
+     "duration": 181.626
+    },
+    "piano.m4a": {
+     "video_id": "zf-KVaOvPTM",
+     "status": "downloaded",
+     "trimmed": 0.469184,
+     "duration": 178.139
+    },
+    "song.m4a": {
+     "video_id": "4lD0-1Uplms",
+     "status": "downloaded",
+     "duration": 183.414
+    }
+   }
+  },
+  {
+   "piano_id": "Zj29BscltH8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Zj29BscltH8",
+     "status": "downloaded",
+     "trimmed": 0.855238,
+     "duration": 245.067
+    },
+    "song.m4a": {
+     "video_id": "56TZ3B8Qxsk",
+     "status": "downloaded",
+     "duration": 243.368
+    }
+   }
+  },
+  {
+   "piano_id": "CnU5jHHfPec",
+   "files": {
+    "piano.m4a": {
+     "video_id": "CnU5jHHfPec",
+     "status": "downloaded",
+     "trimmed": 7.49746,
+     "duration": 242.907
+    },
+    "song.m4a": {
+     "video_id": "5G6jcJVs92c",
+     "status": "downloaded",
+     "duration": 246.549
+    }
+   }
+  },
+  {
+   "piano_id": "LwbxGdcSbx8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "LwbxGdcSbx8",
+     "status": "downloaded",
+     "trimmed": 7.591156,
+     "duration": 263.85
+    },
+    "song.m4a": {
+     "video_id": "5HZ9qeFjhYk",
+     "status": "downloaded",
+     "duration": 257.765
+    }
+   }
+  },
+  {
+   "piano_id": "5TsU0yUMFtM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "5TsU0yUMFtM",
+     "status": "downloaded",
+     "trimmed": 0.838458,
+     "duration": 177.955
+    },
+    "song.m4a": {
+     "video_id": "5TsU0yUMFtM",
+     "status": "downloaded",
+     "trimmed": 0.838458,
+     "duration": 177.955
+    }
+   }
+  },
+  {
+   "piano_id": "Unm-uiVSd8M",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Unm-uiVSd8M",
+     "status": "downloaded",
+     "duration": 247.432
+    },
+    "song.m4a": {
+     "video_id": "5NPBIwQyPWE",
+     "status": "downloaded",
+     "trimmed": 0.811927,
+     "duration": 252.587
+    }
+   }
+  },
+  {
+   "piano_id": "HBPi0JR00HM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "HBPi0JR00HM",
+     "status": "downloaded",
+     "trimmed": 0.525283,
+     "duration": 220.714
+    },
+    "song.m4a": {
+     "video_id": "5Wq1iDyEjF8",
+     "status": "downloaded",
+     "trimmed": 0.414354,
+     "duration": 228.604
+    }
+   }
+  },
+  {
+   "piano_id": "J9GPKZR9zfs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "J9GPKZR9zfs",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 227.364
+    },
+    "song.m4a": {
+     "video_id": "5Wq1iDyEjF8",
+     "status": "downloaded",
+     "trimmed": 0.414354,
+     "duration": 228.604
+    }
+   }
+  },
+  {
+   "piano_id": "BfTtpCl4APM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "BfTtpCl4APM",
+     "status": "downloaded",
+     "trimmed": 0.586553,
+     "duration": 206.651
+    },
+    "song.m4a": {
+     "video_id": "5X-8hcTwJ40",
+     "status": "downloaded",
+     "duration": 209.467
+    }
+   }
+  },
+  {
+   "piano_id": "nSJJAWyznbY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "nSJJAWyznbY",
+     "status": "downloaded",
+     "trimmed": 0.391905,
+     "duration": 296.498
+    },
+    "song.m4a": {
+     "video_id": "5m2XqQQ7jrE",
+     "status": "downloaded",
+     "trimmed": 0.844104,
+     "duration": 304.475
+    }
+   }
+  },
+  {
+   "piano_id": "9hDE0ll5eNo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "9hDE0ll5eNo",
+     "status": "downloaded",
+     "trimmed": 0.42585,
+     "duration": 234.63
+    },
+    "song.m4a": {
+     "video_id": "5vheNbQlsyU",
+     "status": "downloaded",
+     "trimmed": 0.557755,
+     "duration": 241.232
+    }
+   }
+  },
+  {
+   "piano_id": "6qw4G2fwEdo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "6qw4G2fwEdo",
+     "status": "downloaded",
+     "trimmed": 0.514308,
+     "duration": 215.78
+    },
+    "song.m4a": {
+     "video_id": "60rlboK94mE",
+     "status": "downloaded",
+     "duration": 224.7
+    }
+   }
+  },
+  {
+   "piano_id": "TGMo5qwDXfc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "TGMo5qwDXfc",
+     "status": "downloaded",
+     "duration": 239.56
+    },
+    "song.m4a": {
+     "video_id": "63Lp8vo5XWI",
+     "status": "downloaded",
+     "trimmed": 0.444218,
+     "duration": 232.889
+    }
+   }
+  },
+  {
+   "piano_id": "Era9e1UNSMQ",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "T8MVKS9vY0o",
+     "status": "downloaded",
+     "duration": 105.07
+    },
+    "piano.m4a": {
+     "video_id": "Era9e1UNSMQ",
+     "status": "downloaded",
+     "trimmed": 0.646122,
+     "duration": 96.065
+    },
+    "song.m4a": {
+     "video_id": "5pu0g_xyJKY",
+     "status": "downloaded",
+     "trimmed": 0.390952,
+     "duration": 104.076
+    }
+   }
+  },
+  {
+   "piano_id": "NqWM_LO8QN8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "NqWM_LO8QN8",
+     "status": "downloaded",
+     "trimmed": 0.643469,
+     "duration": 274.583
+    },
+    "song.m4a": {
+     "video_id": "6GGFb6LcX3U",
+     "status": "downloaded",
+     "duration": 271.697
+    }
+   }
+  },
+  {
+   "piano_id": "PyQ6Rn2Kc4A",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Rtasc-Cbk-E",
+     "status": "downloaded",
+     "trimmed": 0.340952,
+     "duration": 216.905
+    },
+    "piano.m4a": {
+     "video_id": "PyQ6Rn2Kc4A",
+     "status": "downloaded",
+     "duration": 213.09
+    },
+    "song.m4a": {
+     "video_id": "6EaLlR50mmg",
+     "status": "downloaded",
+     "trimmed": 0.65127,
+     "duration": 217.546
+    }
+   }
+  },
+  {
+   "piano_id": "AqBlCKOlOrg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "yme0-fMPwQ4",
+     "status": "downloaded",
+     "trimmed": 0.456281,
+     "duration": 264.599
+    },
+    "piano.m4a": {
+     "video_id": "AqBlCKOlOrg",
+     "status": "downloaded",
+     "trimmed": 10.033083999999999,
+     "duration": 268.954
+    },
+    "song.m4a": {
+     "video_id": "6Nz7c4D4uGQ",
+     "status": "downloaded",
+     "duration": 234.684
+    }
+   }
+  },
+  {
+   "piano_id": "OB4xBJ2TIe4",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "XNl91dkJHD0",
+     "status": "downloaded",
+     "duration": 190.497
+    },
+    "piano.m4a": {
+     "video_id": "OB4xBJ2TIe4",
+     "status": "downloaded",
+     "trimmed": 0.465329,
+     "duration": 186.781
+    },
+    "song.m4a": {
+     "video_id": "6XfH1AGXKNM",
+     "status": "downloaded",
+     "trimmed": 1.012517,
+     "duration": 183.679
+    }
+   }
+  },
+  {
+   "piano_id": "P_8J3gOULYU",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "2kMQzqxWwrI",
+     "status": "downloaded",
+     "duration": 214.552
+    },
+    "piano.m4a": {
+     "video_id": "P_8J3gOULYU",
+     "status": "downloaded",
+     "trimmed": 7.5470749999999995,
+     "duration": 215.597
+    },
+    "song.m4a": {
+     "video_id": "6OFv566mj7s",
+     "status": "downloaded",
+     "trimmed": 0.699546,
+     "duration": 214.248
+    }
+   }
+  },
+  {
+   "piano_id": "J81Bkcb0reo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "J81Bkcb0reo",
+     "status": "downloaded",
+     "trimmed": 5.863583,
+     "duration": 281.878
+    },
+    "song.m4a": {
+     "video_id": "6pcwq2usV7Y",
+     "status": "downloaded",
+     "duration": 276.55
+    }
+   }
+  },
+  {
+   "piano_id": "Of8f6V4QyH0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Of8f6V4QyH0",
+     "status": "downloaded",
+     "trimmed": 0.441338,
+     "duration": 140.573
+    },
+    "song.m4a": {
+     "video_id": "74LYZuxHom0",
+     "status": "downloaded",
+     "duration": 139.092
+    }
+   }
+  },
+  {
+   "piano_id": "oQx2Au9ZF8w",
+   "files": {
+    "piano.m4a": {
+     "video_id": "oQx2Au9ZF8w",
+     "status": "downloaded",
+     "trimmed": 0.490295,
+     "duration": 164.766
+    },
+    "song.m4a": {
+     "video_id": "7NrvCoFyzpI",
+     "status": "downloaded",
+     "trimmed": 0.517937,
+     "duration": 155.566
+    }
+   }
+  },
+  {
+   "piano_id": "tPdwdSjTqdM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "_O9Rd6hZ3k8",
+     "status": "downloaded",
+     "trimmed": 1.615193,
+     "duration": 220.112
+    },
+    "piano.m4a": {
+     "video_id": "tPdwdSjTqdM",
+     "status": "downloaded",
+     "trimmed": 1.171655,
+     "duration": 213.961
+    },
+    "song.m4a": {
+     "video_id": "7CPYoGtI75Q",
+     "status": "downloaded",
+     "trimmed": 0.513197,
+     "duration": 222.421
+    }
+   }
+  },
+  {
+   "piano_id": "SZDVkn4ZHhQ",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "B35u3ojs9pk",
+     "status": "downloaded",
+     "duration": 195.094
+    },
+    "piano.m4a": {
+     "video_id": "SZDVkn4ZHhQ",
+     "status": "downloaded",
+     "trimmed": 0.634104,
+     "duration": 200.218
+    },
+    "song.m4a": {
+     "video_id": "7Gbg6Z70J7E",
+     "status": "downloaded",
+     "trimmed": 1.290045,
+     "duration": 197.473
+    }
+   }
+  },
+  {
+   "piano_id": "QnVGrv-AEGs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "QnVGrv-AEGs",
+     "status": "downloaded",
+     "trimmed": 1.019728,
+     "duration": 214.043
+    },
+    "song.m4a": {
+     "video_id": "7UoP9ABJXGE",
+     "status": "downloaded",
+     "duration": 214.738
+    }
+   }
+  },
+  {
+   "piano_id": "XvQ3_oQM5ss",
+   "files": {
+    "piano.m4a": {
+     "video_id": "XvQ3_oQM5ss",
+     "status": "downloaded",
+     "trimmed": 0.607007,
+     "duration": 304.41
+    },
+    "song.m4a": {
+     "video_id": "81WhM9dOcYI",
+     "status": "downloaded",
+     "duration": 297.053
+    }
+   }
+  },
+  {
+   "piano_id": "J1W9C8Br264",
+   "files": {
+    "piano.m4a": {
+     "video_id": "J1W9C8Br264",
+     "status": "downloaded",
+     "trimmed": 6.881292999999999,
+     "duration": 251.998
+    },
+    "song.m4a": {
+     "video_id": "7zV21gP4cx0",
+     "status": "downloaded",
+     "trimmed": 0.681859,
+     "duration": 255.69
+    }
+   }
+  },
+  {
+   "piano_id": "bH9A7mg1UIg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "8igoWRu5tCs",
+     "status": "downloaded",
+     "trimmed": 1.925374,
+     "duration": 259.624
+    },
+    "piano.m4a": {
+     "video_id": "bH9A7mg1UIg",
+     "status": "downloaded",
+     "trimmed": 0.8261,
+     "duration": 264.764
+    },
+    "song.m4a": {
+     "video_id": "7Xf-Lesrkuc",
+     "status": "downloaded",
+     "trimmed": 0.318322,
+     "duration": 256.216
+    }
+   }
+  },
+  {
+   "piano_id": "ssUNWrI7oDg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "fKby3Ujtu9Q",
+     "status": "downloaded",
+     "trimmed": 3.261224,
+     "duration": 196.128
+    },
+    "piano.m4a": {
+     "video_id": "ssUNWrI7oDg",
+     "status": "downloaded",
+     "trimmed": 0.453696,
+     "duration": 207.365
+    },
+    "song.m4a": {
+     "video_id": "7o1EBarYGOs",
+     "status": "downloaded",
+     "trimmed": 0.874943,
+     "duration": 193.244
+    }
+   }
+  },
+  {
+   "piano_id": "ice7he6pkC0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ice7he6pkC0",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 320.198
+    },
+    "song.m4a": {
+     "video_id": "82LMqudXE9k",
+     "status": "downloaded",
+     "duration": 319.181
+    }
+   }
+  },
+  {
+   "piano_id": "qi8plO42onE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "qi8plO42onE",
+     "status": "downloaded",
+     "trimmed": 6.831542,
+     "duration": 259.664
+    },
+    "song.m4a": {
+     "video_id": "887y5oGGWAQ",
+     "status": "downloaded",
+     "duration": 266.681
+    }
+   }
+  },
+  {
+   "piano_id": "IwNf8GZx2Ws",
+   "files": {
+    "piano.m4a": {
+     "video_id": "IwNf8GZx2Ws",
+     "status": "downloaded",
+     "trimmed": 0.334308,
+     "duration": 225.062
+    },
+    "song.m4a": {
+     "video_id": "8TsWkuWWXgc",
+     "status": "downloaded",
+     "trimmed": 1.098413,
+     "duration": 231.681
+    }
+   }
+  },
+  {
+   "piano_id": "N975WIN6wCU",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Dtx0m9_mlRI",
+     "status": "downloaded",
+     "duration": 225.048
+    },
+    "piano.m4a": {
+     "video_id": "N975WIN6wCU",
+     "status": "downloaded",
+     "trimmed": 0.475692,
+     "duration": 223.922
+    },
+    "song.m4a": {
+     "video_id": "8HxbqAsppwU",
+     "status": "downloaded",
+     "trimmed": 0.777664,
+     "duration": 223.55
+    }
+   }
+  },
+  {
+   "piano_id": "83V1wrlBhwY",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "0X7xxX2R2gc",
+     "status": "downloaded",
+     "trimmed": 0.426327,
+     "duration": 169.636
+    },
+    "piano.m4a": {
+     "video_id": "83V1wrlBhwY",
+     "status": "downloaded",
+     "trimmed": 1.968231,
+     "duration": 175.92
+    },
+    "song.m4a": {
+     "video_id": "8_JbZvHc92U",
+     "status": "downloaded",
+     "trimmed": 0.570454,
+     "duration": 183.169
+    }
+   }
+  },
+  {
+   "piano_id": "0pPaS-oM3WQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "0pPaS-oM3WQ",
+     "status": "downloaded",
+     "trimmed": 0.774172,
+     "duration": 240.133
+    },
+    "song.m4a": {
+     "video_id": "8lxMKZVChvE",
+     "status": "downloaded",
+     "trimmed": 0.396032,
+     "duration": 248.545
+    }
+   }
+  },
+  {
+   "piano_id": "ra8R8E_VQuk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ra8R8E_VQuk",
+     "status": "downloaded",
+     "trimmed": 0.351429,
+     "duration": 230.547
+    },
+    "song.m4a": {
+     "video_id": "8zlt57Q7ZVU",
+     "status": "downloaded",
+     "trimmed": 0.692766,
+     "duration": 232.528
+    }
+   }
+  },
+  {
+   "piano_id": "44Zk43pOhsk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "44Zk43pOhsk",
+     "status": "downloaded",
+     "trimmed": 6.441338,
+     "duration": 212.987
+    },
+    "song.m4a": {
+     "video_id": "98zHKN-xSHk",
+     "status": "downloaded",
+     "trimmed": 0.316735,
+     "duration": 214.097
+    }
+   }
+  },
+  {
+   "piano_id": "O4hWrQHRjiY",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "dl0WwmyP3KE",
+     "status": "downloaded",
+     "trimmed": 1.464172,
+     "duration": 247.895
+    },
+    "piano.m4a": {
+     "video_id": "O4hWrQHRjiY",
+     "status": "downloaded",
+     "trimmed": 0.881429,
+     "duration": 246.852
+    },
+    "song.m4a": {
+     "video_id": "8wxOVn99FTE",
+     "status": "downloaded",
+     "trimmed": 3.847211,
+     "duration": 246.929
+    }
+   }
+  },
+  {
+   "piano_id": "937Kdm-ZnZI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "937Kdm-ZnZI",
+     "status": "downloaded",
+     "trimmed": 7.354331,
+     "duration": 222.593
+    },
+    "song.m4a": {
+     "video_id": "9PmDcGTAA-4",
+     "status": "downloaded",
+     "trimmed": 1.92678,
+     "duration": 222.03
+    }
+   }
+  },
+  {
+   "piano_id": "RY-r7TXIqNM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "MrZlnYBvt98",
+     "status": "downloaded",
+     "duration": 186.015
+    },
+    "piano.m4a": {
+     "video_id": "RY-r7TXIqNM",
+     "status": "downloaded",
+     "duration": 185.945
+    },
+    "song.m4a": {
+     "video_id": "9MiaHlOUExM",
+     "status": "downloaded",
+     "duration": 185.945
+    }
+   }
+  },
+  {
+   "piano_id": "O1fM-DvjoWg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "O1fM-DvjoWg",
+     "status": "downloaded",
+     "trimmed": 0.785442,
+     "duration": 189.223
+    },
+    "song.m4a": {
+     "video_id": "9Sx8MWI8qTU",
+     "status": "downloaded",
+     "duration": 185.318
+    }
+   }
+  },
+  {
+   "piano_id": "JLCAofziN30",
+   "files": {
+    "piano.m4a": {
+     "video_id": "JLCAofziN30",
+     "status": "downloaded",
+     "trimmed": 0.404898,
+     "duration": 202.793
+    },
+    "song.m4a": {
+     "video_id": "9gWIIIr2Asw",
+     "status": "downloaded",
+     "duration": 209.305
+    }
+   }
+  },
+  {
+   "piano_id": "PaBU-Wt4jaY",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Z_uLjEmvZXo",
+     "status": "downloaded",
+     "duration": 180.187
+    },
+    "piano.m4a": {
+     "video_id": "PaBU-Wt4jaY",
+     "status": "downloaded",
+     "trimmed": 1.022358,
+     "duration": 187.129
+    },
+    "song.m4a": {
+     "video_id": "9Rn6hwDv8R8",
+     "status": "downloaded",
+     "trimmed": 0.369887,
+     "duration": 179.771
+    }
+   }
+  },
+  {
+   "piano_id": "ZKjsc65GZhA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ZKjsc65GZhA",
+     "status": "downloaded",
+     "trimmed": 0.647755,
+     "duration": 149.214
+    },
+    "song.m4a": {
+     "video_id": "A1MdThqGarI",
+     "status": "downloaded",
+     "trimmed": 0.366599,
+     "duration": 142.204
+    }
+   }
+  },
+  {
+   "piano_id": "-uo3JmtXm7E",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-uo3JmtXm7E",
+     "status": "downloaded",
+     "trimmed": 7.560703,
+     "duration": 213.516
+    },
+    "song.m4a": {
+     "video_id": "A48UX_49fNE",
+     "status": "downloaded",
+     "trimmed": 0.404354,
+     "duration": 214.543
+    }
+   }
+  },
+  {
+   "piano_id": "c0o_Hm9hAJc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "c0o_Hm9hAJc",
+     "status": "downloaded",
+     "trimmed": 0.653061,
+     "duration": 232.708
+    },
+    "song.m4a": {
+     "video_id": "9sfYpolGCu8",
+     "status": "downloaded",
+     "trimmed": 2.18576,
+     "duration": 235.725
+    }
+   }
+  },
+  {
+   "piano_id": "Xbx_G2sGL_A",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "hZZYo118rF4",
+     "status": "downloaded",
+     "duration": 133.19
+    },
+    "piano.m4a": {
+     "video_id": "Xbx_G2sGL_A",
+     "status": "downloaded",
+     "duration": 128.755
+    },
+    "song.m4a": {
+     "video_id": "9rlW2rUzyn0",
+     "status": "downloaded",
+     "duration": 134.072
+    }
+   }
+  },
+  {
+   "piano_id": "QujvtG5TQlY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "QujvtG5TQlY",
+     "status": "downloaded",
+     "trimmed": 7.276576,
+     "duration": 226.641
+    },
+    "song.m4a": {
+     "video_id": "AmycftizdIg",
+     "status": "downloaded",
+     "trimmed": 1.663379,
+     "duration": 231.117
+    }
+   }
+  },
+  {
+   "piano_id": "BC_v0ekhumU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "BC_v0ekhumU",
+     "status": "downloaded",
+     "trimmed": 0.468163,
+     "duration": 196.252
+    },
+    "song.m4a": {
+     "video_id": "AoAm4om0wTs",
+     "status": "downloaded",
+     "trimmed": 0.66161,
+     "duration": 187.675
+    }
+   }
+  },
+  {
+   "piano_id": "lyLLQRFLhKQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "lyLLQRFLhKQ",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 279.795
+    },
+    "song.m4a": {
+     "video_id": "Ahha3Cqe_fk",
+     "status": "downloaded",
+     "duration": 289.971
+    }
+   }
+  },
+  {
+   "piano_id": "Kau4arbVuHc",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "wQ5xjWwLlaA",
+     "status": "downloaded",
+     "duration": 200.202
+    },
+    "piano.m4a": {
+     "video_id": "Kau4arbVuHc",
+     "status": "downloaded",
+     "trimmed": 7.498412999999999,
+     "duration": 204.407
+    },
+    "song.m4a": {
+     "video_id": "AA_5sLaTErQ",
+     "status": "downloaded",
+     "trimmed": 1.276485,
+     "duration": 221.031
+    }
+   }
+  },
+  {
+   "piano_id": "oMne-2NgsW0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "oMne-2NgsW0",
+     "status": "downloaded",
+     "trimmed": 7.211066,
+     "duration": 274.796
+    },
+    "song.m4a": {
+     "video_id": "AppsjTInqiw",
+     "status": "downloaded",
+     "trimmed": 0.353197,
+     "duration": 276.15
+    }
+   }
+  },
+  {
+   "piano_id": "iITQTizcYAI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "iITQTizcYAI",
+     "status": "downloaded",
+     "trimmed": 7.084785,
+     "duration": 189.983
+    },
+    "song.m4a": {
+     "video_id": "B0p4Lv0t124",
+     "status": "downloaded",
+     "trimmed": 0.492063,
+     "duration": 192.373
+    }
+   }
+  },
+  {
+   "piano_id": "xSEBZLaH4Y4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "xSEBZLaH4Y4",
+     "status": "downloaded",
+     "trimmed": 0.691791,
+     "duration": 251.477
+    },
+    "song.m4a": {
+     "video_id": "Atdzfj8LcuY",
+     "status": "downloaded",
+     "trimmed": 0.469751,
+     "duration": 249.168
+    }
+   }
+  },
+  {
+   "piano_id": "9jIvWp8Qmoc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "9jIvWp8Qmoc",
+     "status": "downloaded",
+     "trimmed": 6.98093,
+     "duration": 308.254
+    },
+    "song.m4a": {
+     "video_id": "B3ijx_KEZ8M",
+     "status": "downloaded",
+     "duration": 301.279
+    }
+   }
+  },
+  {
+   "piano_id": "HP3ZDGPGHRE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "HP3ZDGPGHRE",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 311.955
+    },
+    "song.m4a": {
+     "video_id": "B402rKl4bUg",
+     "status": "downloaded",
+     "trimmed": 0.713583,
+     "duration": 313.569
+    }
+   }
+  },
+  {
+   "piano_id": "ZQ8LGEXBLUg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ZQ8LGEXBLUg",
+     "status": "downloaded",
+     "trimmed": 7.662312999999999,
+     "duration": 275.947
+    },
+    "song.m4a": {
+     "video_id": "B5oiAX93ZZ8",
+     "status": "downloaded",
+     "trimmed": 0.547029,
+     "duration": 284.177
+    }
+   }
+  },
+  {
+   "piano_id": "HCPtUHx2uNQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "HCPtUHx2uNQ",
+     "status": "downloaded",
+     "trimmed": 0.406735,
+     "duration": 191.669
+    },
+    "song.m4a": {
+     "video_id": "B783S7tAPOY",
+     "status": "downloaded",
+     "trimmed": 2.41381,
+     "duration": 195.838
+    }
+   }
+  },
+  {
+   "piano_id": "4HPnMi6h67g",
+   "files": {
+    "piano.m4a": {
+     "video_id": "4HPnMi6h67g",
+     "status": "downloaded",
+     "trimmed": 0.778662,
+     "duration": 242.706
+    },
+    "song.m4a": {
+     "video_id": "BR1dGKZ_JJg",
+     "status": "downloaded",
+     "trimmed": 0.305283,
+     "duration": 245.246
+    }
+   }
+  },
+  {
+   "piano_id": "9V1puy9EKrc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "9V1puy9EKrc",
+     "status": "downloaded",
+     "duration": 222.447
+    },
+    "song.m4a": {
+     "video_id": "BW9Fzwuf43c",
+     "status": "downloaded",
+     "trimmed": 3.4839,
+     "duration": 211.765
+    }
+   }
+  },
+  {
+   "piano_id": "cw5rwsdEOmw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "cw5rwsdEOmw",
+     "status": "downloaded",
+     "trimmed": 0.766735,
+     "duration": 243.136
+    },
+    "song.m4a": {
+     "video_id": "Bq8tYzmta-k",
+     "status": "downloaded",
+     "trimmed": 2.620476,
+     "duration": 248.364
+    }
+   }
+  },
+  {
+   "piano_id": "ZP1OIZ27FWY",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "mHyUS_rfOx4",
+     "status": "downloaded",
+     "trimmed": 0.843401,
+     "duration": 204.491
+    },
+    "piano.m4a": {
+     "video_id": "ZP1OIZ27FWY",
+     "status": "downloaded",
+     "trimmed": 7.68449,
+     "duration": 205.707
+    },
+    "song.m4a": {
+     "video_id": "BgmY2MkrY0I",
+     "status": "downloaded",
+     "trimmed": 0.414218,
+     "duration": 204.13
+    }
+   }
+  },
+  {
+   "piano_id": "yiNxh_JUeJ8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "iwjgYgMzKSI",
+     "status": "downloaded",
+     "trimmed": 0.415556,
+     "duration": 611.825
+    },
+    "piano.m4a": {
+     "video_id": "yiNxh_JUeJ8",
+     "status": "downloaded",
+     "trimmed": 0.701791,
+     "duration": 616.113
+    },
+    "song.m4a": {
+     "video_id": "BZ-rLBkUZf4",
+     "status": "downloaded",
+     "trimmed": 0.371587,
+     "duration": 611.845
+    }
+   }
+  },
+  {
+   "piano_id": "kmK9S1d1geM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "kmK9S1d1geM",
+     "status": "downloaded",
+     "trimmed": 0.57737,
+     "duration": 178.193
+    },
+    "song.m4a": {
+     "video_id": "BtvJaNeELic",
+     "status": "downloaded",
+     "trimmed": 0.691315,
+     "duration": 172.693
+    }
+   }
+  },
+  {
+   "piano_id": "dTZJ5YLslXA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "dTZJ5YLslXA",
+     "status": "downloaded",
+     "trimmed": 0.42517,
+     "duration": 202.842
+    },
+    "song.m4a": {
+     "video_id": "C27NShgTQE4",
+     "status": "downloaded",
+     "trimmed": 1.310726,
+     "duration": 200.842
+    }
+   }
+  },
+  {
+   "piano_id": "cj8xvHDgpKY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "cj8xvHDgpKY",
+     "status": "downloaded",
+     "trimmed": 0.564467,
+     "duration": 192.161
+    },
+    "song.m4a": {
+     "video_id": "CAjKZJarlwk",
+     "status": "downloaded",
+     "duration": 187.106
+    }
+   }
+  },
+  {
+   "piano_id": "tYgVXJ4LzYk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "tYgVXJ4LzYk",
+     "status": "downloaded",
+     "trimmed": 0.613764,
+     "duration": 286.988
+    },
+    "song.m4a": {
+     "video_id": "C-z-IckrQK8",
+     "status": "downloaded",
+     "trimmed": 0.313243,
+     "duration": 285.037
+    }
+   }
+  },
+  {
+   "piano_id": "PgViCGed7cU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "PgViCGed7cU",
+     "status": "downloaded",
+     "trimmed": 7.575601,
+     "duration": 212.921
+    },
+    "song.m4a": {
+     "video_id": "CSxUJaR7P2o",
+     "status": "downloaded",
+     "trimmed": 0.412721,
+     "duration": 218.088
+    }
+   }
+  },
+  {
+   "piano_id": "brqgob5Ue3Y",
+   "files": {
+    "piano.m4a": {
+     "video_id": "brqgob5Ue3Y",
+     "status": "downloaded",
+     "duration": 243.902
+    },
+    "song.m4a": {
+     "video_id": "CRrf3h9vhp8",
+     "status": "downloaded",
+     "trimmed": 0.310771,
+     "duration": 237.09
+    }
+   }
+  },
+  {
+   "piano_id": "N4ErISmajs8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "BULfoeJcF3Q",
+     "status": "downloaded",
+     "trimmed": 0.454943,
+     "duration": 264.601
+    },
+    "piano.m4a": {
+     "video_id": "N4ErISmajs8",
+     "status": "downloaded",
+     "trimmed": 0.845147,
+     "duration": 268.715
+    },
+    "song.m4a": {
+     "video_id": "CCUr2pNJft4",
+     "status": "downloaded",
+     "trimmed": 0.377823,
+     "duration": 267.116
+    }
+   }
+  },
+  {
+   "piano_id": "S_b2A6i8tJU",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "FHyKNmp_YpE",
+     "status": "downloaded",
+     "duration": 151.835
+    },
+    "piano.m4a": {
+     "video_id": "S_b2A6i8tJU",
+     "status": "downloaded",
+     "trimmed": 0.647574,
+     "duration": 141.598
+    },
+    "song.m4a": {
+     "video_id": "CPWxExGk7PM",
+     "status": "downloaded",
+     "trimmed": 5.523923,
+     "duration": 149.237
+    }
+   }
+  },
+  {
+   "piano_id": "3ytZlBgTB4o",
+   "files": {
+    "piano.m4a": {
+     "video_id": "3ytZlBgTB4o",
+     "status": "downloaded",
+     "trimmed": 0.429048,
+     "duration": 151.406
+    },
+    "song.m4a": {
+     "video_id": "DUtvMP8jUsQ",
+     "status": "downloaded",
+     "duration": 148.143
+    }
+   }
+  },
+  {
+   "piano_id": "rqvzsUbFyfo",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "aI5oONlcch4",
+     "status": "downloaded",
+     "duration": 404.863
+    },
+    "piano.m4a": {
+     "video_id": "rqvzsUbFyfo",
+     "status": "downloaded",
+     "trimmed": 8.546984,
+     "duration": 406.672
+    },
+    "song.m4a": {
+     "video_id": "DNBMEkFU8Ew",
+     "status": "downloaded",
+     "trimmed": 0.312812,
+     "duration": 405.48
+    }
+   }
+  },
+  {
+   "piano_id": "LHUZSTvWc64",
+   "files": {
+    "piano.m4a": {
+     "video_id": "LHUZSTvWc64",
+     "status": "downloaded",
+     "trimmed": 7.373039,
+     "duration": 302.752
+    },
+    "song.m4a": {
+     "video_id": "DbIY9NSho8Y",
+     "status": "downloaded",
+     "duration": 307.873
+    }
+   }
+  },
+  {
+   "piano_id": "xZY4bLjP1Gg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "H9d1kMR9mRs",
+     "status": "downloaded",
+     "trimmed": 0.399433,
+     "duration": 229.664
+    },
+    "piano.m4a": {
+     "video_id": "xZY4bLjP1Gg",
+     "status": "downloaded",
+     "trimmed": 0.627959,
+     "duration": 228.994
+    },
+    "song.m4a": {
+     "video_id": "Db9ciJPIaEU",
+     "status": "downloaded",
+     "trimmed": 0.301814,
+     "duration": 226.763
+    }
+   }
+  },
+  {
+   "piano_id": "viMQqfhdtRA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "viMQqfhdtRA",
+     "status": "downloaded",
+     "trimmed": 1.893719,
+     "duration": 209.524
+    },
+    "song.m4a": {
+     "video_id": "DcGVFWm5zsk",
+     "status": "downloaded",
+     "trimmed": 1.320091,
+     "duration": 212.629
+    }
+   }
+  },
+  {
+   "piano_id": "pqpgQnwI1e8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "pqpgQnwI1e8",
+     "status": "downloaded",
+     "trimmed": 7.106145,
+     "duration": 261.387
+    },
+    "song.m4a": {
+     "video_id": "DhzDmhytrTI",
+     "status": "downloaded",
+     "duration": 266.565
+    }
+   }
+  },
+  {
+   "piano_id": "TWsifpp7S_c",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "B3Wb1-X64vA",
+     "status": "downloaded",
+     "trimmed": 0.67712,
+     "duration": 200.919
+    },
+    "piano.m4a": {
+     "video_id": "TWsifpp7S_c",
+     "status": "downloaded",
+     "trimmed": 0.7139,
+     "duration": 206.176
+    },
+    "song.m4a": {
+     "video_id": "DubtPdXXjew",
+     "status": "downloaded",
+     "trimmed": 2.907982,
+     "duration": 199.733
+    }
+   }
+  },
+  {
+   "piano_id": "yFDx1TECqo8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "ZoH1SehLD3A",
+     "status": "downloaded",
+     "duration": 198.949
+    },
+    "piano.m4a": {
+     "video_id": "yFDx1TECqo8",
+     "status": "downloaded",
+     "trimmed": 0.880408,
+     "duration": 200.552
+    },
+    "song.m4a": {
+     "video_id": "Eb-69q8zK84",
+     "status": "downloaded",
+     "trimmed": 0.373741,
+     "duration": 199.782
+    }
+   }
+  },
+  {
+   "piano_id": "PTXyCbG4Zyw",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "yNd5vqeCE1A",
+     "status": "downloaded",
+     "duration": 212.904
+    },
+    "piano.m4a": {
+     "video_id": "PTXyCbG4Zyw",
+     "status": "downloaded",
+     "trimmed": 0.348957,
+     "duration": 203.871
+    },
+    "song.m4a": {
+     "video_id": "E4CdpOLGMyc",
+     "status": "downloaded",
+     "duration": 210.605
+    }
+   }
+  },
+  {
+   "piano_id": "JEl4b0EOWE4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "JEl4b0EOWE4",
+     "status": "downloaded",
+     "trimmed": 9.054444,
+     "duration": 293.99
+    },
+    "song.m4a": {
+     "video_id": "EjNEJJNZAyE",
+     "status": "downloaded",
+     "duration": 299.166
+    }
+   }
+  },
+  {
+   "piano_id": "ZA5WdMyngX4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ZA5WdMyngX4",
+     "status": "downloaded",
+     "duration": 185.388
+    },
+    "song.m4a": {
+     "video_id": "EqUHnojFH5Y",
+     "status": "downloaded",
+     "duration": 187.176
+    }
+   }
+  },
+  {
+   "piano_id": "WMOp9KlN4dc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "WMOp9KlN4dc",
+     "status": "downloaded",
+     "trimmed": 7.909388,
+     "duration": 322.209
+    },
+    "song.m4a": {
+     "video_id": "EwWMUUe_9PI",
+     "status": "downloaded",
+     "duration": 334.948
+    }
+   }
+  },
+  {
+   "piano_id": "D7sU4P89AS8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "hqdmXj5-SIA",
+     "status": "downloaded",
+     "duration": 267.703
+    },
+    "piano.m4a": {
+     "video_id": "D7sU4P89AS8",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 270.948
+    },
+    "song.m4a": {
+     "video_id": "ElN_4vUvTPs",
+     "status": "downloaded",
+     "trimmed": 1.071043,
+     "duration": 246.524
+    }
+   }
+  },
+  {
+   "piano_id": "QAy2Y136OdE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "QAy2Y136OdE",
+     "status": "downloaded",
+     "trimmed": 8.524671,
+     "duration": 287.205
+    },
+    "song.m4a": {
+     "video_id": "F2RnxZnubCM",
+     "status": "downloaded",
+     "trimmed": 1.653696,
+     "duration": 281.49
+    }
+   }
+  },
+  {
+   "piano_id": "aPsAuOJXIok",
+   "files": {
+    "piano.m4a": {
+     "video_id": "aPsAuOJXIok",
+     "status": "downloaded",
+     "trimmed": 0.485397,
+     "duration": 219.06
+    },
+    "song.m4a": {
+     "video_id": "FaQHyHwFgeg",
+     "status": "downloaded",
+     "duration": 226.68
+    }
+   }
+  },
+  {
+   "piano_id": "loaXNSCSdNc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "loaXNSCSdNc",
+     "status": "downloaded",
+     "trimmed": 0.661655,
+     "duration": 179.548
+    },
+    "song.m4a": {
+     "video_id": "FOJ4A4wixDg",
+     "status": "downloaded",
+     "duration": 177.54
+    }
+   }
+  },
+  {
+   "piano_id": "AxquQF31qbg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "YF1w0yR91iI",
+     "status": "downloaded",
+     "trimmed": 0.361474,
+     "duration": 176.764
+    },
+    "piano.m4a": {
+     "video_id": "AxquQF31qbg",
+     "status": "downloaded",
+     "trimmed": 0.904898,
+     "duration": 172.432
+    },
+    "song.m4a": {
+     "video_id": "F9K5IS-inHs",
+     "status": "downloaded",
+     "trimmed": 0.46805,
+     "duration": 175.493
+    }
+   }
+  },
+  {
+   "piano_id": "8EeJx7MyqM0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8EeJx7MyqM0",
+     "status": "downloaded",
+     "trimmed": 0.616281,
+     "duration": 218.65
+    },
+    "song.m4a": {
+     "video_id": "Fp47PrA4D_U",
+     "status": "downloaded",
+     "duration": 212.773
+    }
+   }
+  },
+  {
+   "piano_id": "z0zABu3B2TM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "z0zABu3B2TM",
+     "status": "downloaded",
+     "trimmed": 0.524082,
+     "duration": 216.954
+    },
+    "song.m4a": {
+     "video_id": "Fqey8LxQxFU",
+     "status": "downloaded",
+     "trimmed": 0.319206,
+     "duration": 219.55
+    }
+   }
+  },
+  {
+   "piano_id": "T8s6inUV9rk",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "WeLTvEElRjQ",
+     "status": "downloaded",
+     "duration": 206.077
+    },
+    "piano.m4a": {
+     "video_id": "T8s6inUV9rk",
+     "status": "downloaded",
+     "trimmed": 0.528549,
+     "duration": 204.318
+    },
+    "song.m4a": {
+     "video_id": "FpeZsTo5hZw",
+     "status": "downloaded",
+     "trimmed": 0.310476,
+     "duration": 206.463
+    }
+   }
+  },
+  {
+   "piano_id": "qiA0x0JzgdA",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "H3AEa_PqYD4",
+     "status": "downloaded",
+     "duration": 219.939
+    },
+    "piano.m4a": {
+     "video_id": "qiA0x0JzgdA",
+     "status": "downloaded",
+     "trimmed": 7.512653,
+     "duration": 221.947
+    },
+    "song.m4a": {
+     "video_id": "Fqey8LxQxFU",
+     "status": "downloaded",
+     "trimmed": 0.319206,
+     "duration": 219.55
+    }
+   }
+  },
+  {
+   "piano_id": "lr9z2m-WNKk",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "XL9jDh8QvNg",
+     "status": "downloaded",
+     "duration": 199.506
+    },
+    "piano.m4a": {
+     "video_id": "lr9z2m-WNKk",
+     "status": "downloaded",
+     "trimmed": 0.541995,
+     "duration": 192.045
+    },
+    "song.m4a": {
+     "video_id": "G0R7Z2A0XeY",
+     "status": "downloaded",
+     "duration": 199.552
+    }
+   }
+  },
+  {
+   "piano_id": "MZ64nD75rtg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "gN75Zg9LwuY",
+     "status": "downloaded",
+     "duration": 244.785
+    },
+    "piano.m4a": {
+     "video_id": "MZ64nD75rtg",
+     "status": "downloaded",
+     "trimmed": 0.589025,
+     "duration": 234.908
+    },
+    "song.m4a": {
+     "video_id": "GB2aPHTDaqU",
+     "status": "downloaded",
+     "duration": 244.576
+    }
+   }
+  },
+  {
+   "piano_id": "mvu_2-UnTKc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "mvu_2-UnTKc",
+     "status": "downloaded",
+     "trimmed": 2.391111,
+     "duration": 246.248
+    },
+    "song.m4a": {
+     "video_id": "GC5E8ie2pdM",
+     "status": "downloaded",
+     "duration": 249.475
+    }
+   }
+  },
+  {
+   "piano_id": "jqa7LMWL-eA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "jqa7LMWL-eA",
+     "status": "downloaded",
+     "duration": 250.567
+    },
+    "song.m4a": {
+     "video_id": "GCdwKhTtNNw",
+     "status": "downloaded",
+     "trimmed": 4.977438,
+     "duration": 247.447
+    }
+   }
+  },
+  {
+   "piano_id": "vh6cGW9xsvM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "CiI1Br_Wc0Y",
+     "status": "downloaded",
+     "duration": 238.84
+    },
+    "piano.m4a": {
+     "video_id": "vh6cGW9xsvM",
+     "status": "downloaded",
+     "trimmed": 0.34059,
+     "duration": 242.145
+    },
+    "song.m4a": {
+     "video_id": "GB_S2qFh5lU",
+     "status": "downloaded",
+     "trimmed": 0.835306,
+     "duration": 242.463
+    }
+   }
+  },
+  {
+   "piano_id": "UFds3YyB5Tc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "UFds3YyB5Tc",
+     "status": "downloaded",
+     "trimmed": 0.304671,
+     "duration": 253.768
+    },
+    "song.m4a": {
+     "video_id": "GFzJSV3M4mQ",
+     "status": "downloaded",
+     "trimmed": 0.608367,
+     "duration": 248.728
+    }
+   }
+  },
+  {
+   "piano_id": "wElnUs0ronY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "wElnUs0ronY",
+     "status": "downloaded",
+     "trimmed": 0.528095,
+     "duration": 212.097
+    },
+    "song.m4a": {
+     "video_id": "GcXlN7meclE",
+     "status": "downloaded",
+     "trimmed": 6.338821,
+     "duration": 204.429
+    }
+   }
+  },
+  {
+   "piano_id": "OunCSF6R_6s",
+   "files": {
+    "piano.m4a": {
+     "video_id": "OunCSF6R_6s",
+     "status": "downloaded",
+     "trimmed": 0.935601,
+     "duration": 206.442
+    },
+    "song.m4a": {
+     "video_id": "GlM6lcFbLSg",
+     "status": "downloaded",
+     "duration": 216.898
+    }
+   }
+  },
+  {
+   "piano_id": "PCjFXoQ53AQ",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "UUnnv1yBdQA",
+     "status": "downloaded",
+     "duration": 211.069
+    },
+    "piano.m4a": {
+     "video_id": "PCjFXoQ53AQ",
+     "status": "downloaded",
+     "trimmed": 1.366259,
+     "duration": 210.26
+    },
+    "song.m4a": {
+     "video_id": "GfNkmN_nZHs",
+     "status": "downloaded",
+     "trimmed": 1.169796,
+     "duration": 211.711
+    }
+   }
+  },
+  {
+   "piano_id": "gHP9fNhyGcI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "vk129b-WWcI",
+     "status": "downloaded",
+     "duration": 181.209
+    },
+    "piano.m4a": {
+     "video_id": "gHP9fNhyGcI",
+     "status": "downloaded",
+     "duration": 179.885
+    },
+    "song.m4a": {
+     "video_id": "HIv3ClkEhrA",
+     "status": "downloaded",
+     "trimmed": 0.646871,
+     "duration": 208.38
+    }
+   }
+  },
+  {
+   "piano_id": "ckfAKhbYBq4",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "8w_vbKwOAg8",
+     "status": "downloaded",
+     "trimmed": 1.845102,
+     "duration": 206.903
+    },
+    "piano.m4a": {
+     "video_id": "ckfAKhbYBq4",
+     "status": "downloaded",
+     "trimmed": 2.345125,
+     "duration": 201.085
+    },
+    "song.m4a": {
+     "video_id": "H6DeIBK0yuc",
+     "status": "downloaded",
+     "trimmed": 0.375737,
+     "duration": 194.331
+    }
+   }
+  },
+  {
+   "piano_id": "b385LhjODes",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "LJcqDZ6Biac",
+     "status": "downloaded",
+     "duration": 229.065
+    },
+    "piano.m4a": {
+     "video_id": "b385LhjODes",
+     "status": "downloaded",
+     "trimmed": 0.430249,
+     "duration": 223.178
+    },
+    "song.m4a": {
+     "video_id": "HeOpRzcqKrE",
+     "status": "downloaded",
+     "duration": 231.735
+    }
+   }
+  },
+  {
+   "piano_id": "hKbN6vDkhmY",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "7g6-sBzuN2Q",
+     "status": "downloaded",
+     "trimmed": 0.360816,
+     "duration": 234.695
+    },
+    "piano.m4a": {
+     "video_id": "hKbN6vDkhmY",
+     "status": "downloaded",
+     "duration": 227.184
+    },
+    "song.m4a": {
+     "video_id": "Ho32Oh6b4jc",
+     "status": "downloaded",
+     "trimmed": 0.424807,
+     "duration": 228.524
+    }
+   }
+  },
+  {
+   "piano_id": "yOi1daBHpTM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "yOi1daBHpTM",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 312.791
+    },
+    "song.m4a": {
+     "video_id": "I66A3dT8p4g",
+     "status": "downloaded",
+     "duration": 304.739
+    }
+   }
+  },
+  {
+   "piano_id": "XMY7k9l1Q5c",
+   "files": {
+    "piano.m4a": {
+     "video_id": "XMY7k9l1Q5c",
+     "status": "downloaded",
+     "trimmed": 9.647914,
+     "duration": 258.241
+    },
+    "song.m4a": {
+     "video_id": "I8fFjG9ch5Q",
+     "status": "downloaded",
+     "duration": 253.098
+    }
+   }
+  },
+  {
+   "piano_id": "TCMEnRVXa78",
+   "files": {
+    "piano.m4a": {
+     "video_id": "TCMEnRVXa78",
+     "status": "downloaded",
+     "trimmed": 1.876531,
+     "duration": 169.975
+    },
+    "song.m4a": {
+     "video_id": "IC5PL0XImjw",
+     "status": "downloaded",
+     "trimmed": 3.077483,
+     "duration": 160.205
+    }
+   }
+  },
+  {
+   "piano_id": "7xjMCrilktg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "7xjMCrilktg",
+     "status": "downloaded",
+     "duration": 201.294
+    },
+    "song.m4a": {
+     "video_id": "IZ3XMOdOdKM",
+     "status": "downloaded",
+     "trimmed": 0.559229,
+     "duration": 200.549
+    }
+   }
+  },
+  {
+   "piano_id": "f5TCvWJfTlw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "f5TCvWJfTlw",
+     "status": "downloaded",
+     "trimmed": 6.491814,
+     "duration": 260.654
+    },
+    "song.m4a": {
+     "video_id": "IobNcpiwpSc",
+     "status": "downloaded",
+     "duration": 256.093
+    }
+   }
+  },
+  {
+   "piano_id": "x2qVsBDTKEU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "x2qVsBDTKEU",
+     "status": "downloaded",
+     "trimmed": 7.660679999999999,
+     "duration": 216.435
+    },
+    "song.m4a": {
+     "video_id": "IUbC4ENFabI",
+     "status": "downloaded",
+     "trimmed": 0.599796,
+     "duration": 220.222
+    }
+   }
+  },
+  {
+   "piano_id": "ZzfUBqz_lAA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ZzfUBqz_lAA",
+     "status": "downloaded",
+     "trimmed": 0.488073,
+     "duration": 201.572
+    },
+    "song.m4a": {
+     "video_id": "J36z7AnhvOM",
+     "status": "downloaded",
+     "trimmed": 0.465714,
+     "duration": 201.617
+    }
+   }
+  },
+  {
+   "piano_id": "7GlM4yGC4vs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "7GlM4yGC4vs",
+     "status": "downloaded",
+     "duration": 193.84
+    },
+    "song.m4a": {
+     "video_id": "JGKgbmz_gcU",
+     "status": "downloaded",
+     "trimmed": 3.101429,
+     "duration": 183.749
+    }
+   }
+  },
+  {
+   "piano_id": "yqoQeOtskas",
+   "files": {
+    "piano.m4a": {
+     "video_id": "yqoQeOtskas",
+     "status": "downloaded",
+     "trimmed": 0.389138,
+     "duration": 139.999
+    },
+    "song.m4a": {
+     "video_id": "JYuyWrkwpok",
+     "status": "downloaded",
+     "trimmed": 0.348639,
+     "duration": 146.889
+    }
+   }
+  },
+  {
+   "piano_id": "IkQme_JYtR4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "IkQme_JYtR4",
+     "status": "downloaded",
+     "duration": 170.597
+    },
+    "song.m4a": {
+     "video_id": "KK_IvzPLBPQ",
+     "status": "downloaded",
+     "trimmed": 0.464762,
+     "duration": 173.22
+    }
+   }
+  },
+  {
+   "piano_id": "z6ixKo7nUOA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "z6ixKo7nUOA",
+     "status": "downloaded",
+     "trimmed": 0.686644,
+     "duration": 70.923
+    },
+    "song.m4a": {
+     "video_id": "KP_XkN2v7OM",
+     "status": "downloaded",
+     "trimmed": 1.784512,
+     "duration": 69.64
+    }
+   }
+  },
+  {
+   "piano_id": "_teqCAJZFwM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "HzvEt070TRY",
+     "status": "downloaded",
+     "duration": 245.063
+    },
+    "piano.m4a": {
+     "video_id": "_teqCAJZFwM",
+     "status": "downloaded",
+     "trimmed": 0.582971,
+     "duration": 244.55
+    },
+    "song.m4a": {
+     "video_id": "JlZnvyBqceY",
+     "status": "downloaded",
+     "duration": 245.969
+    }
+   }
+  },
+  {
+   "piano_id": "rAJmhtHoPoI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "rAJmhtHoPoI",
+     "status": "downloaded",
+     "trimmed": 0.560839,
+     "duration": 186.43
+    },
+    "song.m4a": {
+     "video_id": "KQetemT1sWc",
+     "status": "downloaded",
+     "trimmed": 0.528413,
+     "duration": 191.292
+    }
+   }
+  },
+  {
+   "piano_id": "VUfAxO_HYK8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "VUfAxO_HYK8",
+     "status": "downloaded",
+     "trimmed": 0.536871,
+     "duration": 151.74
+    },
+    "song.m4a": {
+     "video_id": "KUYK5KEU6qg",
+     "status": "downloaded",
+     "duration": 160.752
+    }
+   }
+  },
+  {
+   "piano_id": "ZhhEERPqpQw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ZhhEERPqpQw",
+     "status": "downloaded",
+     "trimmed": 0.427279,
+     "duration": 249.048
+    },
+    "song.m4a": {
+     "video_id": "KkGVmN68ByU",
+     "status": "downloaded",
+     "duration": 249.661
+    }
+   }
+  },
+  {
+   "piano_id": "JNQlkl8EHBI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "JNQlkl8EHBI",
+     "status": "downloaded",
+     "trimmed": 1.706395,
+     "duration": 239.595
+    },
+    "song.m4a": {
+     "video_id": "KkvTYrFIxNM",
+     "status": "downloaded",
+     "duration": 235.466
+    }
+   }
+  },
+  {
+   "piano_id": "Og2XXUWhxDM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Og2XXUWhxDM",
+     "status": "downloaded",
+     "trimmed": 0.594626,
+     "duration": 174.785
+    },
+    "song.m4a": {
+     "video_id": "Km__cJEJ3JI",
+     "status": "downloaded",
+     "trimmed": 0.74576,
+     "duration": 171.872
+    }
+   }
+  },
+  {
+   "piano_id": "sfXO14l1RSs",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "lSUNBKS2BAk",
+     "status": "downloaded",
+     "trimmed": 1.582585,
+     "duration": 231.546
+    },
+    "piano.m4a": {
+     "video_id": "sfXO14l1RSs",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 234.121
+    },
+    "song.m4a": {
+     "video_id": "KimssgUuf7k",
+     "status": "downloaded",
+     "duration": 234.498
+    }
+   }
+  },
+  {
+   "piano_id": "7SHc8__NcYo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "7SHc8__NcYo",
+     "status": "downloaded",
+     "duration": 213.925
+    },
+    "song.m4a": {
+     "video_id": "KuliCkN2oic",
+     "status": "downloaded",
+     "duration": 209.142
+    }
+   }
+  },
+  {
+   "piano_id": "9M6x0DtShpg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "9M6x0DtShpg",
+     "status": "downloaded",
+     "duration": 228.066
+    },
+    "song.m4a": {
+     "video_id": "Kwf7P2GNAVw",
+     "status": "downloaded",
+     "trimmed": 0.83415,
+     "duration": 234.338
+    }
+   }
+  },
+  {
+   "piano_id": "n7ryN6meVq0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "n7ryN6meVq0",
+     "status": "downloaded",
+     "trimmed": 0.612948,
+     "duration": 222.6
+    },
+    "song.m4a": {
+     "video_id": "L0MK7qz13bU",
+     "status": "downloaded",
+     "trimmed": 1.539048,
+     "duration": 221.187
+    }
+   }
+  },
+  {
+   "piano_id": "PNISFFaW8VQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "PNISFFaW8VQ",
+     "status": "downloaded",
+     "duration": 231.851
+    },
+    "song.m4a": {
+     "video_id": "LXUSaVw3Mvk",
+     "status": "downloaded",
+     "trimmed": 2.591066,
+     "duration": 228.633
+    }
+   }
+  },
+  {
+   "piano_id": "3njy5ZLGjcw",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "SsRVr37gm7c",
+     "status": "downloaded",
+     "duration": 160.055
+    },
+    "piano.m4a": {
+     "video_id": "3njy5ZLGjcw",
+     "status": "downloaded",
+     "trimmed": 0.310295,
+     "duration": 157.748
+    },
+    "song.m4a": {
+     "video_id": "L7mfjvdnPno",
+     "status": "downloaded",
+     "duration": 159.428
+    }
+   }
+  },
+  {
+   "piano_id": "fdMGQNiIwvU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "fdMGQNiIwvU",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 182.643
+    },
+    "song.m4a": {
+     "video_id": "L_OsaAr-w8s",
+     "status": "downloaded",
+     "duration": 181.859
+    }
+   }
+  },
+  {
+   "piano_id": "pF-_y0aK0wk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "pF-_y0aK0wk",
+     "status": "downloaded",
+     "trimmed": 0.38288,
+     "duration": 160.253
+    },
+    "song.m4a": {
+     "video_id": "Lj4-SIa9bbk",
+     "status": "downloaded",
+     "trimmed": 0.743696,
+     "duration": 168.275
+    }
+   }
+  },
+  {
+   "piano_id": "ClpEDI7y7p0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ClpEDI7y7p0",
+     "status": "downloaded",
+     "duration": 224.816
+    },
+    "song.m4a": {
+     "video_id": "LoFEvX6r7k4",
+     "status": "downloaded",
+     "duration": 230.504
+    }
+   }
+  },
+  {
+   "piano_id": "BmcIkiPEg48",
+   "files": {
+    "piano.m4a": {
+     "video_id": "BmcIkiPEg48",
+     "status": "downloaded",
+     "trimmed": 0.710091,
+     "duration": 232.418
+    },
+    "song.m4a": {
+     "video_id": "Mgfe5tIwOj0",
+     "status": "downloaded",
+     "trimmed": 1.176077,
+     "duration": 229.839
+    }
+   }
+  },
+  {
+   "piano_id": "-mrS48nHBag",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-mrS48nHBag",
+     "status": "downloaded",
+     "trimmed": 1.038526,
+     "duration": 259.931
+    },
+    "song.m4a": {
+     "video_id": "MMyNH7mlm0M",
+     "status": "downloaded",
+     "trimmed": 0.640658,
+     "duration": 262.511
+    }
+   }
+  },
+  {
+   "piano_id": "salA57uYcxY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "salA57uYcxY",
+     "status": "downloaded",
+     "trimmed": 7.21805,
+     "duration": 185.438
+    },
+    "song.m4a": {
+     "video_id": "MlThQTo6D8A",
+     "status": "downloaded",
+     "trimmed": 0.61805,
+     "duration": 177.432
+    }
+   }
+  },
+  {
+   "piano_id": "SbphlnaJMNc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "SbphlnaJMNc",
+     "status": "downloaded",
+     "trimmed": 0.683673,
+     "duration": 193.458
+    },
+    "song.m4a": {
+     "video_id": "MrL7NiiQTHI",
+     "status": "downloaded",
+     "trimmed": 0.418889,
+     "duration": 199.529
+    }
+   }
+  },
+  {
+   "piano_id": "DcJqktS6il0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "DcJqktS6il0",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 346.576
+    },
+    "song.m4a": {
+     "video_id": "MwyT-X5vH48",
+     "status": "downloaded",
+     "trimmed": 0.548889,
+     "duration": 354.508
+    }
+   }
+  },
+  {
+   "piano_id": "c_ycEdZCijs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "c_ycEdZCijs",
+     "status": "downloaded",
+     "trimmed": 0.516712,
+     "duration": 138.455
+    },
+    "song.m4a": {
+     "video_id": "NGAW-DGkXuM",
+     "status": "downloaded",
+     "trimmed": 0.536757,
+     "duration": 144.565
+    }
+   }
+  },
+  {
+   "piano_id": "YAcvq6PGbIE",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "L9D6eqDf5L4",
+     "status": "downloaded",
+     "duration": 195.28
+    },
+    "piano.m4a": {
+     "video_id": "YAcvq6PGbIE",
+     "status": "downloaded",
+     "duration": 193.376
+    },
+    "song.m4a": {
+     "video_id": "Mx_OexsUI2M",
+     "status": "downloaded",
+     "duration": 212.323
+    }
+   }
+  },
+  {
+   "piano_id": "j5OuGZfsnt0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "j5OuGZfsnt0",
+     "status": "downloaded",
+     "duration": 265.66
+    },
+    "song.m4a": {
+     "video_id": "NLphEFOyoqM",
+     "status": "downloaded",
+     "duration": 271.882
+    }
+   }
+  },
+  {
+   "piano_id": "UHnSsj5Ipag",
+   "files": {
+    "piano.m4a": {
+     "video_id": "UHnSsj5Ipag",
+     "status": "downloaded",
+     "trimmed": 0.808141,
+     "duration": 195.819
+    },
+    "song.m4a": {
+     "video_id": "NM4e606yFJg",
+     "status": "downloaded",
+     "duration": 202.385
+    }
+   }
+  },
+  {
+   "piano_id": "fxiI0dCtFl0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "fxiI0dCtFl0",
+     "status": "downloaded",
+     "trimmed": 0.551859,
+     "duration": 236.501
+    },
+    "song.m4a": {
+     "video_id": "NZKXkD6EgBk",
+     "status": "downloaded",
+     "duration": 232.594
+    }
+   }
+  },
+  {
+   "piano_id": "EF2rz5JkvlI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "EF2rz5JkvlI",
+     "status": "downloaded",
+     "trimmed": 0.694127,
+     "duration": 243.023
+    },
+    "song.m4a": {
+     "video_id": "Nd_M9A5xFlY",
+     "status": "downloaded",
+     "duration": 239.003
+    }
+   }
+  },
+  {
+   "piano_id": "F--MQFzWzjs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "F--MQFzWzjs",
+     "status": "downloaded",
+     "duration": 264.429
+    },
+    "song.m4a": {
+     "video_id": "NefzCWL_n8o",
+     "status": "downloaded",
+     "trimmed": 0.435896,
+     "duration": 268.645
+    }
+   }
+  },
+  {
+   "piano_id": "xiQJ8veqywY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "xiQJ8veqywY",
+     "status": "downloaded",
+     "trimmed": 8.859773,
+     "duration": 233.975
+    },
+    "song.m4a": {
+     "video_id": "NgsWGfUlwJI",
+     "status": "downloaded",
+     "trimmed": 0.380136,
+     "duration": 233.7
+    }
+   }
+  },
+  {
+   "piano_id": "KT6rXMQ2aTQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "KT6rXMQ2aTQ",
+     "status": "downloaded",
+     "trimmed": 8.99771,
+     "duration": 265.091
+    },
+    "song.m4a": {
+     "video_id": "NqfC6K7Wbr4",
+     "status": "downloaded",
+     "trimmed": 1.344535,
+     "duration": 263.433
+    }
+   }
+  },
+  {
+   "piano_id": "SkwZvN8NZ1Q",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "q19rgAmx7Us",
+     "status": "downloaded",
+     "trimmed": 0.83356,
+     "duration": 197.233
+    },
+    "piano.m4a": {
+     "video_id": "SkwZvN8NZ1Q",
+     "status": "downloaded",
+     "duration": 198.066
+    },
+    "song.m4a": {
+     "video_id": "OORBa32WFcM",
+     "status": "downloaded",
+     "trimmed": 0.808458,
+     "duration": 215.811
+    }
+   }
+  },
+  {
+   "piano_id": "Eczz9s0XN6k",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "D1VnKV28mbA",
+     "status": "downloaded",
+     "trimmed": 0.355624,
+     "duration": 160.117
+    },
+    "piano.m4a": {
+     "video_id": "Eczz9s0XN6k",
+     "status": "downloaded",
+     "trimmed": 0.496213,
+     "duration": 155.821
+    },
+    "song.m4a": {
+     "video_id": "Nym5stAJAt8",
+     "status": "downloaded",
+     "trimmed": 0.711497,
+     "duration": 207.642
+    }
+   }
+  },
+  {
+   "piano_id": "tKRpO8LI8aM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "F9lIOOGi-mE",
+     "status": "downloaded",
+     "trimmed": 0.311088,
+     "duration": 254.76
+    },
+    "piano.m4a": {
+     "video_id": "tKRpO8LI8aM",
+     "status": "downloaded",
+     "trimmed": 0.6861,
+     "duration": 257.984
+    },
+    "song.m4a": {
+     "video_id": "OOYlWF6V8t8",
+     "status": "downloaded",
+     "duration": 258.879
+    }
+   }
+  },
+  {
+   "piano_id": "T7Di5Vpzn1k",
+   "files": {
+    "piano.m4a": {
+     "video_id": "T7Di5Vpzn1k",
+     "status": "downloaded",
+     "duration": 248.57
+    },
+    "song.m4a": {
+     "video_id": "OWbDJFtHl3w",
+     "status": "downloaded",
+     "trimmed": 0.755329,
+     "duration": 256.173
+    }
+   }
+  },
+  {
+   "piano_id": "ed1Jk-MOzDQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ed1Jk-MOzDQ",
+     "status": "downloaded",
+     "trimmed": 0.506349,
+     "duration": 197.351
+    },
+    "song.m4a": {
+     "video_id": "OuuBnf2aGCc",
+     "status": "downloaded",
+     "trimmed": 0.647823,
+     "duration": 198.371
+    }
+   }
+  },
+  {
+   "piano_id": "UOZDZ2INlzQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "UOZDZ2INlzQ",
+     "status": "downloaded",
+     "trimmed": 6.810136,
+     "duration": 228.594
+    },
+    "song.m4a": {
+     "video_id": "OXtZfPZIex4",
+     "status": "downloaded",
+     "duration": 235.381
+    }
+   }
+  },
+  {
+   "piano_id": "yzPFJ2e6XnM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "yzPFJ2e6XnM",
+     "status": "downloaded",
+     "trimmed": 0.429002,
+     "duration": 222.018
+    },
+    "song.m4a": {
+     "video_id": "OxZa0Doyh6I",
+     "status": "downloaded",
+     "duration": 228.484
+    }
+   }
+  },
+  {
+   "piano_id": "Pe_5sCOY54g",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "NtLeLShY4uA",
+     "status": "downloaded",
+     "trimmed": 0.373946,
+     "duration": 231.663
+    },
+    "piano.m4a": {
+     "video_id": "Pe_5sCOY54g",
+     "status": "downloaded",
+     "trimmed": 3.666893,
+     "duration": 233.803
+    },
+    "song.m4a": {
+     "video_id": "OuTLKgPyaF0",
+     "status": "failed"
+    }
+   }
+  },
+  {
+   "piano_id": "73Dlz2yqXh8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "eV1ilNyZfpA",
+     "status": "downloaded",
+     "duration": 182.741
+    },
+    "piano.m4a": {
+     "video_id": "73Dlz2yqXh8",
+     "status": "downloaded",
+     "trimmed": 0.492426,
+     "duration": 172.636
+    },
+    "song.m4a": {
+     "video_id": "Oxf8ULSB8yU",
+     "status": "downloaded",
+     "trimmed": 0.401088,
+     "duration": 180.482
+    }
+   }
+  },
+  {
+   "piano_id": "BmL2g6Z2PI8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "g4kZEHHYLAs",
+     "status": "downloaded",
+     "trimmed": 1.50068,
+     "duration": 212.611
+    },
+    "piano.m4a": {
+     "video_id": "BmL2g6Z2PI8",
+     "status": "downloaded",
+     "duration": 212.277
+    },
+    "song.m4a": {
+     "video_id": "OybFOQyFd4o",
+     "status": "downloaded",
+     "trimmed": 0.577279,
+     "duration": 212.072
+    }
+   }
+  },
+  {
+   "piano_id": "eUsb0lmeGm4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "eUsb0lmeGm4",
+     "status": "downloaded",
+     "trimmed": 7.5031289999999995,
+     "duration": 244.596
+    },
+    "song.m4a": {
+     "video_id": "P5YlGvgxfO0",
+     "status": "downloaded",
+     "trimmed": 0.435986,
+     "duration": 243.628
+    }
+   }
+  },
+  {
+   "piano_id": "6jxlYH8wAMA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "6jxlYH8wAMA",
+     "status": "downloaded",
+     "trimmed": 0.377823,
+     "duration": 287.34
+    },
+    "song.m4a": {
+     "video_id": "PIh07c_P4hc",
+     "status": "downloaded",
+     "trimmed": 0.956825,
+     "duration": 295.028
+    }
+   }
+  },
+  {
+   "piano_id": "zX7jcYJrmHk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "zX7jcYJrmHk",
+     "status": "downloaded",
+     "trimmed": 7.872971,
+     "duration": 289.249
+    },
+    "song.m4a": {
+     "video_id": "PIh07c_P4hc",
+     "status": "downloaded",
+     "trimmed": 0.956825,
+     "duration": 295.028
+    }
+   }
+  },
+  {
+   "piano_id": "X-JjsJK3xz4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "X-JjsJK3xz4",
+     "status": "downloaded",
+     "trimmed": 0.422608,
+     "duration": 212.969
+    },
+    "song.m4a": {
+     "video_id": "POIK1H3L86k",
+     "status": "downloaded",
+     "trimmed": 5.024444,
+     "duration": 209.296
+    }
+   }
+  },
+  {
+   "piano_id": "L4XE2Klj7ds",
+   "files": {
+    "piano.m4a": {
+     "video_id": "L4XE2Klj7ds",
+     "status": "downloaded",
+     "trimmed": 0.445397,
+     "duration": 225.136
+    },
+    "song.m4a": {
+     "video_id": "PP_ZF25o1Jk",
+     "status": "downloaded",
+     "trimmed": 2.4822,
+     "duration": 216.18
+    }
+   }
+  },
+  {
+   "piano_id": "bYRT27dJjGI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "JMxm7ZmWVpU",
+     "status": "downloaded",
+     "trimmed": 0.4678,
+     "duration": 169.641
+    },
+    "piano.m4a": {
+     "video_id": "bYRT27dJjGI",
+     "status": "downloaded",
+     "trimmed": 0.648299,
+     "duration": 169.949
+    },
+    "song.m4a": {
+     "video_id": "PQZhN65vq9E",
+     "status": "downloaded",
+     "trimmed": 0.738639,
+     "duration": 162.266
+    }
+   }
+  },
+  {
+   "piano_id": "_jGHjMzJyZQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "_jGHjMzJyZQ",
+     "status": "downloaded",
+     "trimmed": 0.43127,
+     "duration": 230.282
+    },
+    "song.m4a": {
+     "video_id": "Pn802pDdJOs",
+     "status": "downloaded",
+     "trimmed": 1.953288,
+     "duration": 236.539
+    }
+   }
+  },
+  {
+   "piano_id": "JVKKNP55C9g",
+   "files": {
+    "piano.m4a": {
+     "video_id": "JVKKNP55C9g",
+     "status": "downloaded",
+     "trimmed": 0.347959,
+     "duration": 184.948
+    },
+    "song.m4a": {
+     "video_id": "PZuY2GXQAcg",
+     "status": "downloaded",
+     "trimmed": 0.35458,
+     "duration": 185.498
+    }
+   }
+  },
+  {
+   "piano_id": "8osR4JxQ1dQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8osR4JxQ1dQ",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 290.406
+    },
+    "song.m4a": {
+     "video_id": "PxH3skG_UII",
+     "status": "downloaded",
+     "trimmed": 2.609796,
+     "duration": 289.567
+    }
+   }
+  },
+  {
+   "piano_id": "N6XJ_I0fNnk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "N6XJ_I0fNnk",
+     "status": "downloaded",
+     "trimmed": 0.734807,
+     "duration": 197.076
+    },
+    "song.m4a": {
+     "video_id": "PyMdgVepEgU",
+     "status": "downloaded",
+     "duration": 193.98
+    }
+   }
+  },
+  {
+   "piano_id": "MKmBlRmD43c",
+   "files": {
+    "piano.m4a": {
+     "video_id": "MKmBlRmD43c",
+     "status": "downloaded",
+     "trimmed": 8.431859,
+     "duration": 302.785
+    },
+    "song.m4a": {
+     "video_id": "QSsCSOzDDIU",
+     "status": "downloaded",
+     "duration": 297.842
+    }
+   }
+  },
+  {
+   "piano_id": "qWVBcVq6vT0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "qWVBcVq6vT0",
+     "status": "downloaded",
+     "duration": 343.377
+    },
+    "song.m4a": {
+     "video_id": "QwVjTlTdIDQ",
+     "status": "downloaded",
+     "trimmed": 0.512562,
+     "duration": 339.497
+    }
+   }
+  },
+  {
+   "piano_id": "qKAFjwVwwkc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "qKAFjwVwwkc",
+     "status": "downloaded",
+     "trimmed": 0.55458,
+     "duration": 192.055
+    },
+    "song.m4a": {
+     "video_id": "Qt5wB7KXSaM",
+     "status": "downloaded",
+     "trimmed": 0.50619,
+     "duration": 188.945
+    }
+   }
+  },
+  {
+   "piano_id": "Smni5YBuPmo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Smni5YBuPmo",
+     "status": "downloaded",
+     "trimmed": 2.060159,
+     "duration": 181.982
+    },
+    "song.m4a": {
+     "video_id": "R7UrFYvl5TE",
+     "status": "downloaded",
+     "trimmed": 0.346893,
+     "duration": 191.52
+    }
+   }
+  },
+  {
+   "piano_id": "giZV6zYWTnM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "giZV6zYWTnM",
+     "status": "downloaded",
+     "trimmed": 0.571451,
+     "duration": 210.312
+    },
+    "song.m4a": {
+     "video_id": "R9oYAk5Vfqw",
+     "status": "downloaded",
+     "trimmed": 0.322041,
+     "duration": 208.936
+    }
+   }
+  },
+  {
+   "piano_id": "DURvP0oryFw",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "NFYyNXOwjZM",
+     "status": "downloaded",
+     "duration": 210.651
+    },
+    "piano.m4a": {
+     "video_id": "DURvP0oryFw",
+     "status": "downloaded",
+     "duration": 215.365
+    },
+    "song.m4a": {
+     "video_id": "RPvhItA3lIM",
+     "status": "downloaded",
+     "duration": 209.885
+    }
+   }
+  },
+  {
+   "piano_id": "mahkhYHpW0s",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "DApRIBeZNrg",
+     "status": "downloaded",
+     "trimmed": 0.350272,
+     "duration": 220.309
+    },
+    "piano.m4a": {
+     "video_id": "mahkhYHpW0s",
+     "status": "downloaded",
+     "trimmed": 0.794104,
+     "duration": 222.164
+    },
+    "song.m4a": {
+     "video_id": "RId6LV1wtQY",
+     "status": "downloaded",
+     "duration": 224.282
+    }
+   }
+  },
+  {
+   "piano_id": "RWgzWf0kJcE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "RWgzWf0kJcE",
+     "status": "downloaded",
+     "trimmed": 0.395941,
+     "duration": 201.339
+    },
+    "song.m4a": {
+     "video_id": "RRic28k8sVU",
+     "status": "downloaded",
+     "duration": 200.6
+    }
+   }
+  },
+  {
+   "piano_id": "sjIHfay6MIU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "sjIHfay6MIU",
+     "status": "downloaded",
+     "duration": 190.589
+    },
+    "song.m4a": {
+     "video_id": "Rb_tqxQKSPM",
+     "status": "downloaded",
+     "duration": 191.843
+    }
+   }
+  },
+  {
+   "piano_id": "CKfyN1ulT_4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "CKfyN1ulT_4",
+     "status": "downloaded",
+     "trimmed": 0.613968,
+     "duration": 235.904
+    },
+    "song.m4a": {
+     "video_id": "RhU9MZ98jxo",
+     "status": "downloaded",
+     "trimmed": 0.349569,
+     "duration": 228.529
+    }
+   }
+  },
+  {
+   "piano_id": "ghfrjPYtahU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ghfrjPYtahU",
+     "status": "downloaded",
+     "trimmed": 0.554535,
+     "duration": 224.145
+    },
+    "song.m4a": {
+     "video_id": "Rt9tW3cMLhI",
+     "status": "downloaded",
+     "trimmed": 2.306893,
+     "duration": 214.66
+    }
+   }
+  },
+  {
+   "piano_id": "dFqsRjB_1Zs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "dFqsRjB_1Zs",
+     "status": "downloaded",
+     "trimmed": 0.592313,
+     "duration": 159.649
+    },
+    "song.m4a": {
+     "video_id": "SLiNQhQr4G4",
+     "status": "downloaded",
+     "trimmed": 0.744807,
+     "duration": 154.806
+    }
+   }
+  },
+  {
+   "piano_id": "ZNdQMo24KTk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ZNdQMo24KTk",
+     "status": "downloaded",
+     "duration": 165.907
+    },
+    "song.m4a": {
+     "video_id": "RyJ5GbzEZC0",
+     "status": "downloaded",
+     "duration": 162.725
+    }
+   }
+  },
+  {
+   "piano_id": "zwQaPdSbY_4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "zwQaPdSbY_4",
+     "status": "downloaded",
+     "trimmed": 0.754308,
+     "duration": 162.041
+    },
+    "song.m4a": {
+     "video_id": "SQnc1QibapQ",
+     "status": "downloaded",
+     "trimmed": 0.798685,
+     "duration": 154.751
+    }
+   }
+  },
+  {
+   "piano_id": "3CX8Lm07Uk0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "3CX8Lm07Uk0",
+     "status": "downloaded",
+     "trimmed": 0.483039,
+     "duration": 173.109
+    },
+    "song.m4a": {
+     "video_id": "SOxmA-nKfbU",
+     "status": "downloaded",
+     "duration": 182.927
+    }
+   }
+  },
+  {
+   "piano_id": "ArsLCUSq0Vs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ArsLCUSq0Vs",
+     "status": "downloaded",
+     "trimmed": 0.415714,
+     "duration": 205.314
+    },
+    "song.m4a": {
+     "video_id": "SRXH9AbT280",
+     "status": "downloaded",
+     "duration": 200.528
+    }
+   }
+  },
+  {
+   "piano_id": "HLyXzwA_43Y",
+   "files": {
+    "piano.m4a": {
+     "video_id": "HLyXzwA_43Y",
+     "status": "downloaded",
+     "duration": 152.137
+    },
+    "song.m4a": {
+     "video_id": "Sujm6756pZU",
+     "status": "downloaded",
+     "trimmed": 0.733764,
+     "duration": 158.741
+    }
+   }
+  },
+  {
+   "piano_id": "8AMZhQe0afM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8AMZhQe0afM",
+     "status": "downloaded",
+     "trimmed": 0.505329,
+     "duration": 218.598
+    },
+    "song.m4a": {
+     "video_id": "SyXfJi2KZ-A",
+     "status": "downloaded",
+     "duration": 217.687
+    }
+   }
+  },
+  {
+   "piano_id": "NzKYScIhFeg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "NzKYScIhFeg",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 299.903
+    },
+    "song.m4a": {
+     "video_id": "SZADEHP2yFg",
+     "status": "downloaded",
+     "duration": 292.223
+    }
+   }
+  },
+  {
+   "piano_id": "tIu568Pb1pA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "tIu568Pb1pA",
+     "status": "downloaded",
+     "trimmed": 0.999705,
+     "duration": 155.294
+    },
+    "song.m4a": {
+     "video_id": "T5k2-0yRzKc",
+     "status": "downloaded",
+     "duration": 154.761
+    }
+   }
+  },
+  {
+   "piano_id": "CYlQur3l7pg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "CYlQur3l7pg",
+     "status": "downloaded",
+     "duration": 245.806
+    },
+    "song.m4a": {
+     "video_id": "TJAfLE39ZZ8",
+     "status": "downloaded",
+     "duration": 240.094
+    }
+   }
+  },
+  {
+   "piano_id": "V_jttEEWx1c",
+   "files": {
+    "piano.m4a": {
+     "video_id": "V_jttEEWx1c",
+     "status": "downloaded",
+     "trimmed": 0.780317,
+     "duration": 210.382
+    },
+    "song.m4a": {
+     "video_id": "TL_oroU9eN8",
+     "status": "downloaded",
+     "duration": 204.28
+    }
+   }
+  },
+  {
+   "piano_id": "2NFCXSbkcxE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "2NFCXSbkcxE",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 217.821
+    },
+    "song.m4a": {
+     "video_id": "TWH7KrbkDmY",
+     "status": "downloaded",
+     "trimmed": 0.593016,
+     "duration": 227.079
+    }
+   }
+  },
+  {
+   "piano_id": "0Woh6y73R-c",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "B3VS8f2331M",
+     "status": "downloaded",
+     "trimmed": 0.363515,
+     "duration": 206.201
+    },
+    "piano.m4a": {
+     "video_id": "0Woh6y73R-c",
+     "status": "downloaded",
+     "duration": 199.901
+    },
+    "song.m4a": {
+     "video_id": "TR3Vdo5etCQ",
+     "status": "downloaded",
+     "duration": 301.023
+    }
+   }
+  },
+  {
+   "piano_id": "M0uIw9XydRw",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "0V6Iy8aFPyo",
+     "status": "downloaded",
+     "duration": 150.349
+    },
+    "piano.m4a": {
+     "video_id": "M0uIw9XydRw",
+     "status": "downloaded",
+     "trimmed": 0.343537,
+     "duration": 156.136
+    },
+    "song.m4a": {
+     "video_id": "TW98pGSTvM0",
+     "status": "downloaded",
+     "trimmed": 0.347052,
+     "duration": 149.794
+    }
+   }
+  },
+  {
+   "piano_id": "TWMLxmytVY8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "TWMLxmytVY8",
+     "status": "downloaded",
+     "trimmed": 6.488277,
+     "duration": 229.798
+    },
+    "song.m4a": {
+     "video_id": "TjEbuWP3hjg",
+     "status": "downloaded",
+     "duration": 229.227
+    }
+   }
+  },
+  {
+   "piano_id": "hNEqPwtMBCk",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "ZQDDgZO0jI4",
+     "status": "downloaded",
+     "trimmed": 0.342812,
+     "duration": 184.21
+    },
+    "piano.m4a": {
+     "video_id": "hNEqPwtMBCk",
+     "status": "downloaded",
+     "trimmed": 0.980567,
+     "duration": 192.163
+    },
+    "song.m4a": {
+     "video_id": "Tc-gXkHAri8",
+     "status": "downloaded",
+     "duration": 184.181
+    }
+   }
+  },
+  {
+   "piano_id": "-fmyfapN5nc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-fmyfapN5nc",
+     "status": "downloaded",
+     "trimmed": 0.859025,
+     "duration": 230.644
+    },
+    "song.m4a": {
+     "video_id": "TfNymCvydHc",
+     "status": "downloaded",
+     "duration": 226.325
+    }
+   }
+  },
+  {
+   "piano_id": "n_5tGUKe_UY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "n_5tGUKe_UY",
+     "status": "downloaded",
+     "trimmed": 1.660544,
+     "duration": 295.741
+    },
+    "song.m4a": {
+     "video_id": "UAWcs5H-qgQ",
+     "status": "downloaded",
+     "duration": 289.622
+    }
+   }
+  },
+  {
+   "piano_id": "8kQr0xCASGI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8kQr0xCASGI",
+     "status": "downloaded",
+     "trimmed": 7.097619,
+     "duration": 232.95
+    },
+    "song.m4a": {
+     "video_id": "U1yeC2wmtzw",
+     "status": "downloaded",
+     "trimmed": 0.564603,
+     "duration": 231.728
+    }
+   }
+  },
+  {
+   "piano_id": "l4RSUW4pNPU",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "mzcCDeQN6QE",
+     "status": "downloaded",
+     "duration": 199.506
+    },
+    "piano.m4a": {
+     "video_id": "l4RSUW4pNPU",
+     "status": "downloaded",
+     "duration": 205.891
+    },
+    "song.m4a": {
+     "video_id": "UGm700kaFEE",
+     "status": "downloaded",
+     "duration": 195.094
+    }
+   }
+  },
+  {
+   "piano_id": "OocJOD1dqTA",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "uaZYvkEhtx4",
+     "status": "downloaded",
+     "duration": 195.048
+    },
+    "piano.m4a": {
+     "video_id": "OocJOD1dqTA",
+     "status": "downloaded",
+     "duration": 194.072
+    },
+    "song.m4a": {
+     "video_id": "Tmz1lz0zcLQ",
+     "status": "downloaded",
+     "trimmed": 0.30737,
+     "duration": 194.276
+    }
+   }
+  },
+  {
+   "piano_id": "lT-RcxhoNL0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "lT-RcxhoNL0",
+     "status": "downloaded",
+     "trimmed": 0.620794,
+     "duration": 213.444
+    },
+    "song.m4a": {
+     "video_id": "UVob6MQQRqk",
+     "status": "downloaded",
+     "trimmed": 0.642086,
+     "duration": 221.99
+    }
+   }
+  },
+  {
+   "piano_id": "zne6gHN2YH4",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "fwzoDW31g5w",
+     "status": "downloaded",
+     "trimmed": 0.518345,
+     "duration": 228.198
+    },
+    "piano.m4a": {
+     "video_id": "zne6gHN2YH4",
+     "status": "downloaded",
+     "trimmed": 7.203469,
+     "duration": 234.075
+    },
+    "song.m4a": {
+     "video_id": "UdRAXWNvjzE",
+     "status": "downloaded",
+     "trimmed": 0.538753,
+     "duration": 228.248
+    }
+   }
+  },
+  {
+   "piano_id": "nRDLbls0Qkw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "nRDLbls0Qkw",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 280.422
+    },
+    "song.m4a": {
+     "video_id": "V8WXFRHfJhI",
+     "status": "downloaded",
+     "duration": 288.787
+    }
+   }
+  },
+  {
+   "piano_id": "yQn11gqM7_I",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "MzMn5rNo4Pc",
+     "status": "downloaded",
+     "trimmed": 10.203107,
+     "duration": 201.865
+    },
+    "piano.m4a": {
+     "video_id": "yQn11gqM7_I",
+     "status": "downloaded",
+     "trimmed": 0.407483,
+     "duration": 216.072
+    },
+    "song.m4a": {
+     "video_id": "Urdlvw0SSEc",
+     "status": "downloaded",
+     "trimmed": 0.706667,
+     "duration": 206.276
+    }
+   }
+  },
+  {
+   "piano_id": "MBewmIYo4kM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "qZGbzi1Lcys",
+     "status": "downloaded",
+     "trimmed": 0.333719,
+     "duration": 185.333
+    },
+    "piano.m4a": {
+     "video_id": "MBewmIYo4kM",
+     "status": "downloaded",
+     "trimmed": 0.488367,
+     "duration": 185.643
+    },
+    "song.m4a": {
+     "video_id": "V37TaRdVUQY",
+     "status": "downloaded",
+     "trimmed": 0.644422,
+     "duration": 275.905
+    }
+   }
+  },
+  {
+   "piano_id": "UchcBv-opL0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "UchcBv-opL0",
+     "status": "downloaded",
+     "trimmed": 0.843447,
+     "duration": 174.235
+    },
+    "song.m4a": {
+     "video_id": "VArOUfVOjqI",
+     "status": "downloaded",
+     "duration": 169.599
+    }
+   }
+  },
+  {
+   "piano_id": "2XbGj8NOZoY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "2XbGj8NOZoY",
+     "status": "downloaded",
+     "trimmed": 3.56263,
+     "duration": 205.673
+    },
+    "song.m4a": {
+     "video_id": "VS6ixn2berk",
+     "status": "downloaded",
+     "trimmed": 0.33415,
+     "duration": 209.899
+    }
+   }
+  },
+  {
+   "piano_id": "7qYOTcFg5Qg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "7qYOTcFg5Qg",
+     "status": "downloaded",
+     "trimmed": 7.260294999999999,
+     "duration": 214.281
+    },
+    "song.m4a": {
+     "video_id": "VoBxqnCi6rQ",
+     "status": "downloaded",
+     "duration": 218.36
+    }
+   }
+  },
+  {
+   "piano_id": "goochM9aB7w",
+   "files": {
+    "piano.m4a": {
+     "video_id": "goochM9aB7w",
+     "status": "downloaded",
+     "trimmed": 0.462109,
+     "duration": 186.552
+    },
+    "song.m4a": {
+     "video_id": "VtQorLzzbQw",
+     "status": "downloaded",
+     "duration": 182.579
+    }
+   }
+  },
+  {
+   "piano_id": "E85CxgX5_Lk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "E85CxgX5_Lk",
+     "status": "downloaded",
+     "trimmed": 0.399116,
+     "duration": 234.494
+    },
+    "song.m4a": {
+     "video_id": "VzU63aN0Lno",
+     "status": "downloaded",
+     "duration": 229.46
+    }
+   }
+  },
+  {
+   "piano_id": "CZHMkn8-dGs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "CZHMkn8-dGs",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 207.302
+    },
+    "song.m4a": {
+     "video_id": "WRfhzWaiQvk",
+     "status": "downloaded",
+     "duration": 199.134
+    }
+   }
+  },
+  {
+   "piano_id": "KyLQum3nQoI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "KyLQum3nQoI",
+     "status": "downloaded",
+     "trimmed": 6.833855,
+     "duration": 249.677
+    },
+    "song.m4a": {
+     "video_id": "WUvD8XAPI4E",
+     "status": "downloaded",
+     "duration": 247.153
+    }
+   }
+  },
+  {
+   "piano_id": "LCpnlaBDayc",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "myWC-iTBhns",
+     "status": "downloaded",
+     "duration": 225.837
+    },
+    "piano.m4a": {
+     "video_id": "LCpnlaBDayc",
+     "status": "downloaded",
+     "trimmed": 9.421745999999999,
+     "duration": 227.329
+    },
+    "song.m4a": {
+     "video_id": "W7nmB20qJv4",
+     "status": "downloaded",
+     "duration": 225.721
+    }
+   }
+  },
+  {
+   "piano_id": "dLKWr9gvv3M",
+   "files": {
+    "piano.m4a": {
+     "video_id": "dLKWr9gvv3M",
+     "status": "downloaded",
+     "trimmed": 0.891383,
+     "duration": 196.919
+    },
+    "song.m4a": {
+     "video_id": "WaSy8yy-mr8",
+     "status": "downloaded",
+     "duration": 198.113
+    }
+   }
+  },
+  {
+   "piano_id": "T9DoHJZ8yuQ",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "ObIpuDrG5Ew",
+     "status": "downloaded",
+     "trimmed": 0.970884,
+     "duration": 236.221
+    },
+    "piano.m4a": {
+     "video_id": "T9DoHJZ8yuQ",
+     "status": "downloaded",
+     "trimmed": 0.466508,
+     "duration": 239.744
+    },
+    "song.m4a": {
+     "video_id": "WcKSPyhrGWc",
+     "status": "downloaded",
+     "trimmed": 1.275646,
+     "duration": 240.444
+    }
+   }
+  },
+  {
+   "piano_id": "r1M9eVZ-eJ0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "r1M9eVZ-eJ0",
+     "status": "downloaded",
+     "duration": 298.655
+    },
+    "song.m4a": {
+     "video_id": "WkdQhfDRBKs",
+     "status": "downloaded",
+     "trimmed": 0.397596,
+     "duration": 293.544
+    }
+   }
+  },
+  {
+   "piano_id": "ZNSrPFtLii0",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "ObIpuDrG5Ew",
+     "status": "downloaded",
+     "trimmed": 0.970884,
+     "duration": 236.221
+    },
+    "piano.m4a": {
+     "video_id": "ZNSrPFtLii0",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 228.154
+    },
+    "song.m4a": {
+     "video_id": "WcKSPyhrGWc",
+     "status": "downloaded",
+     "trimmed": 1.275646,
+     "duration": 240.444
+    }
+   }
+  },
+  {
+   "piano_id": "ofVTQPll3jo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ofVTQPll3jo",
+     "status": "downloaded",
+     "trimmed": 0.914558,
+     "duration": 240.318
+    },
+    "song.m4a": {
+     "video_id": "WuvhOD-mP8M",
+     "status": "downloaded",
+     "trimmed": 0.708231,
+     "duration": 234.51
+    }
+   }
+  },
+  {
+   "piano_id": "WXhSkWsVga4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "WXhSkWsVga4",
+     "status": "downloaded",
+     "trimmed": 10.151859,
+     "duration": 255.903
+    },
+    "song.m4a": {
+     "video_id": "Wv3pffltNeY",
+     "status": "downloaded",
+     "duration": 266.054
+    }
+   }
+  },
+  {
+   "piano_id": "EzLgnZGY5UI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "EzLgnZGY5UI",
+     "status": "downloaded",
+     "trimmed": 0.412494,
+     "duration": 249.109
+    },
+    "song.m4a": {
+     "video_id": "WwMsWjrlu54",
+     "status": "downloaded",
+     "trimmed": 0.795215,
+     "duration": 252.86
+    }
+   }
+  },
+  {
+   "piano_id": "n2C3XNAHmPc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "n2C3XNAHmPc",
+     "status": "downloaded",
+     "trimmed": 0.322313,
+     "duration": 192.403
+    },
+    "song.m4a": {
+     "video_id": "X-OSOtL401o",
+     "status": "downloaded",
+     "duration": 188.5
+    }
+   }
+  },
+  {
+   "piano_id": "sz-JbTfbAkI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "iBu5kiHaa6s",
+     "status": "downloaded",
+     "trimmed": 0.311088,
+     "duration": 224.435
+    },
+    "piano.m4a": {
+     "video_id": "sz-JbTfbAkI",
+     "status": "downloaded",
+     "trimmed": 7.126417,
+     "duration": 230.111
+    },
+    "song.m4a": {
+     "video_id": "X-yIEMduRXk",
+     "status": "downloaded",
+     "trimmed": 0.489683,
+     "duration": 225.231
+    }
+   }
+  },
+  {
+   "piano_id": "S0cwQKP_1MY",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "iBu5kiHaa6s",
+     "status": "downloaded",
+     "trimmed": 0.311088,
+     "duration": 224.435
+    },
+    "piano.m4a": {
+     "video_id": "S0cwQKP_1MY",
+     "status": "downloaded",
+     "trimmed": 0.566961,
+     "duration": 233.305
+    },
+    "song.m4a": {
+     "video_id": "X-yIEMduRXk",
+     "status": "downloaded",
+     "trimmed": 0.489683,
+     "duration": 225.231
+    }
+   }
+  },
+  {
+   "piano_id": "-XVVwdXEB2M",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-XVVwdXEB2M",
+     "status": "downloaded",
+     "trimmed": 0.539705,
+     "duration": 183.084
+    },
+    "song.m4a": {
+     "video_id": "XmG05FLSq_g",
+     "status": "downloaded",
+     "trimmed": 0.52619,
+     "duration": 179.359
+    }
+   }
+  },
+  {
+   "piano_id": "fY3W2VGCTg4",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "V8_lIdZaYIQ",
+     "status": "downloaded",
+     "trimmed": 0.45771,
+     "duration": 212.446
+    },
+    "piano.m4a": {
+     "video_id": "fY3W2VGCTg4",
+     "status": "downloaded",
+     "duration": 216.573
+    },
+    "song.m4a": {
+     "video_id": "XiS2fgPVYvA",
+     "status": "downloaded",
+     "trimmed": 0.369456,
+     "duration": 212.408
+    }
+   }
+  },
+  {
+   "piano_id": "Y5u9HPvSKBQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Y5u9HPvSKBQ",
+     "status": "downloaded",
+     "trimmed": 5.768435,
+     "duration": 248.63
+    },
+    "song.m4a": {
+     "video_id": "Y5u9HPvSKBQ",
+     "status": "downloaded",
+     "trimmed": 5.768435,
+     "duration": 248.63
+    }
+   }
+  },
+  {
+   "piano_id": "Apbmc5e3lWg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Apbmc5e3lWg",
+     "status": "downloaded",
+     "duration": 203.569
+    },
+    "song.m4a": {
+     "video_id": "YU-rHbbPkpo",
+     "status": "downloaded",
+     "trimmed": 0.516213,
+     "duration": 209.415
+    }
+   }
+  },
+  {
+   "piano_id": "zzVltq86hJE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "zzVltq86hJE",
+     "status": "downloaded",
+     "trimmed": 9.912562,
+     "duration": 198.603
+    },
+    "song.m4a": {
+     "video_id": "YZM9-uNZZgw",
+     "status": "downloaded",
+     "trimmed": 0.356168,
+     "duration": 197.966
+    }
+   }
+  },
+  {
+   "piano_id": "2xbW1Kl4h9A",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "XCBitahMowE",
+     "status": "downloaded",
+     "trimmed": 1.196825,
+     "duration": 297.969
+    },
+    "piano.m4a": {
+     "video_id": "2xbW1Kl4h9A",
+     "status": "downloaded",
+     "trimmed": 7.300522,
+     "duration": 292.399
+    },
+    "song.m4a": {
+     "video_id": "YEbz2Qt3vec",
+     "status": "downloaded",
+     "trimmed": 1.224512,
+     "duration": 297.802
+    }
+   }
+  },
+  {
+   "piano_id": "VplWlp-ib-c",
+   "files": {
+    "piano.m4a": {
+     "video_id": "VplWlp-ib-c",
+     "status": "downloaded",
+     "trimmed": 0.737415,
+     "duration": 229.071
+    },
+    "song.m4a": {
+     "video_id": "Y_CWG6qnhow",
+     "status": "downloaded",
+     "trimmed": 5.360091,
+     "duration": 214.928
+    }
+   }
+  },
+  {
+   "piano_id": "NHXyeYx6jgk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "NHXyeYx6jgk",
+     "status": "downloaded",
+     "trimmed": 2.13424,
+     "duration": 248.571
+    },
+    "song.m4a": {
+     "video_id": "YeQ4CtiJPTo",
+     "status": "downloaded",
+     "duration": 246.898
+    }
+   }
+  },
+  {
+   "piano_id": "5Z_oP_YELv8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "5Z_oP_YELv8",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 364.432
+    },
+    "song.m4a": {
+     "video_id": "YnpGWGs5pu4",
+     "status": "downloaded",
+     "trimmed": 0.505805,
+     "duration": 367.721
+    }
+   }
+  },
+  {
+   "piano_id": "EGhf9gb_9Z0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "EGhf9gb_9Z0",
+     "status": "downloaded",
+     "trimmed": 8.675011,
+     "duration": 255.22
+    },
+    "song.m4a": {
+     "video_id": "Z-Ufooy80tU",
+     "status": "downloaded",
+     "duration": 257.022
+    }
+   }
+  },
+  {
+   "piano_id": "FEdj4S54qig",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "HjB3WX3QdMQ",
+     "status": "downloaded",
+     "duration": 179.906
+    },
+    "piano.m4a": {
+     "video_id": "FEdj4S54qig",
+     "status": "downloaded",
+     "trimmed": 0.547279,
+     "duration": 188.509
+    },
+    "song.m4a": {
+     "video_id": "YtZ-IgUjALo",
+     "status": "downloaded",
+     "trimmed": 0.358118,
+     "duration": 183.057
+    }
+   }
+  },
+  {
+   "piano_id": "IU9DiBrFut8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "IU9DiBrFut8",
+     "status": "downloaded",
+     "trimmed": 7.113492,
+     "duration": 264.304
+    },
+    "song.m4a": {
+     "video_id": "Z2wLtl2Qo8c",
+     "status": "downloaded",
+     "duration": 271.929
+    }
+   }
+  },
+  {
+   "piano_id": "MFwJc48Q2hk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "MFwJc48Q2hk",
+     "status": "downloaded",
+     "trimmed": 0.365714,
+     "duration": 211.029
+    },
+    "song.m4a": {
+     "video_id": "ZLlsmB1D4Q0",
+     "status": "downloaded",
+     "trimmed": 0.536893,
+     "duration": 209.65
+    }
+   }
+  },
+  {
+   "piano_id": "KLcQoBx0GP0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "KLcQoBx0GP0",
+     "status": "downloaded",
+     "trimmed": 0.662517,
+     "duration": 89.268
+    },
+    "song.m4a": {
+     "video_id": "ZWj-Z4Z2W3k",
+     "status": "downloaded",
+     "duration": 97.083
+    }
+   }
+  },
+  {
+   "piano_id": "p5D5_-9Hv_g",
+   "files": {
+    "piano.m4a": {
+     "video_id": "p5D5_-9Hv_g",
+     "status": "downloaded",
+     "trimmed": 0.468345,
+     "duration": 219.123
+    },
+    "song.m4a": {
+     "video_id": "ZjBZ8MUnB0E",
+     "status": "downloaded",
+     "duration": 226.487
+    }
+   }
+  },
+  {
+   "piano_id": "lWmvRyDNukg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "lWmvRyDNukg",
+     "status": "downloaded",
+     "trimmed": 0.407075,
+     "duration": 206.459
+    },
+    "song.m4a": {
+     "video_id": "ZlARJAmytnk",
+     "status": "downloaded",
+     "duration": 213.438
+    }
+   }
+  },
+  {
+   "piano_id": "8s_ADs2BRhk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8s_ADs2BRhk",
+     "status": "downloaded",
+     "trimmed": 0.709569,
+     "duration": 154.307
+    },
+    "song.m4a": {
+     "video_id": "ZqpysaAo4BQ",
+     "status": "downloaded",
+     "duration": 155.272
+    }
+   }
+  },
+  {
+   "piano_id": "Wlmh-FN4f6E",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Wlmh-FN4f6E",
+     "status": "downloaded",
+     "trimmed": 0.684014,
+     "duration": 178.876
+    },
+    "song.m4a": {
+     "video_id": "ZqCWXdZFc58",
+     "status": "downloaded",
+     "duration": 173.778
+    }
+   }
+  },
+  {
+   "piano_id": "WLtKkSvMlpk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "WLtKkSvMlpk",
+     "status": "downloaded",
+     "trimmed": 0.453152,
+     "duration": 187.699
+    },
+    "song.m4a": {
+     "video_id": "ZuvXhEl5opk",
+     "status": "downloaded",
+     "trimmed": 0.583447,
+     "duration": 183.76
+    }
+   }
+  },
+  {
+   "piano_id": "PRaDuLdlOSo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "PRaDuLdlOSo",
+     "status": "downloaded",
+     "duration": 109.32
+    },
+    "song.m4a": {
+     "video_id": "Zye-4GGANzw",
+     "status": "downloaded",
+     "duration": 113.313
+    }
+   }
+  },
+  {
+   "piano_id": "gPN1uepN4z0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "gPN1uepN4z0",
+     "status": "downloaded",
+     "trimmed": 0.432948,
+     "duration": 190.273
+    },
+    "song.m4a": {
+     "video_id": "_ANSsxSVJS4",
+     "status": "downloaded",
+     "trimmed": 0.577392,
+     "duration": 185.832
+    }
+   }
+  },
+  {
+   "piano_id": "O6ikwUdAJIE",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "DjEIZ11kT_0",
+     "status": "downloaded",
+     "duration": 245.087
+    },
+    "piano.m4a": {
+     "video_id": "O6ikwUdAJIE",
+     "status": "downloaded",
+     "trimmed": 7.276667,
+     "duration": 241.874
+    },
+    "song.m4a": {
+     "video_id": "_Bjf-iExroI",
+     "status": "downloaded",
+     "trimmed": 0.653832,
+     "duration": 246.43
+    }
+   }
+  },
+  {
+   "piano_id": "onAh4b0XMO4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "onAh4b0XMO4",
+     "status": "downloaded",
+     "trimmed": 6.777006999999999,
+     "duration": 248.945
+    },
+    "song.m4a": {
+     "video_id": "_LN54uzeQo4",
+     "status": "downloaded",
+     "trimmed": 0.576009,
+     "duration": 242.073
+    }
+   }
+  },
+  {
+   "piano_id": "fZrmvMSUWX4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "fZrmvMSUWX4",
+     "status": "downloaded",
+     "trimmed": 0.451678,
+     "duration": 215.029
+    },
+    "song.m4a": {
+     "video_id": "_KUaY7VQL0Q",
+     "status": "downloaded",
+     "trimmed": 0.333243,
+     "duration": 215.171
+    }
+   }
+  },
+  {
+   "piano_id": "U0o31SkWR5U",
+   "files": {
+    "piano.m4a": {
+     "video_id": "U0o31SkWR5U",
+     "status": "downloaded",
+     "trimmed": 0.501247,
+     "duration": 184.005
+    },
+    "song.m4a": {
+     "video_id": "_cLIG8JiOyg",
+     "status": "downloaded",
+     "duration": 183.716
+    }
+   }
+  },
+  {
+   "piano_id": "sJjTK7Q-Abc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "sJjTK7Q-Abc",
+     "status": "downloaded",
+     "trimmed": 7.357483,
+     "duration": 288.094
+    },
+    "song.m4a": {
+     "video_id": "_cZ46DR9EAQ",
+     "status": "downloaded",
+     "trimmed": 0.333129,
+     "duration": 281.835
+    }
+   }
+  },
+  {
+   "piano_id": "ThR_Kn-OED4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "ThR_Kn-OED4",
+     "status": "downloaded",
+     "duration": 126.827
+    },
+    "song.m4a": {
+     "video_id": "_hgu16lRfbQ",
+     "status": "downloaded",
+     "duration": 126.131
+    }
+   }
+  },
+  {
+   "piano_id": "PJBCsMnBqLc",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "b5b1aoDbr6Y",
+     "status": "downloaded",
+     "duration": 405.049
+    },
+    "piano.m4a": {
+     "video_id": "PJBCsMnBqLc",
+     "status": "downloaded",
+     "duration": 404.793
+    },
+    "song.m4a": {
+     "video_id": "_dlExeOyFh4",
+     "status": "downloaded",
+     "trimmed": 0.533741,
+     "duration": 404.121
+    }
+   }
+  },
+  {
+   "piano_id": "SiVMUV_shAQ",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "tm11osDk_U4",
+     "status": "downloaded",
+     "duration": 240.048
+    },
+    "piano.m4a": {
+     "video_id": "SiVMUV_shAQ",
+     "status": "downloaded",
+     "trimmed": 0.663946,
+     "duration": 240.29
+    },
+    "song.m4a": {
+     "video_id": "_f4yoKJL7IQ",
+     "status": "downloaded",
+     "duration": 235.427
+    }
+   }
+  },
+  {
+   "piano_id": "3JiyQDO-36Q",
+   "files": {
+    "piano.m4a": {
+     "video_id": "3JiyQDO-36Q",
+     "status": "downloaded",
+     "trimmed": 0.726576,
+     "duration": 241.017
+    },
+    "song.m4a": {
+     "video_id": "_naArkkHMMs",
+     "status": "downloaded",
+     "trimmed": 1.288889,
+     "duration": 236.809
+    }
+   }
+  },
+  {
+   "piano_id": "R7w4PkPiCfc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "R7w4PkPiCfc",
+     "status": "downloaded",
+     "trimmed": 0.411973,
+     "duration": 209.218
+    },
+    "song.m4a": {
+     "video_id": "aCofb-qQxKc",
+     "status": "downloaded",
+     "duration": 213.136
+    }
+   }
+  },
+  {
+   "piano_id": "_OUCPwVVuPA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "_OUCPwVVuPA",
+     "status": "downloaded",
+     "trimmed": 0.344331,
+     "duration": 226.7
+    },
+    "song.m4a": {
+     "video_id": "aS1no1myeTM",
+     "status": "downloaded",
+     "trimmed": 0.726281,
+     "duration": 222.139
+    }
+   }
+  },
+  {
+   "piano_id": "2CrbMfaPSm0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "2CrbMfaPSm0",
+     "status": "downloaded",
+     "trimmed": 0.425533,
+     "duration": 240.551
+    },
+    "song.m4a": {
+     "video_id": "aiLjNCmOqLM",
+     "status": "downloaded",
+     "trimmed": 1.244467,
+     "duration": 233.37
+    }
+   }
+  },
+  {
+   "piano_id": "mXcLDcONV6E",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "PzLUjiehhcg",
+     "status": "downloaded",
+     "duration": 205.055
+    },
+    "piano.m4a": {
+     "video_id": "mXcLDcONV6E",
+     "status": "downloaded",
+     "trimmed": 0.829116,
+     "duration": 203.181
+    },
+    "song.m4a": {
+     "video_id": "acQXa5ArHIk",
+     "status": "downloaded",
+     "trimmed": 0.770907,
+     "duration": 200.569
+    }
+   }
+  },
+  {
+   "piano_id": "jdUYIoqN4Zg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "jdUYIoqN4Zg",
+     "status": "downloaded",
+     "duration": 256.163
+    },
+    "song.m4a": {
+     "video_id": "aqRr2TQnpPw",
+     "status": "downloaded",
+     "trimmed": 0.610295,
+     "duration": 251.744
+    }
+   }
+  },
+  {
+   "piano_id": "5rH_96LZ4wo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "5rH_96LZ4wo",
+     "status": "downloaded",
+     "trimmed": 0.526077,
+     "duration": 202.37
+    },
+    "song.m4a": {
+     "video_id": "av5JD1dfj_c",
+     "status": "downloaded",
+     "trimmed": 0.516463,
+     "duration": 195.274
+    }
+   }
+  },
+  {
+   "piano_id": "WdL4VWWOcWM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "WdL4VWWOcWM",
+     "status": "downloaded",
+     "trimmed": 8.771542,
+     "duration": 288.816
+    },
+    "song.m4a": {
+     "video_id": "b00C1HkgMx4",
+     "status": "downloaded",
+     "trimmed": 1.649955,
+     "duration": 286.277
+    }
+   }
+  },
+  {
+   "piano_id": "6xq7SNDF5_I",
+   "files": {
+    "piano.m4a": {
+     "video_id": "6xq7SNDF5_I",
+     "status": "downloaded",
+     "trimmed": 0.770408,
+     "duration": 174.47
+    },
+    "song.m4a": {
+     "video_id": "b73BI9eUkjM",
+     "status": "downloaded",
+     "trimmed": 4.992109,
+     "duration": 171.665
+    }
+   }
+  },
+  {
+   "piano_id": "3tWR0w40mtc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "3tWR0w40mtc",
+     "status": "downloaded",
+     "duration": 197.254
+    },
+    "song.m4a": {
+     "video_id": "bRlBQQHSXv0",
+     "status": "downloaded",
+     "trimmed": 0.864807,
+     "duration": 189.051
+    }
+   }
+  },
+  {
+   "piano_id": "pO52ZptusIU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "pO52ZptusIU",
+     "status": "downloaded",
+     "trimmed": 7.258571,
+     "duration": 257.96
+    },
+    "song.m4a": {
+     "video_id": "br6i9f0G7Kw",
+     "status": "downloaded",
+     "trimmed": 1.246553,
+     "duration": 251.503
+    }
+   }
+  },
+  {
+   "piano_id": "TsbCCXZadCQ",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "QI-RtrSfViY",
+     "status": "downloaded",
+     "trimmed": 0.452381,
+     "duration": 254.595
+    },
+    "piano.m4a": {
+     "video_id": "TsbCCXZadCQ",
+     "status": "downloaded",
+     "trimmed": 0.444989,
+     "duration": 248.171
+    },
+    "song.m4a": {
+     "video_id": "bKCrWW7N1q0",
+     "status": "downloaded",
+     "trimmed": 0.451383,
+     "duration": 249.65
+    }
+   }
+  },
+  {
+   "piano_id": "5a5mXqpZRA8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "5a5mXqpZRA8",
+     "status": "downloaded",
+     "trimmed": 0.623424,
+     "duration": 212.211
+    },
+    "song.m4a": {
+     "video_id": "bz_dm_0AQ7E",
+     "status": "downloaded",
+     "duration": 211.069
+    }
+   }
+  },
+  {
+   "piano_id": "zrHbT6A4sEM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "zrHbT6A4sEM",
+     "status": "downloaded",
+     "trimmed": 0.578549,
+     "duration": 227.372
+    },
+    "song.m4a": {
+     "video_id": "cazMpCkn9DM",
+     "status": "downloaded",
+     "duration": 220.868
+    }
+   }
+  },
+  {
+   "piano_id": "EYjEtN0XN_c",
+   "files": {
+    "piano.m4a": {
+     "video_id": "EYjEtN0XN_c",
+     "status": "downloaded",
+     "trimmed": 0.49127,
+     "duration": 229.41
+    },
+    "song.m4a": {
+     "video_id": "cii6ruuycQA",
+     "status": "downloaded",
+     "trimmed": 0.53678,
+     "duration": 230.966
+    }
+   }
+  },
+  {
+   "piano_id": "FKOnds7aocM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "FKOnds7aocM",
+     "status": "downloaded",
+     "trimmed": 0.51,
+     "duration": 187.804
+    },
+    "song.m4a": {
+     "video_id": "cT-3ZXRQ4dg",
+     "status": "downloaded",
+     "trimmed": 0.739184,
+     "duration": 185.949
+    }
+   }
+  },
+  {
+   "piano_id": "mMzKPj0BqTg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "mMzKPj0BqTg",
+     "status": "downloaded",
+     "duration": 207.076
+    },
+    "song.m4a": {
+     "video_id": "cqJwrvEodvU",
+     "status": "downloaded",
+     "trimmed": 0.309229,
+     "duration": 201.124
+    }
+   }
+  },
+  {
+   "piano_id": "03eekpLmjoY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "03eekpLmjoY",
+     "status": "downloaded",
+     "duration": 217.292
+    },
+    "song.m4a": {
+     "video_id": "cswfR85D7jM",
+     "status": "downloaded",
+     "trimmed": 0.649887,
+     "duration": 218.036
+    }
+   }
+  },
+  {
+   "piano_id": "fjifq0LJLgs",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "WhoixwIFWPU",
+     "status": "downloaded",
+     "duration": 217.223
+    },
+    "piano.m4a": {
+     "video_id": "fjifq0LJLgs",
+     "status": "downloaded",
+     "duration": 216.433
+    },
+    "song.m4a": {
+     "video_id": "cxjvTXo9WWM",
+     "status": "downloaded",
+     "trimmed": 0.986621,
+     "duration": 219.115
+    }
+   }
+  },
+  {
+   "piano_id": "qvx94_udMr8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "EXaeTWaIWCM",
+     "status": "downloaded",
+     "trimmed": 0.327506,
+     "duration": 181.833
+    },
+    "piano.m4a": {
+     "video_id": "qvx94_udMr8",
+     "status": "downloaded",
+     "trimmed": 0.642789,
+     "duration": 174.134
+    },
+    "song.m4a": {
+     "video_id": "cr4wnsLI_Xw",
+     "status": "downloaded",
+     "trimmed": 0.330295,
+     "duration": 196.969
+    }
+   }
+  },
+  {
+   "piano_id": "YSFqeSqUNio",
+   "files": {
+    "piano.m4a": {
+     "video_id": "YSFqeSqUNio",
+     "status": "downloaded",
+     "trimmed": 0.621406,
+     "duration": 220.084
+    },
+    "song.m4a": {
+     "video_id": "d-QJDluEWZM",
+     "status": "downloaded",
+     "duration": 226.905
+    }
+   }
+  },
+  {
+   "piano_id": "3oVHWBxdCqk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "3oVHWBxdCqk",
+     "status": "downloaded",
+     "trimmed": 6.390522,
+     "duration": 273.549
+    },
+    "song.m4a": {
+     "video_id": "dGc43J9RhDo",
+     "status": "downloaded",
+     "trimmed": 0.575102,
+     "duration": 266.524
+    }
+   }
+  },
+  {
+   "piano_id": "M6Cx2J-mDz8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "M6Cx2J-mDz8",
+     "status": "downloaded",
+     "trimmed": 8.261111,
+     "duration": 254.31
+    },
+    "song.m4a": {
+     "video_id": "dfiEFQIb8TA",
+     "status": "downloaded",
+     "trimmed": 0.327256,
+     "duration": 262.546
+    }
+   }
+  },
+  {
+   "piano_id": "kuHqDdc8vfk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "kuHqDdc8vfk",
+     "status": "downloaded",
+     "duration": 203.059
+    },
+    "song.m4a": {
+     "video_id": "deUgUoJ4z5I",
+     "status": "downloaded",
+     "duration": 200.342
+    }
+   }
+  },
+  {
+   "piano_id": "je53yi8LeHA",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "9NGkbwFDrZs",
+     "status": "downloaded",
+     "trimmed": 0.589955,
+     "duration": 254.11
+    },
+    "piano.m4a": {
+     "video_id": "je53yi8LeHA",
+     "status": "downloaded",
+     "trimmed": 6.868888999999999,
+     "duration": 262.854
+    },
+    "song.m4a": {
+     "video_id": "dQxdRW6K2Ko",
+     "status": "downloaded",
+     "trimmed": 1.672358,
+     "duration": 269.885
+    }
+   }
+  },
+  {
+   "piano_id": "e_pLP6jH9bk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "e_pLP6jH9bk",
+     "status": "downloaded",
+     "trimmed": 0.531111,
+     "duration": 211.351
+    },
+    "song.m4a": {
+     "video_id": "dhYOPzcsbGM",
+     "status": "downloaded",
+     "duration": 216.944
+    }
+   }
+  },
+  {
+   "piano_id": "OswoTko219Y",
+   "files": {
+    "piano.m4a": {
+     "video_id": "OswoTko219Y",
+     "status": "downloaded",
+     "trimmed": 0.670522,
+     "duration": 144.895
+    },
+    "song.m4a": {
+     "video_id": "dp9nC1Jvlas",
+     "status": "downloaded",
+     "trimmed": 0.700839,
+     "duration": 136.064
+    }
+   }
+  },
+  {
+   "piano_id": "cFZAH2oMekA",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "iblRmK1DGAA",
+     "status": "downloaded",
+     "trimmed": 0.388549,
+     "duration": 243.119
+    },
+    "piano.m4a": {
+     "video_id": "cFZAH2oMekA",
+     "status": "downloaded",
+     "trimmed": 0.38805,
+     "duration": 245.999
+    },
+    "song.m4a": {
+     "video_id": "eAfyFTzZDMM",
+     "status": "downloaded",
+     "trimmed": 1.080499,
+     "duration": 238.387
+    }
+   }
+  },
+  {
+   "piano_id": "IZmBWvhq4Jc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "IZmBWvhq4Jc",
+     "status": "downloaded",
+     "duration": 194.839
+    },
+    "song.m4a": {
+     "video_id": "eBHHGXT9bRs",
+     "status": "downloaded",
+     "trimmed": 0.53678,
+     "duration": 192.955
+    }
+   }
+  },
+  {
+   "piano_id": "i30GvL-21Js",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "WkGi1-NtfQk",
+     "status": "downloaded",
+     "trimmed": 1.268934,
+     "duration": 613.827
+    },
+    "piano.m4a": {
+     "video_id": "i30GvL-21Js",
+     "status": "downloaded",
+     "trimmed": 7.276508,
+     "duration": 613.3
+    },
+    "song.m4a": {
+     "video_id": "dlBW3Jxv0v4",
+     "status": "downloaded",
+     "trimmed": 0.470272,
+     "duration": 611.538
+    }
+   }
+  },
+  {
+   "piano_id": "VC1mdPswDdo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "VC1mdPswDdo",
+     "status": "downloaded",
+     "trimmed": 0.623651,
+     "duration": 176.708
+    },
+    "song.m4a": {
+     "video_id": "eJ4opj8_Dio",
+     "status": "downloaded",
+     "trimmed": 0.506213,
+     "duration": 180.284
+    }
+   }
+  },
+  {
+   "piano_id": "e-u39f_iV7A",
+   "files": {
+    "piano.m4a": {
+     "video_id": "e-u39f_iV7A",
+     "status": "downloaded",
+     "duration": 228.345
+    },
+    "song.m4a": {
+     "video_id": "ea6_fTfritk",
+     "status": "downloaded",
+     "duration": 230.973
+    }
+   }
+  },
+  {
+   "piano_id": "FoOwvyhtN8g",
+   "files": {
+    "piano.m4a": {
+     "video_id": "FoOwvyhtN8g",
+     "status": "downloaded",
+     "trimmed": 0.790975,
+     "duration": 237.515
+    },
+    "song.m4a": {
+     "video_id": "ePsqyPMIg6I",
+     "status": "downloaded",
+     "duration": 233.059
+    }
+   }
+  },
+  {
+   "piano_id": "QWjq8AH3k-M",
+   "files": {
+    "piano.m4a": {
+     "video_id": "QWjq8AH3k-M",
+     "status": "downloaded",
+     "duration": 291.178
+    },
+    "song.m4a": {
+     "video_id": "ek9LKDjgshU",
+     "status": "downloaded",
+     "trimmed": 0.853605,
+     "duration": 296.292
+    }
+   }
+  },
+  {
+   "piano_id": "1IIM9blI_HA",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Oi7AsGUYOgo",
+     "status": "downloaded",
+     "trimmed": 0.309524,
+     "duration": 149.738
+    },
+    "piano.m4a": {
+     "video_id": "1IIM9blI_HA",
+     "status": "downloaded",
+     "duration": 158.964
+    },
+    "song.m4a": {
+     "video_id": "erilCNjng-g",
+     "status": "downloaded",
+     "trimmed": 0.526281,
+     "duration": 153.608
+    }
+   }
+  },
+  {
+   "piano_id": "S-ylT5V1PuE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "S-ylT5V1PuE",
+     "status": "downloaded",
+     "trimmed": 0.382404,
+     "duration": 165.525
+    },
+    "song.m4a": {
+     "video_id": "f3PMy9g7OpU",
+     "status": "downloaded",
+     "trimmed": 0.339478,
+     "duration": 158.183
+    }
+   }
+  },
+  {
+   "piano_id": "yKh-Pzwp9mA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "yKh-Pzwp9mA",
+     "status": "downloaded",
+     "duration": 231.782
+    },
+    "song.m4a": {
+     "video_id": "ewxmv2tyeRs",
+     "status": "downloaded",
+     "trimmed": 2.134603,
+     "duration": 235.661
+    }
+   }
+  },
+  {
+   "piano_id": "BE1uEf7DXXo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "BE1uEf7DXXo",
+     "status": "downloaded",
+     "duration": 168.763
+    },
+    "song.m4a": {
+     "video_id": "f3ti1OmtN4c",
+     "status": "downloaded",
+     "duration": 165.326
+    }
+   }
+  },
+  {
+   "piano_id": "WGjEStJJ8eg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "WGjEStJJ8eg",
+     "status": "downloaded",
+     "trimmed": 0.802222,
+     "duration": 186.862
+    },
+    "song.m4a": {
+     "video_id": "f4Y3b7un4LE",
+     "status": "downloaded",
+     "duration": 183.716
+    }
+   }
+  },
+  {
+   "piano_id": "rkjqowJ5zJk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "rkjqowJ5zJk",
+     "status": "downloaded",
+     "trimmed": 0.618095,
+     "duration": 185.745
+    },
+    "song.m4a": {
+     "video_id": "fXivMSJm_kA",
+     "status": "downloaded",
+     "duration": 182.532
+    }
+   }
+  },
+  {
+   "piano_id": "vrH9leuIAYE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "vrH9leuIAYE",
+     "status": "downloaded",
+     "trimmed": 0.81093,
+     "duration": 165.421
+    },
+    "song.m4a": {
+     "video_id": "fPMsAIld9Ss",
+     "status": "downloaded",
+     "duration": 164.095
+    }
+   }
+  },
+  {
+   "piano_id": "6jR2V9zt_iI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "QmUozmmxQ7A",
+     "status": "downloaded",
+     "trimmed": 6.931383,
+     "duration": 251.925
+    },
+    "piano.m4a": {
+     "video_id": "6jR2V9zt_iI",
+     "status": "downloaded",
+     "trimmed": 0.601655,
+     "duration": 253.239
+    },
+    "song.m4a": {
+     "video_id": "fFRkpvvop3I",
+     "status": "downloaded",
+     "duration": 238.306
+    }
+   }
+  },
+  {
+   "piano_id": "Pdk6SvvVrRc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Pdk6SvvVrRc",
+     "status": "downloaded",
+     "trimmed": 2.146122,
+     "duration": 235.348
+    },
+    "song.m4a": {
+     "video_id": "ffxKSjUwKdU",
+     "status": "downloaded",
+     "trimmed": 0.60127,
+     "duration": 237.613
+    }
+   }
+  },
+  {
+   "piano_id": "BXdNM08COOk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "BXdNM08COOk",
+     "status": "downloaded",
+     "trimmed": 1.162766,
+     "duration": 232.639
+    },
+    "song.m4a": {
+     "video_id": "fd0uuy4mDrE",
+     "status": "downloaded",
+     "trimmed": 0.344649,
+     "duration": 235.826
+    }
+   }
+  },
+  {
+   "piano_id": "y4QOkL9uDT4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "y4QOkL9uDT4",
+     "status": "downloaded",
+     "trimmed": 6.609751,
+     "duration": 278.299
+    },
+    "song.m4a": {
+     "video_id": "g7GcrQWEdok",
+     "status": "downloaded",
+     "trimmed": 0.880884,
+     "duration": 276.296
+    }
+   }
+  },
+  {
+   "piano_id": "Gp7hk8AyMCo",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "jCFFWQobl_M",
+     "status": "downloaded",
+     "trimmed": 1.861497,
+     "duration": 188.287
+    },
+    "piano.m4a": {
+     "video_id": "Gp7hk8AyMCo",
+     "status": "downloaded",
+     "trimmed": 2.369887,
+     "duration": 184.481
+    },
+    "song.m4a": {
+     "video_id": "g4nPxIZE0_w",
+     "status": "downloaded",
+     "trimmed": 0.370748,
+     "duration": 187.664
+    }
+   }
+  },
+  {
+   "piano_id": "pXMjx2AOrAo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "pXMjx2AOrAo",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 228.386
+    },
+    "song.m4a": {
+     "video_id": "gQPCAl92q5Y",
+     "status": "downloaded",
+     "duration": 224.491
+    }
+   }
+  },
+  {
+   "piano_id": "Xw51SpOD4qY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Xw51SpOD4qY",
+     "status": "downloaded",
+     "trimmed": 0.30322,
+     "duration": 237.097
+    },
+    "song.m4a": {
+     "video_id": "h2jvHynuMjI",
+     "status": "downloaded",
+     "trimmed": 0.79381,
+     "duration": 228.712
+    }
+   }
+  },
+  {
+   "piano_id": "SwZobFjOyx8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "SwZobFjOyx8",
+     "status": "downloaded",
+     "trimmed": 7.031542,
+     "duration": 306.136
+    },
+    "song.m4a": {
+     "video_id": "hCd1nAI-po4",
+     "status": "downloaded",
+     "duration": 299.77
+    }
+   }
+  },
+  {
+   "piano_id": "gg4RqNUYcK0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "gg4RqNUYcK0",
+     "status": "downloaded",
+     "trimmed": 7.128209,
+     "duration": 237.1
+    },
+    "song.m4a": {
+     "video_id": "hOf7m31ZvgQ",
+     "status": "downloaded",
+     "trimmed": 0.341791,
+     "duration": 234.11
+    }
+   }
+  },
+  {
+   "piano_id": "k8wH6Zzl0Jo",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "oPZoQYlyk9U",
+     "status": "downloaded",
+     "trimmed": 3.433787,
+     "duration": 201.993
+    },
+    "piano.m4a": {
+     "video_id": "k8wH6Zzl0Jo",
+     "status": "downloaded",
+     "trimmed": 1.259002,
+     "duration": 210.46
+    },
+    "song.m4a": {
+     "video_id": "hJpvI3w3tDc",
+     "status": "downloaded",
+     "duration": 201.758
+    }
+   }
+  },
+  {
+   "piano_id": "CrgsXtx_ucw",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "OeALupEQ7qw",
+     "status": "downloaded",
+     "trimmed": 0.368571,
+     "duration": 212.504
+    },
+    "piano.m4a": {
+     "video_id": "CrgsXtx_ucw",
+     "status": "downloaded",
+     "duration": 219.707
+    },
+    "song.m4a": {
+     "video_id": "hXP2fWIJZKA",
+     "status": "downloaded",
+     "duration": 211.069
+    }
+   }
+  },
+  {
+   "piano_id": "eZOhu9EOfTw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "eZOhu9EOfTw",
+     "status": "downloaded",
+     "trimmed": 0.546236,
+     "duration": 240.268
+    },
+    "song.m4a": {
+     "video_id": "hhKNjTb6U1Y",
+     "status": "downloaded",
+     "duration": 233.546
+    }
+   }
+  },
+  {
+   "piano_id": "kLM3DQfvaZs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "kLM3DQfvaZs",
+     "status": "downloaded",
+     "trimmed": 0.600431,
+     "duration": 209.633
+    },
+    "song.m4a": {
+     "video_id": "iAP9AF6DCu4",
+     "status": "downloaded",
+     "duration": 206.704
+    }
+   }
+  },
+  {
+   "piano_id": "EMBVFA9S0FE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "EMBVFA9S0FE",
+     "status": "downloaded",
+     "trimmed": 0.705351,
+     "duration": 235.256
+    },
+    "song.m4a": {
+     "video_id": "iFX6_9h7th0",
+     "status": "downloaded",
+     "trimmed": 1.217211,
+     "duration": 242.709
+    }
+   }
+  },
+  {
+   "piano_id": "VuE4oxYUQTQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "VuE4oxYUQTQ",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 300.995
+    },
+    "song.m4a": {
+     "video_id": "imq2u8aZqfA",
+     "status": "downloaded",
+     "trimmed": 3.413787,
+     "duration": 304.854
+    }
+   }
+  },
+  {
+   "piano_id": "0i8UwdjoJvE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "0i8UwdjoJvE",
+     "status": "downloaded",
+     "trimmed": 0.309841,
+     "duration": 234.073
+    },
+    "song.m4a": {
+     "video_id": "ighFo0i0nrA",
+     "status": "downloaded",
+     "trimmed": 0.898639,
+     "duration": 231.161
+    }
+   }
+  },
+  {
+   "piano_id": "nhWVDFOCvho",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "QG56Mm5gsjE",
+     "status": "downloaded",
+     "trimmed": 1.153968,
+     "duration": 353.902
+    },
+    "piano.m4a": {
+     "video_id": "nhWVDFOCvho",
+     "status": "downloaded",
+     "trimmed": 0.422381,
+     "duration": 360.509
+    },
+    "song.m4a": {
+     "video_id": "igIfiqqVHtA",
+     "status": "downloaded",
+     "trimmed": 0.325442,
+     "duration": 356.472
+    }
+   }
+  },
+  {
+   "piano_id": "rSuVXfI6qow",
+   "files": {
+    "piano.m4a": {
+     "video_id": "rSuVXfI6qow",
+     "status": "downloaded",
+     "trimmed": 0.420907,
+     "duration": 208.489
+    },
+    "song.m4a": {
+     "video_id": "izyZLKIWGiA",
+     "status": "downloaded",
+     "trimmed": 1.338254,
+     "duration": 206.759
+    }
+   }
+  },
+  {
+   "piano_id": "4FKSpXWnBn4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "4FKSpXWnBn4",
+     "status": "downloaded",
+     "duration": 211.232
+    },
+    "song.m4a": {
+     "video_id": "jELvqNHU49w",
+     "status": "downloaded",
+     "duration": 207.401
+    }
+   }
+  },
+  {
+   "piano_id": "gCRLXCpjxfo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "gCRLXCpjxfo",
+     "status": "downloaded",
+     "duration": 218.059
+    },
+    "song.m4a": {
+     "video_id": "jaCxgxTScjc",
+     "status": "downloaded",
+     "duration": 219.684
+    }
+   }
+  },
+  {
+   "piano_id": "ajPFK1zjmvs",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "qzGjkrYzhOY",
+     "status": "downloaded",
+     "trimmed": 0.525533,
+     "duration": 241.125
+    },
+    "piano.m4a": {
+     "video_id": "ajPFK1zjmvs",
+     "status": "downloaded",
+     "trimmed": 0.757302,
+     "duration": 242.286
+    },
+    "song.m4a": {
+     "video_id": "jFg_8u87zT0",
+     "status": "downloaded",
+     "trimmed": 0.368481,
+     "duration": 240.631
+    }
+   }
+  },
+  {
+   "piano_id": "2pdtZg3qsWQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "2pdtZg3qsWQ",
+     "status": "downloaded",
+     "trimmed": 0.471973,
+     "duration": 155.775
+    },
+    "song.m4a": {
+     "video_id": "jbJhdc2zLz0",
+     "status": "downloaded",
+     "trimmed": 0.347438,
+     "duration": 163.91
+    }
+   }
+  },
+  {
+   "piano_id": "O-L36D2A_GU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "O-L36D2A_GU",
+     "status": "downloaded",
+     "trimmed": 0.680476,
+     "duration": 253.763
+    },
+    "song.m4a": {
+     "video_id": "jKIK__j1Nno",
+     "status": "downloaded",
+     "trimmed": 0.356689,
+     "duration": 260.032
+    }
+   }
+  },
+  {
+   "piano_id": "pErWFmY0VVs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "pErWFmY0VVs",
+     "status": "downloaded",
+     "trimmed": 10.632335999999999,
+     "duration": 279.176
+    },
+    "song.m4a": {
+     "video_id": "k2rbUFlKG_c",
+     "status": "downloaded",
+     "trimmed": 0.828435,
+     "duration": 276.209
+    }
+   }
+  },
+  {
+   "piano_id": "X2R8ofatYcs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "X2R8ofatYcs",
+     "status": "downloaded",
+     "trimmed": 8.005011,
+     "duration": 255.309
+    },
+    "song.m4a": {
+     "video_id": "kDBJDRrKu_k",
+     "status": "downloaded",
+     "trimmed": 9.03356,
+     "duration": 242.764
+    }
+   }
+  },
+  {
+   "piano_id": "yMZ4Xo-p--g",
+   "files": {
+    "piano.m4a": {
+     "video_id": "yMZ4Xo-p--g",
+     "status": "downloaded",
+     "trimmed": 2.143968,
+     "duration": 254.251
+    },
+    "song.m4a": {
+     "video_id": "kNKu1uNBVkU",
+     "status": "downloaded",
+     "trimmed": 0.60254,
+     "duration": 254.422
+    }
+   }
+  },
+  {
+   "piano_id": "Bim8O623F8c",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Bim8O623F8c",
+     "status": "downloaded",
+     "trimmed": 0.62873,
+     "duration": 198.599
+    },
+    "song.m4a": {
+     "video_id": "kKgvXOGTKMQ",
+     "status": "downloaded",
+     "duration": 192.122
+    }
+   }
+  },
+  {
+   "piano_id": "jKupLqDWwVE",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Z-7SjFcLv0k",
+     "status": "downloaded",
+     "trimmed": 0.783288,
+     "duration": 225.007
+    },
+    "piano.m4a": {
+     "video_id": "jKupLqDWwVE",
+     "status": "downloaded",
+     "duration": 227.323
+    },
+    "song.m4a": {
+     "video_id": "kVXazE8wR1Q",
+     "status": "downloaded",
+     "trimmed": 0.313991,
+     "duration": 221.854
+    }
+   }
+  },
+  {
+   "piano_id": "10tvIZmPIfs",
+   "files": {
+    "piano.m4a": {
+     "video_id": "10tvIZmPIfs",
+     "status": "downloaded",
+     "trimmed": 8.676984000000001,
+     "duration": 292.022
+    },
+    "song.m4a": {
+     "video_id": "k_tg6mG1Gho",
+     "status": "downloaded",
+     "duration": 292.316
+    }
+   }
+  },
+  {
+   "piano_id": "-e4bJHErmzE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-e4bJHErmzE",
+     "status": "downloaded",
+     "trimmed": 0.692925,
+     "duration": 240.911
+    },
+    "song.m4a": {
+     "video_id": "kYkhNoOIF40",
+     "status": "downloaded",
+     "duration": 234.359
+    }
+   }
+  },
+  {
+   "piano_id": "8NUJ-sEJGAg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8NUJ-sEJGAg",
+     "status": "downloaded",
+     "trimmed": 0.486757,
+     "duration": 242.719
+    },
+    "song.m4a": {
+     "video_id": "kfnMvo87fQU",
+     "status": "downloaded",
+     "trimmed": 0.450091,
+     "duration": 236.022
+    }
+   }
+  },
+  {
+   "piano_id": "LWxbWkJebpg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "6QDWepKHZq0",
+     "status": "downloaded",
+     "trimmed": 1.152676,
+     "duration": 268.896
+    },
+    "piano.m4a": {
+     "video_id": "LWxbWkJebpg",
+     "status": "downloaded",
+     "trimmed": 0.667778,
+     "duration": 265.851
+    },
+    "song.m4a": {
+     "video_id": "kdiBc40gW7s",
+     "status": "downloaded",
+     "duration": 280.079
+    }
+   }
+  },
+  {
+   "piano_id": "uRnRRRPBH4M",
+   "files": {
+    "piano.m4a": {
+     "video_id": "uRnRRRPBH4M",
+     "status": "downloaded",
+     "trimmed": 0.439683,
+     "duration": 196.535
+    },
+    "song.m4a": {
+     "video_id": "kl-igUrRFD8",
+     "status": "downloaded",
+     "trimmed": 0.406395,
+     "duration": 186.979
+    }
+   }
+  },
+  {
+   "piano_id": "D0vhiLgQJAQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "D0vhiLgQJAQ",
+     "status": "downloaded",
+     "duration": 171.154
+    },
+    "song.m4a": {
+     "video_id": "l9tJnU9tH7s",
+     "status": "downloaded",
+     "trimmed": 0.319161,
+     "duration": 172.739
+    }
+   }
+  },
+  {
+   "piano_id": "LQr36u1mNb0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "LQr36u1mNb0",
+     "status": "downloaded",
+     "trimmed": 0.966122,
+     "duration": 193.245
+    },
+    "song.m4a": {
+     "video_id": "lT67liGjZhw",
+     "status": "downloaded",
+     "duration": 202.455
+    }
+   }
+  },
+  {
+   "piano_id": "IjhSkfWGgsI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "IjhSkfWGgsI",
+     "status": "downloaded",
+     "trimmed": 0.785873,
+     "duration": 210.748
+    },
+    "song.m4a": {
+     "video_id": "lUvBk4owRNU",
+     "status": "downloaded",
+     "duration": 216.247
+    }
+   }
+  },
+  {
+   "piano_id": "klOc77QTXgo",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "UwiqWguFb30",
+     "status": "downloaded",
+     "duration": 227.045
+    },
+    "piano.m4a": {
+     "video_id": "klOc77QTXgo",
+     "status": "downloaded",
+     "trimmed": 1.122857,
+     "duration": 216.68
+    },
+    "song.m4a": {
+     "video_id": "lWA2pjMjpBs",
+     "status": "downloaded",
+     "duration": 282.912
+    }
+   }
+  },
+  {
+   "piano_id": "UUtkrDPoomg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "gnBgprWkXc8",
+     "status": "downloaded",
+     "trimmed": 0.376825,
+     "duration": 214.872
+    },
+    "piano.m4a": {
+     "video_id": "UUtkrDPoomg",
+     "status": "downloaded",
+     "trimmed": 0.58483,
+     "duration": 223.046
+    },
+    "song.m4a": {
+     "video_id": "lceAOQkiq-w",
+     "status": "downloaded",
+     "trimmed": 0.606032,
+     "duration": 214.364
+    }
+   }
+  },
+  {
+   "piano_id": "aixZohHMi3Y",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "dmxNSL8D4H8",
+     "status": "downloaded",
+     "duration": 223.422
+    },
+    "piano.m4a": {
+     "video_id": "aixZohHMi3Y",
+     "status": "downloaded",
+     "trimmed": 0.382063,
+     "duration": 223.18
+    },
+    "song.m4a": {
+     "video_id": "leopt__ATR0",
+     "status": "downloaded",
+     "trimmed": 0.540703,
+     "duration": 232.239
+    }
+   }
+  },
+  {
+   "piano_id": "gVL0L1hvghw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "gVL0L1hvghw",
+     "status": "downloaded",
+     "trimmed": 1.236077,
+     "duration": 218.239
+    },
+    "song.m4a": {
+     "video_id": "lrS1LC2cu-U",
+     "status": "downloaded",
+     "duration": 212.37
+    }
+   }
+  },
+  {
+   "piano_id": "xfS9J8C0Q4Y",
+   "files": {
+    "piano.m4a": {
+     "video_id": "xfS9J8C0Q4Y",
+     "status": "downloaded",
+     "trimmed": 0.837937,
+     "duration": 196.996
+    },
+    "song.m4a": {
+     "video_id": "m2gzAay1uD8",
+     "status": "downloaded",
+     "trimmed": 0.499864,
+     "duration": 195.569
+    }
+   }
+  },
+  {
+   "piano_id": "RBKUXHBqS68",
+   "files": {
+    "piano.m4a": {
+     "video_id": "RBKUXHBqS68",
+     "status": "downloaded",
+     "trimmed": 3.343605,
+     "duration": 215.713
+    },
+    "song.m4a": {
+     "video_id": "m8rM7Tox1HE",
+     "status": "downloaded",
+     "trimmed": 0.590227,
+     "duration": 211.664
+    }
+   }
+  },
+  {
+   "piano_id": "Cn5uq3j0i6I",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Cn5uq3j0i6I",
+     "status": "downloaded",
+     "trimmed": 0.77102,
+     "duration": 331.553
+    },
+    "song.m4a": {
+     "video_id": "mA9HZEJfmGw",
+     "status": "downloaded",
+     "trimmed": 1.385215,
+     "duration": 338.764
+    }
+   }
+  },
+  {
+   "piano_id": "0Gda-yL8Yuo",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "KS3PkWroyCo",
+     "status": "downloaded",
+     "duration": 210.048
+    },
+    "piano.m4a": {
+     "video_id": "0Gda-yL8Yuo",
+     "status": "downloaded",
+     "trimmed": 0.869796,
+     "duration": 214.194
+    },
+    "song.m4a": {
+     "video_id": "mC54kTYa9oI",
+     "status": "downloaded",
+     "duration": 211.487
+    }
+   }
+  },
+  {
+   "piano_id": "kUvjjpubHVc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "kUvjjpubHVc",
+     "status": "downloaded",
+     "trimmed": 6.591247,
+     "duration": 277.296
+    },
+    "song.m4a": {
+     "video_id": "mfWUucE6J6s",
+     "status": "downloaded",
+     "duration": 281.565
+    }
+   }
+  },
+  {
+   "piano_id": "urwJwVe_ETI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "urwJwVe_ETI",
+     "status": "downloaded",
+     "duration": 220.148
+    },
+    "song.m4a": {
+     "video_id": "mlPfN4heqBo",
+     "status": "downloaded",
+     "duration": 213.391
+    }
+   }
+  },
+  {
+   "piano_id": "zcOlyStaZdM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "SLzvaAxoqrc",
+     "status": "downloaded",
+     "trimmed": 0.465351,
+     "duration": 176.1
+    },
+    "piano.m4a": {
+     "video_id": "zcOlyStaZdM",
+     "status": "downloaded",
+     "trimmed": 0.662358,
+     "duration": 174.021
+    },
+    "song.m4a": {
+     "video_id": "msGuqelopMA",
+     "status": "downloaded",
+     "trimmed": 0.394671,
+     "duration": 176.1
+    }
+   }
+  },
+  {
+   "piano_id": "-Ri4CTgnpdc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-Ri4CTgnpdc",
+     "status": "downloaded",
+     "trimmed": 2.379977,
+     "duration": 102.017
+    },
+    "song.m4a": {
+     "video_id": "mt_u0L0lU74",
+     "status": "downloaded",
+     "duration": 106.162
+    }
+   }
+  },
+  {
+   "piano_id": "fFfj9fj7Vj0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "fFfj9fj7Vj0",
+     "status": "downloaded",
+     "trimmed": 0.477823,
+     "duration": 169.631
+    },
+    "song.m4a": {
+     "video_id": "n2BnbpjpRdo",
+     "status": "downloaded",
+     "trimmed": 0.338844,
+     "duration": 165.638
+    }
+   }
+  },
+  {
+   "piano_id": "_RF9m1JIwsA",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "hhrKYz0PMIk",
+     "status": "downloaded",
+     "duration": 250.079
+    },
+    "piano.m4a": {
+     "video_id": "_RF9m1JIwsA",
+     "status": "downloaded",
+     "duration": 253.957
+    },
+    "song.m4a": {
+     "video_id": "mvxQYPR4lmU",
+     "status": "downloaded",
+     "trimmed": 0.303968,
+     "duration": 249.078
+    }
+   }
+  },
+  {
+   "piano_id": "rlaY9d8BEQY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "rlaY9d8BEQY",
+     "status": "downloaded",
+     "trimmed": 7.07771,
+     "duration": 218.272
+    },
+    "song.m4a": {
+     "video_id": "n3z1ZMoxKJ8",
+     "status": "downloaded",
+     "duration": 229.343
+    }
+   }
+  },
+  {
+   "piano_id": "BKzHmBb0kMw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "BKzHmBb0kMw",
+     "status": "downloaded",
+     "trimmed": 0.559592,
+     "duration": 133.489
+    },
+    "song.m4a": {
+     "video_id": "nIhs1T7OcZg",
+     "status": "downloaded",
+     "trimmed": 1.275964,
+     "duration": 129.011
+    }
+   }
+  },
+  {
+   "piano_id": "pwdzH9Y5LWI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "pwdzH9Y5LWI",
+     "status": "downloaded",
+     "trimmed": 0.634558,
+     "duration": 301.991
+    },
+    "song.m4a": {
+     "video_id": "nDYY3nJ7a0s",
+     "status": "downloaded",
+     "duration": 311.287
+    }
+   }
+  },
+  {
+   "piano_id": "GL4PIIT7Z_w",
+   "files": {
+    "piano.m4a": {
+     "video_id": "GL4PIIT7Z_w",
+     "status": "downloaded",
+     "trimmed": 4.107732,
+     "duration": 197.813
+    },
+    "song.m4a": {
+     "video_id": "nlcIKh6sBtc",
+     "status": "downloaded",
+     "duration": 200.133
+    }
+   }
+  },
+  {
+   "piano_id": "edZhs3rPcDI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "3blnGO-soNk",
+     "status": "downloaded",
+     "duration": 139.413
+    },
+    "piano.m4a": {
+     "video_id": "edZhs3rPcDI",
+     "status": "downloaded",
+     "trimmed": 3.890454,
+     "duration": 143.533
+    },
+    "song.m4a": {
+     "video_id": "nOo3a2tT1LQ",
+     "status": "downloaded",
+     "trimmed": 0.308231,
+     "duration": 140.915
+    }
+   }
+  },
+  {
+   "piano_id": "xyegmbY1WEI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "xyegmbY1WEI",
+     "status": "downloaded",
+     "trimmed": 0.570748,
+     "duration": 207.643
+    },
+    "song.m4a": {
+     "video_id": "o-0Oect0nVQ",
+     "status": "downloaded",
+     "trimmed": 0.534649,
+     "duration": 198.809
+    }
+   }
+  },
+  {
+   "piano_id": "s79xbbVinaw",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Q_4ovNPoYD8",
+     "status": "downloaded",
+     "duration": 193.5
+    },
+    "piano.m4a": {
+     "video_id": "s79xbbVinaw",
+     "status": "downloaded",
+     "trimmed": 0.380363,
+     "duration": 199.66
+    },
+    "song.m4a": {
+     "video_id": "o2XUvtimg5g",
+     "status": "downloaded",
+     "trimmed": 0.781905,
+     "duration": 191.387
+    }
+   }
+  },
+  {
+   "piano_id": "pxc-74HoU7k",
+   "files": {
+    "piano.m4a": {
+     "video_id": "pxc-74HoU7k",
+     "status": "downloaded",
+     "trimmed": 0.466213,
+     "duration": 194.094
+    },
+    "song.m4a": {
+     "video_id": "o3W_P98hVu0",
+     "status": "downloaded",
+     "duration": 196.696
+    }
+   }
+  },
+  {
+   "piano_id": "Prpd535UfCo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Prpd535UfCo",
+     "status": "downloaded",
+     "trimmed": 7.461202,
+     "duration": 357.719
+    },
+    "song.m4a": {
+     "video_id": "oIYWenB637c",
+     "status": "downloaded",
+     "duration": 353.268
+    }
+   }
+  },
+  {
+   "piano_id": "Q2-OOwidCnI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "wGyJhKJOCxs",
+     "status": "downloaded",
+     "duration": 215.063
+    },
+    "piano.m4a": {
+     "video_id": "Q2-OOwidCnI",
+     "status": "downloaded",
+     "trimmed": 0.913515,
+     "duration": 205.953
+    },
+    "song.m4a": {
+     "video_id": "o7e4IfE0ScI",
+     "status": "downloaded",
+     "duration": 214.586
+    }
+   }
+  },
+  {
+   "piano_id": "7JLQ62A8Opo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "7JLQ62A8Opo",
+     "status": "downloaded",
+     "duration": 191.402
+    },
+    "song.m4a": {
+     "video_id": "oSHzUD-uqKY",
+     "status": "downloaded",
+     "duration": 190.45
+    }
+   }
+  },
+  {
+   "piano_id": "TL16Blee88s",
+   "files": {
+    "piano.m4a": {
+     "video_id": "TL16Blee88s",
+     "status": "downloaded",
+     "trimmed": 8.057302,
+     "duration": 231.921
+    },
+    "song.m4a": {
+     "video_id": "oVZg-WwgivI",
+     "status": "downloaded",
+     "duration": 236.658
+    }
+   }
+  },
+  {
+   "piano_id": "N6nkXKg2Y44",
+   "files": {
+    "piano.m4a": {
+     "video_id": "N6nkXKg2Y44",
+     "status": "downloaded",
+     "trimmed": 0.802449,
+     "duration": 163.688
+    },
+    "song.m4a": {
+     "video_id": "oXSw8DGjf5E",
+     "status": "downloaded",
+     "duration": 159.266
+    }
+   }
+  },
+  {
+   "piano_id": "8v8uIb1G3qM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8v8uIb1G3qM",
+     "status": "downloaded",
+     "trimmed": 8.791043,
+     "duration": 167.24
+    },
+    "song.m4a": {
+     "video_id": "oxsY8GvoQQE",
+     "status": "downloaded",
+     "trimmed": 3.719909,
+     "duration": 161.908
+    }
+   }
+  },
+  {
+   "piano_id": "Z1Ld4RM2XX8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Z1Ld4RM2XX8",
+     "status": "downloaded",
+     "duration": 212.114
+    },
+    "song.m4a": {
+     "video_id": "onT3z0lCZz8",
+     "status": "downloaded",
+     "duration": 216.48
+    }
+   }
+  },
+  {
+   "piano_id": "kFuIyjIXBZU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "kFuIyjIXBZU",
+     "status": "downloaded",
+     "trimmed": 0.907098,
+     "duration": 231.594
+    },
+    "song.m4a": {
+     "video_id": "p5Jw-T4dVss",
+     "status": "downloaded",
+     "trimmed": 0.78585,
+     "duration": 235.686
+    }
+   }
+  },
+  {
+   "piano_id": "A3LtcnYbgeU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "A3LtcnYbgeU",
+     "status": "downloaded",
+     "trimmed": 0.400771,
+     "duration": 211.736
+    },
+    "song.m4a": {
+     "video_id": "pEY-GPsru_E",
+     "status": "downloaded",
+     "trimmed": 0.724263,
+     "duration": 209.161
+    }
+   }
+  },
+  {
+   "piano_id": "HWz9mnbSp9U",
+   "files": {
+    "piano.m4a": {
+     "video_id": "HWz9mnbSp9U",
+     "status": "downloaded",
+     "trimmed": 0.470317,
+     "duration": 214.593
+    },
+    "song.m4a": {
+     "video_id": "pVqX2u6YWqI",
+     "status": "downloaded",
+     "trimmed": 2.752857,
+     "duration": 216.188
+    }
+   }
+  },
+  {
+   "piano_id": "sIqOlYO1d6A",
+   "files": {
+    "piano.m4a": {
+     "video_id": "sIqOlYO1d6A",
+     "status": "downloaded",
+     "trimmed": 7.276576,
+     "duration": 238.855
+    },
+    "song.m4a": {
+     "video_id": "pfKz-INOUGI",
+     "status": "downloaded",
+     "trimmed": 1.754807,
+     "duration": 229.934
+    }
+   }
+  },
+  {
+   "piano_id": "2KuXlub53NY",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "lFwsGGYikAs",
+     "status": "downloaded",
+     "trimmed": 0.540952,
+     "duration": 209.507
+    },
+    "piano.m4a": {
+     "video_id": "2KuXlub53NY",
+     "status": "downloaded",
+     "trimmed": 0.557528,
+     "duration": 216.874
+    },
+    "song.m4a": {
+     "video_id": "pTVNqmyjrcI",
+     "status": "downloaded",
+     "trimmed": 0.739773,
+     "duration": 202.993
+    }
+   }
+  },
+  {
+   "piano_id": "-67kGzOBv3g",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "YrDwGdZcjTA",
+     "status": "downloaded",
+     "duration": 201.851
+    },
+    "piano.m4a": {
+     "video_id": "-67kGzOBv3g",
+     "status": "downloaded",
+     "trimmed": 0.343673,
+     "duration": 207.684
+    },
+    "song.m4a": {
+     "video_id": "pdiSKlsmf80",
+     "status": "downloaded",
+     "trimmed": 0.361723,
+     "duration": 201.998
+    }
+   }
+  },
+  {
+   "piano_id": "kkGrC94K8gc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "kkGrC94K8gc",
+     "status": "downloaded",
+     "trimmed": 0.356032,
+     "duration": 212.339
+    },
+    "song.m4a": {
+     "video_id": "pwTMz6Nfhjg",
+     "status": "downloaded",
+     "trimmed": 1.106871,
+     "duration": 212.703
+    }
+   }
+  },
+  {
+   "piano_id": "UYxPIBPWSKQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "UYxPIBPWSKQ",
+     "status": "downloaded",
+     "trimmed": 0.652812,
+     "duration": 201.5
+    },
+    "song.m4a": {
+     "video_id": "prsRiVTKqYg",
+     "status": "downloaded",
+     "trimmed": 1.040068,
+     "duration": 193.636
+    }
+   }
+  },
+  {
+   "piano_id": "jQuqFMHpLUE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "jQuqFMHpLUE",
+     "status": "downloaded",
+     "trimmed": 0.760068,
+     "duration": 218.389
+    },
+    "song.m4a": {
+     "video_id": "pxC9NhXv_1M",
+     "status": "downloaded",
+     "trimmed": 0.845465,
+     "duration": 213.173
+    }
+   }
+  },
+  {
+   "piano_id": "c2psDz2TWJY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "c2psDz2TWJY",
+     "status": "downloaded",
+     "trimmed": 0.713401,
+     "duration": 244.257
+    },
+    "song.m4a": {
+     "video_id": "q0hyYWKXF0Q",
+     "status": "downloaded",
+     "trimmed": 1.598073,
+     "duration": 234.874
+    }
+   }
+  },
+  {
+   "piano_id": "PupoPmXAeIQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "PupoPmXAeIQ",
+     "status": "downloaded",
+     "trimmed": 0.6361,
+     "duration": 266.579
+    },
+    "song.m4a": {
+     "video_id": "qAZp5JfDmz4",
+     "status": "downloaded",
+     "duration": 262.827
+    }
+   }
+  },
+  {
+   "piano_id": "onZh3-7QAx0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "onZh3-7QAx0",
+     "status": "downloaded",
+     "duration": 207.377
+    },
+    "song.m4a": {
+     "video_id": "qAfj5MFftcw",
+     "status": "downloaded",
+     "duration": 205.311
+    }
+   }
+  },
+  {
+   "piano_id": "HwT8ayHTPl4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "HwT8ayHTPl4",
+     "status": "downloaded",
+     "trimmed": 0.354875,
+     "duration": 279.097
+    },
+    "song.m4a": {
+     "video_id": "qN03AzETPzM",
+     "status": "downloaded",
+     "duration": 285.002
+    }
+   }
+  },
+  {
+   "piano_id": "Tmc6Z9e89N0",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "7-4qKAseIXQ",
+     "status": "downloaded",
+     "trimmed": 0.542698,
+     "duration": 267.578
+    },
+    "piano.m4a": {
+     "video_id": "Tmc6Z9e89N0",
+     "status": "downloaded",
+     "trimmed": 8.062404,
+     "duration": 260.453
+    },
+    "song.m4a": {
+     "video_id": "q7mlB-adMBc",
+     "status": "downloaded",
+     "duration": 268.562
+    }
+   }
+  },
+  {
+   "piano_id": "fkn2jHQngoo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "fkn2jHQngoo",
+     "status": "downloaded",
+     "trimmed": 6.7972339999999996,
+     "duration": 254.938
+    },
+    "song.m4a": {
+     "video_id": "qlVSWDCEbvU",
+     "status": "downloaded",
+     "duration": 261.248
+    }
+   }
+  },
+  {
+   "piano_id": "Re3k-sKmYUA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "Re3k-sKmYUA",
+     "status": "downloaded",
+     "trimmed": 1.661088,
+     "duration": 273.913
+    },
+    "song.m4a": {
+     "video_id": "qgEtxdoj3-o",
+     "status": "downloaded",
+     "trimmed": 1.045079,
+     "duration": 282.888
+    }
+   }
+  },
+  {
+   "piano_id": "TIilXL_CoX0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "TIilXL_CoX0",
+     "status": "downloaded",
+     "trimmed": 0.824875,
+     "duration": 180.244
+    },
+    "song.m4a": {
+     "video_id": "qrxsceexTBw",
+     "status": "downloaded",
+     "trimmed": 0.324127,
+     "duration": 185.458
+    }
+   }
+  },
+  {
+   "piano_id": "JL1a9397xf8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "JL1a9397xf8",
+     "status": "downloaded",
+     "trimmed": 0.75424,
+     "duration": 158.488
+    },
+    "song.m4a": {
+     "video_id": "r0c9Q21AfLA",
+     "status": "downloaded",
+     "duration": 152.276
+    }
+   }
+  },
+  {
+   "piano_id": "DOlwmno6NCE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "DOlwmno6NCE",
+     "status": "downloaded",
+     "trimmed": 9.016848,
+     "duration": 213.268
+    },
+    "song.m4a": {
+     "video_id": "rMbWwFSrotI",
+     "status": "downloaded",
+     "duration": 224.049
+    }
+   }
+  },
+  {
+   "piano_id": "-vY_3qnrmkg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-vY_3qnrmkg",
+     "status": "downloaded",
+     "trimmed": 9.107891,
+     "duration": 240.878
+    },
+    "song.m4a": {
+     "video_id": "rKNYV2RlRKY",
+     "status": "downloaded",
+     "duration": 237.053
+    }
+   }
+  },
+  {
+   "piano_id": "JcxZL1ahvrM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "JcxZL1ahvrM",
+     "status": "downloaded",
+     "trimmed": 7.571066,
+     "duration": 245.758
+    },
+    "song.m4a": {
+     "video_id": "rU1fbtzrgtU",
+     "status": "downloaded",
+     "duration": 247.501
+    }
+   }
+  },
+  {
+   "piano_id": "rXGmRHSuNJQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "rXGmRHSuNJQ",
+     "status": "downloaded",
+     "trimmed": 0.968549,
+     "duration": 177.755
+    },
+    "song.m4a": {
+     "video_id": "r_6aUG4wd48",
+     "status": "downloaded",
+     "duration": 178.693
+    }
+   }
+  },
+  {
+   "piano_id": "kSEQAx-1ucg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "kSEQAx-1ucg",
+     "status": "downloaded",
+     "trimmed": 8.835465,
+     "duration": 260.749
+    },
+    "song.m4a": {
+     "video_id": "rscxeGvT8OM",
+     "status": "downloaded",
+     "duration": 258.113
+    }
+   }
+  },
+  {
+   "piano_id": "-rVn1VbioDw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-rVn1VbioDw",
+     "status": "downloaded",
+     "trimmed": 0.611814,
+     "duration": 248.445
+    },
+    "song.m4a": {
+     "video_id": "rg_zwK_sSEY",
+     "status": "downloaded",
+     "trimmed": 0.536916,
+     "duration": 242.019
+    }
+   }
+  },
+  {
+   "piano_id": "I1ajY3QibSI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "Dgz_7jOOLUk",
+     "status": "downloaded",
+     "duration": 246.457
+    },
+    "piano.m4a": {
+     "video_id": "I1ajY3QibSI",
+     "status": "downloaded",
+     "trimmed": 0.338367,
+     "duration": 246.884
+    },
+    "song.m4a": {
+     "video_id": "rc6NKSVv2fw",
+     "status": "downloaded",
+     "duration": 250.776
+    }
+   }
+  },
+  {
+   "piano_id": "jaBlNqWyVW8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "6G-SFuQ2RoI",
+     "status": "downloaded",
+     "trimmed": 0.498254,
+     "duration": 219.65
+    },
+    "piano.m4a": {
+     "video_id": "jaBlNqWyVW8",
+     "status": "downloaded",
+     "trimmed": 0.390181,
+     "duration": 228.582
+    },
+    "song.m4a": {
+     "video_id": "ryLGxpjwAhM",
+     "status": "downloaded",
+     "trimmed": 0.967279,
+     "duration": 220.11
+    }
+   }
+  },
+  {
+   "piano_id": "RTfhwPKTsUY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "RTfhwPKTsUY",
+     "status": "downloaded",
+     "trimmed": 0.528844,
+     "duration": 197.862
+    },
+    "song.m4a": {
+     "video_id": "s31XTrGJchQ",
+     "status": "downloaded",
+     "trimmed": 0.563401,
+     "duration": 192.696
+    }
+   }
+  },
+  {
+   "piano_id": "1rIt78rZ0Dg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "1rIt78rZ0Dg",
+     "status": "downloaded",
+     "duration": 240.907
+    },
+    "song.m4a": {
+     "video_id": "sQgd6MccwZc",
+     "status": "downloaded",
+     "duration": 239.491
+    }
+   }
+  },
+  {
+   "piano_id": "_SxuyRrr4u4",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "0v-rPJE-8Dw",
+     "status": "downloaded",
+     "duration": 250.056
+    },
+    "piano.m4a": {
+     "video_id": "_SxuyRrr4u4",
+     "status": "downloaded",
+     "trimmed": 0.43068,
+     "duration": 254.548
+    },
+    "song.m4a": {
+     "video_id": "rywUS-ohqeE",
+     "status": "downloaded",
+     "trimmed": 2.764376,
+     "duration": 245.341
+    }
+   }
+  },
+  {
+   "piano_id": "Ndfqg6a0ak8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "MLg5p6cNgpA",
+     "status": "downloaded",
+     "duration": 295.242
+    },
+    "piano.m4a": {
+     "video_id": "Ndfqg6a0ak8",
+     "status": "downloaded",
+     "trimmed": 0.517778,
+     "duration": 293.285
+    },
+    "song.m4a": {
+     "video_id": "sB4iOw62R3I",
+     "status": "downloaded",
+     "duration": 322.804
+    }
+   }
+  },
+  {
+   "piano_id": "FGS5b2a1tsc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "FGS5b2a1tsc",
+     "status": "downloaded",
+     "trimmed": 0.564649,
+     "duration": 176.627
+    },
+    "song.m4a": {
+     "video_id": "sotnjcMeGdQ",
+     "status": "downloaded",
+     "trimmed": 0.420363,
+     "duration": 175.006
+    }
+   }
+  },
+  {
+   "piano_id": "YF-8TA20aik",
+   "files": {
+    "piano.m4a": {
+     "video_id": "YF-8TA20aik",
+     "status": "downloaded",
+     "trimmed": 0.824399,
+     "duration": 311.113
+    },
+    "song.m4a": {
+     "video_id": "sn19xvfoXvk",
+     "status": "downloaded",
+     "trimmed": 0.887052,
+     "duration": 301.692
+    }
+   }
+  },
+  {
+   "piano_id": "EvnjZxNDWBM",
+   "files": {
+    "piano.m4a": {
+     "video_id": "EvnjZxNDWBM",
+     "status": "downloaded",
+     "trimmed": 6.785283,
+     "duration": 219.4
+    },
+    "song.m4a": {
+     "video_id": "t2xX0lS_06Y",
+     "status": "downloaded",
+     "duration": 222.586
+    }
+   }
+  },
+  {
+   "piano_id": "592rZj6ax8E",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "HLIMM10e8fo",
+     "status": "downloaded",
+     "duration": 265.056
+    },
+    "piano.m4a": {
+     "video_id": "592rZj6ax8E",
+     "status": "downloaded",
+     "trimmed": 6.371519,
+     "duration": 260.333
+    },
+    "song.m4a": {
+     "video_id": "svhXvWkqiHA",
+     "status": "downloaded",
+     "duration": 284.026
+    }
+   }
+  },
+  {
+   "piano_id": "iFQRLKxvhR0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "iFQRLKxvhR0",
+     "status": "downloaded",
+     "duration": 150.094
+    },
+    "song.m4a": {
+     "video_id": "t3zqFusFXis",
+     "status": "downloaded",
+     "trimmed": 0.37195,
+     "duration": 152.973
+    }
+   }
+  },
+  {
+   "piano_id": "AQ40Mw7flaI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "AQ40Mw7flaI",
+     "status": "downloaded",
+     "trimmed": 7.097799999999999,
+     "duration": 231.905
+    },
+    "song.m4a": {
+     "video_id": "t5OJMSdXPwk",
+     "status": "downloaded",
+     "duration": 237.029
+    }
+   }
+  },
+  {
+   "piano_id": "apcReZ3lb8w",
+   "files": {
+    "piano.m4a": {
+     "video_id": "apcReZ3lb8w",
+     "status": "downloaded",
+     "trimmed": 0.59941,
+     "duration": 165.679
+    },
+    "song.m4a": {
+     "video_id": "tGtOlNzFlss",
+     "status": "downloaded",
+     "trimmed": 0.319433,
+     "duration": 161.106
+    }
+   }
+  },
+  {
+   "piano_id": "gwqmjTl3_kA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "gwqmjTl3_kA",
+     "status": "downloaded",
+     "duration": 184.9
+    },
+    "song.m4a": {
+     "video_id": "tO4dxvguQDk",
+     "status": "downloaded",
+     "duration": 182.973
+    }
+   }
+  },
+  {
+   "piano_id": "wsSZNvaQ4hE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "wsSZNvaQ4hE",
+     "status": "downloaded",
+     "trimmed": 0.685782,
+     "duration": 190.136
+    },
+    "song.m4a": {
+     "video_id": "u1V8YRJnr4Q",
+     "status": "downloaded",
+     "trimmed": 0.553061,
+     "duration": 183.186
+    }
+   }
+  },
+  {
+   "piano_id": "v1aw9c-ack8",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "fwca4PXDHco",
+     "status": "downloaded",
+     "trimmed": 0.377256,
+     "duration": 244.686
+    },
+    "piano.m4a": {
+     "video_id": "v1aw9c-ack8",
+     "status": "downloaded",
+     "trimmed": 0.869342,
+     "duration": 235.115
+    },
+    "song.m4a": {
+     "video_id": "tQw1_sX9ipc",
+     "status": "downloaded",
+     "trimmed": 0.437007,
+     "duration": 242.763
+    }
+   }
+  },
+  {
+   "piano_id": "B_FN0gLt3hI",
+   "files": {
+    "piano.m4a": {
+     "video_id": "B_FN0gLt3hI",
+     "status": "downloaded",
+     "duration": 234.173
+    },
+    "song.m4a": {
+     "video_id": "u5iE_--_bCo",
+     "status": "downloaded",
+     "trimmed": 0.473946,
+     "duration": 239.133
+    }
+   }
+  },
+  {
+   "piano_id": "lnDP8ze6Oas",
+   "files": {
+    "piano.m4a": {
+     "video_id": "lnDP8ze6Oas",
+     "status": "downloaded",
+     "trimmed": 0.694354,
+     "duration": 184.067
+    },
+    "song.m4a": {
+     "video_id": "uCD2qpnwFNc",
+     "status": "downloaded",
+     "duration": 181.58
+    }
+   }
+  },
+  {
+   "piano_id": "KRy_F4U6DY8",
+   "files": {
+    "piano.m4a": {
+     "video_id": "KRy_F4U6DY8",
+     "status": "downloaded",
+     "trimmed": 7.056145,
+     "duration": 170.646
+    },
+    "song.m4a": {
+     "video_id": "uQiF1yOnzDg",
+     "status": "downloaded",
+     "duration": 172.594
+    }
+   }
+  },
+  {
+   "piano_id": "1SXOZp25kuU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "1SXOZp25kuU",
+     "status": "downloaded",
+     "duration": 174.986
+    },
+    "song.m4a": {
+     "video_id": "udHq9Mg14Os",
+     "status": "downloaded",
+     "duration": 180.048
+    }
+   }
+  },
+  {
+   "piano_id": "sDLif2WrbHE",
+   "files": {
+    "piano.m4a": {
+     "video_id": "sDLif2WrbHE",
+     "status": "downloaded",
+     "trimmed": 0.786712,
+     "duration": 203.084
+    },
+    "song.m4a": {
+     "video_id": "ujjf3nnIUCQ",
+     "status": "downloaded",
+     "trimmed": 0.673855,
+     "duration": 201.502
+    }
+   }
+  },
+  {
+   "piano_id": "XlXCdIZT2cM",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "SHWR0D23bAQ",
+     "status": "downloaded",
+     "duration": 206.124
+    },
+    "piano.m4a": {
+     "video_id": "XlXCdIZT2cM",
+     "status": "downloaded",
+     "trimmed": 7.325828,
+     "duration": 197.172
+    },
+    "song.m4a": {
+     "video_id": "ucRVDoFkcxc",
+     "status": "downloaded",
+     "trimmed": 2.78415,
+     "duration": 162.682
+    }
+   }
+  },
+  {
+   "piano_id": "qMDqCgfnJvw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "qMDqCgfnJvw",
+     "status": "downloaded",
+     "trimmed": 7.155351,
+     "duration": 257.436
+    },
+    "song.m4a": {
+     "video_id": "un60RISzE-A",
+     "status": "downloaded",
+     "trimmed": 0.3261,
+     "duration": 251.169
+    }
+   }
+  },
+  {
+   "piano_id": "5cOuOFuquVk",
+   "files": {
+    "piano.m4a": {
+     "video_id": "5cOuOFuquVk",
+     "status": "downloaded",
+     "trimmed": 0.682925,
+     "duration": 200.147
+    },
+    "song.m4a": {
+     "video_id": "v1t4MTqdfyI",
+     "status": "downloaded",
+     "duration": 198.02
+    }
+   }
+  },
+  {
+   "piano_id": "eO42ILSEK0o",
+   "files": {
+    "piano.m4a": {
+     "video_id": "eO42ILSEK0o",
+     "status": "downloaded",
+     "trimmed": 0.47288,
+     "duration": 202.795
+    },
+    "song.m4a": {
+     "video_id": "unTus4ukPB0",
+     "status": "downloaded",
+     "trimmed": 1.165238,
+     "duration": 202.148
+    }
+   }
+  },
+  {
+   "piano_id": "vQJolzPxgTo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "vQJolzPxgTo",
+     "status": "downloaded",
+     "trimmed": 0.311701,
+     "duration": 247.26
+    },
+    "song.m4a": {
+     "video_id": "v27COkZT4GY",
+     "status": "downloaded",
+     "duration": 246.015
+    }
+   }
+  },
+  {
+   "piano_id": "-d-rncF-xH0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-d-rncF-xH0",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 202.519
+    },
+    "song.m4a": {
+     "video_id": "v1t4MTqdfyI",
+     "status": "downloaded",
+     "duration": 198.02
+    }
+   }
+  },
+  {
+   "piano_id": "YhyuxWwcbQc",
+   "files": {
+    "piano.m4a": {
+     "video_id": "YhyuxWwcbQc",
+     "status": "downloaded",
+     "trimmed": 0.529297,
+     "duration": 167.746
+    },
+    "song.m4a": {
+     "video_id": "v2ttAph6PhM",
+     "status": "downloaded",
+     "duration": 170.922
+    }
+   }
+  },
+  {
+   "piano_id": "hbokRw0LNnA",
+   "files": {
+    "piano.m4a": {
+     "video_id": "hbokRw0LNnA",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 271.157
+    },
+    "song.m4a": {
+     "video_id": "vDltHVQ4YhI",
+     "status": "downloaded",
+     "duration": 274.251
+    }
+   }
+  },
+  {
+   "piano_id": "fwheJzwTN-E",
+   "files": {
+    "piano.m4a": {
+     "video_id": "fwheJzwTN-E",
+     "status": "downloaded",
+     "trimmed": 1.074059,
+     "duration": 253.371
+    },
+    "song.m4a": {
+     "video_id": "v6qOXcX557U",
+     "status": "downloaded",
+     "trimmed": 0.922562,
+     "duration": 250.736
+    }
+   }
+  },
+  {
+   "piano_id": "N90vjgbBMPQ",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "dVEhdsEHS64",
+     "status": "downloaded",
+     "trimmed": 0.456803,
+     "duration": 249.599
+    },
+    "piano.m4a": {
+     "video_id": "N90vjgbBMPQ",
+     "status": "downloaded",
+     "trimmed": 0.337052,
+     "duration": 247.118
+    },
+    "song.m4a": {
+     "video_id": "vHXE_Es7f74",
+     "status": "downloaded",
+     "trimmed": 0.310907,
+     "duration": 245.216
+    }
+   }
+  },
+  {
+   "piano_id": "5e5Gbpz4Sdo",
+   "files": {
+    "piano.m4a": {
+     "video_id": "5e5Gbpz4Sdo",
+     "status": "downloaded",
+     "trimmed": 1.243197,
+     "duration": 95.352
+    },
+    "song.m4a": {
+     "video_id": "vLn9zVJCu18",
+     "status": "downloaded",
+     "duration": 95.44
+    }
+   }
+  },
+  {
+   "piano_id": "jXxr8pywAyg",
+   "files": {
+    "piano.m4a": {
+     "video_id": "jXxr8pywAyg",
+     "status": "downloaded",
+     "trimmed": 0.911769,
+     "duration": 339.725
+    },
+    "song.m4a": {
+     "video_id": "vRjmhSAZidQ",
+     "status": "downloaded",
+     "trimmed": 0.658912,
+     "duration": 341.836
+    }
+   }
+  },
+  {
+   "piano_id": "TnQ3iG_ue-4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "TnQ3iG_ue-4",
+     "status": "downloaded",
+     "duration": 157.942
+    },
+    "song.m4a": {
+     "video_id": "vOPjdUaZsX4",
+     "status": "downloaded",
+     "trimmed": 0.321905,
+     "duration": 154.021
+    }
+   }
+  },
+  {
+   "piano_id": "3H8Thzn9ULY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "3H8Thzn9ULY",
+     "status": "downloaded",
+     "trimmed": 6.47161,
+     "duration": 155.929
+    },
+    "song.m4a": {
+     "video_id": "vXXW_1NUpYo",
+     "status": "downloaded",
+     "trimmed": 0.328753,
+     "duration": 156.754
+    }
+   }
+  },
+  {
+   "piano_id": "v7clW_6aT9g",
+   "files": {
+    "piano.m4a": {
+     "video_id": "v7clW_6aT9g",
+     "status": "downloaded",
+     "trimmed": 1.399093,
+     "duration": 233.936
+    },
+    "song.m4a": {
+     "video_id": "w-FkV0EM_CU",
+     "status": "downloaded",
+     "trimmed": 0.3278,
+     "duration": 234.055
+    }
+   }
+  },
+  {
+   "piano_id": "LHD5dDB3pN0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "LHD5dDB3pN0",
+     "status": "downloaded",
+     "duration": 186.781
+    },
+    "song.m4a": {
+     "video_id": "wEBlaMOmKV4",
+     "status": "downloaded",
+     "trimmed": 0.49254,
+     "duration": 190.353
+    }
+   }
+  },
+  {
+   "piano_id": "IKq1uU96uqQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "IKq1uU96uqQ",
+     "status": "downloaded",
+     "trimmed": 0.650884,
+     "duration": 180.163
+    },
+    "song.m4a": {
+     "video_id": "wBjpK2G96NQ",
+     "status": "downloaded",
+     "duration": 179.746
+    }
+   }
+  },
+  {
+   "piano_id": "CWkSRxZZtV0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "CWkSRxZZtV0",
+     "status": "downloaded",
+     "trimmed": 0.718571,
+     "duration": 214.972
+    },
+    "song.m4a": {
+     "video_id": "wRKXAAV6jh4",
+     "status": "downloaded",
+     "trimmed": 0.409546,
+     "duration": 207.897
+    }
+   }
+  },
+  {
+   "piano_id": "1hPUwjPNT3k",
+   "files": {
+    "piano.m4a": {
+     "video_id": "1hPUwjPNT3k",
+     "status": "downloaded",
+     "duration": 320.435
+    },
+    "song.m4a": {
+     "video_id": "wRzEvqbrn2c",
+     "status": "downloaded",
+     "trimmed": 0.339751,
+     "duration": 317.751
+    }
+   }
+  },
+  {
+   "piano_id": "XfktsrCm2kQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "XfktsrCm2kQ",
+     "status": "downloaded",
+     "trimmed": 0.348571,
+     "duration": 235.705
+    },
+    "song.m4a": {
+     "video_id": "wXhTHyIgQ_U",
+     "status": "downloaded",
+     "trimmed": 0.544762,
+     "duration": 225.827
+    }
+   }
+  },
+  {
+   "piano_id": "5nFoJF5xn7U",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "lkZR5iobFHc",
+     "status": "downloaded",
+     "trimmed": 0.393651,
+     "duration": 329.213
+    },
+    "piano.m4a": {
+     "video_id": "5nFoJF5xn7U",
+     "status": "downloaded",
+     "trimmed": 7.133696,
+     "duration": 337.195
+    },
+    "song.m4a": {
+     "video_id": "wuO9I8oGI_Y",
+     "status": "downloaded",
+     "duration": 329.352
+    }
+   }
+  },
+  {
+   "piano_id": "jEuRjwldOo0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "jEuRjwldOo0",
+     "status": "downloaded",
+     "trimmed": 0.413991,
+     "duration": 209.285
+    },
+    "song.m4a": {
+     "video_id": "wvsP_lzh2-8",
+     "status": "downloaded",
+     "duration": 200.133
+    }
+   }
+  },
+  {
+   "piano_id": "-3gUmo-r8eI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "GJ4WXi7-Ywg",
+     "status": "downloaded",
+     "trimmed": 1.273696,
+     "duration": 244.905
+    },
+    "piano.m4a": {
+     "video_id": "-3gUmo-r8eI",
+     "status": "downloaded",
+     "trimmed": 0.472948,
+     "duration": 253.205
+    },
+    "song.m4a": {
+     "video_id": "wdGZBRAwW74",
+     "status": "downloaded",
+     "trimmed": 0.993923,
+     "duration": 258.489
+    }
+   }
+  },
+  {
+   "piano_id": "15wYXNmT4bY",
+   "files": {
+    "piano.m4a": {
+     "video_id": "15wYXNmT4bY",
+     "status": "downloaded",
+     "trimmed": 0.589138,
+     "duration": 201.912
+    },
+    "song.m4a": {
+     "video_id": "x1XIJM6spaE",
+     "status": "downloaded",
+     "trimmed": 1.198027,
+     "duration": 201.071
+    }
+   }
+  },
+  {
+   "piano_id": "26NgWLygGN4",
+   "files": {
+    "piano.m4a": {
+     "video_id": "26NgWLygGN4",
+     "status": "downloaded",
+     "trimmed": 0.746168,
+     "duration": 251.77
+    },
+    "song.m4a": {
+     "video_id": "x9CU9KKnNMs",
+     "status": "downloaded",
+     "trimmed": 0.718458,
+     "duration": 254.492
+    }
+   }
+  },
+  {
+   "piano_id": "0THo2R6cLks",
+   "files": {
+    "piano.m4a": {
+     "video_id": "0THo2R6cLks",
+     "status": "downloaded",
+     "trimmed": 7.466756999999999,
+     "duration": 322.256
+    },
+    "song.m4a": {
+     "video_id": "xU-syuyprPs",
+     "status": "downloaded",
+     "trimmed": 1.672132,
+     "duration": 314.514
+    }
+   }
+  },
+  {
+   "piano_id": "iabxGX7zg5A",
+   "files": {
+    "piano.m4a": {
+     "video_id": "iabxGX7zg5A",
+     "status": "downloaded",
+     "trimmed": 1.162925,
+     "duration": 220.472
+    },
+    "song.m4a": {
+     "video_id": "xGPeNN9S0Fg",
+     "status": "downloaded",
+     "trimmed": 0.440249,
+     "duration": 216.736
+    }
+   }
+  },
+  {
+   "piano_id": "8inWxyeHzuQ",
+   "files": {
+    "piano.m4a": {
+     "video_id": "8inWxyeHzuQ",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 231.73
+    },
+    "song.m4a": {
+     "video_id": "xfQ_Fisto-8",
+     "status": "downloaded",
+     "trimmed": 0.613696,
+     "duration": 239.69
+    }
+   }
+  },
+  {
+   "piano_id": "XUpNWNZkllA",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "ninILwoQ7RM",
+     "status": "downloaded",
+     "trimmed": 8.296825,
+     "duration": 154.336
+    },
+    "piano.m4a": {
+     "video_id": "XUpNWNZkllA",
+     "status": "downloaded",
+     "trimmed": 8.971224,
+     "duration": 157.26
+    },
+    "song.m4a": {
+     "video_id": "xQOO2xGQ1Pc",
+     "status": "downloaded",
+     "trimmed": 0.561293,
+     "duration": 157.311
+    }
+   }
+  },
+  {
+   "piano_id": "NeACSHzQHsw",
+   "files": {
+    "piano.m4a": {
+     "video_id": "NeACSHzQHsw",
+     "status": "downloaded",
+     "trimmed": 6.888866,
+     "duration": 288.353
+    },
+    "song.m4a": {
+     "video_id": "xg48d9Vnzc8",
+     "status": "downloaded",
+     "trimmed": 1.121927,
+     "duration": 280.768
+    }
+   }
+  },
+  {
+   "piano_id": "-BgBmxZcN48",
+   "files": {
+    "piano.m4a": {
+     "video_id": "-BgBmxZcN48",
+     "status": "downloaded",
+     "trimmed": 2.209116,
+     "duration": 162.908
+    },
+    "song.m4a": {
+     "video_id": "y3KJ7d2qBoA",
+     "status": "downloaded",
+     "trimmed": 0.438526,
+     "duration": 164.145
+    }
+   }
+  },
+  {
+   "piano_id": "QvKqckh4xfU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "QvKqckh4xfU",
+     "status": "downloaded",
+     "trimmed": 0.309955,
+     "duration": 215.333
+    },
+    "song.m4a": {
+     "video_id": "yl_JokXXZ10",
+     "status": "downloaded",
+     "duration": 223.33
+    }
+   }
+  },
+  {
+   "piano_id": "wWZr_Qya7rU",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "xTZCwbfFWrg",
+     "status": "downloaded",
+     "trimmed": 1.182313,
+     "duration": 253.146
+    },
+    "piano.m4a": {
+     "video_id": "wWZr_Qya7rU",
+     "status": "downloaded",
+     "trimmed": 6.8412239999999995,
+     "duration": 249.786
+    },
+    "song.m4a": {
+     "video_id": "y4zdDXPYo0I",
+     "status": "downloaded",
+     "trimmed": 0.623537,
+     "duration": 241.932
+    }
+   }
+  },
+  {
+   "piano_id": "yEZikk2dHk0",
+   "files": {
+    "piano.m4a": {
+     "video_id": "yEZikk2dHk0",
+     "status": "downloaded",
+     "trimmed": 0.866054,
+     "duration": 161.395
+    },
+    "song.m4a": {
+     "video_id": "ypF_84mBqI8",
+     "status": "downloaded",
+     "duration": 162.377
+    }
+   }
+  },
+  {
+   "piano_id": "_6IuGC1vK7w",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "4lzzbQe_DWY",
+     "status": "downloaded",
+     "duration": 150.071
+    },
+    "piano.m4a": {
+     "video_id": "_6IuGC1vK7w",
+     "status": "downloaded",
+     "trimmed": 0.62288,
+     "duration": 154.161
+    },
+    "song.m4a": {
+     "video_id": "yF4ulRTCn44",
+     "status": "downloaded",
+     "trimmed": 0.309501,
+     "duration": 151.247
+    }
+   }
+  },
+  {
+   "piano_id": "4NOJc2Cu4so",
+   "files": {
+    "piano.m4a": {
+     "video_id": "4NOJc2Cu4so",
+     "status": "downloaded",
+     "trimmed": 9.638390000000001,
+     "duration": 209.395
+    },
+    "song.m4a": {
+     "video_id": "z6guy8-4Zwg",
+     "status": "downloaded",
+     "duration": 206.588
+    }
+   }
+  },
+  {
+   "piano_id": "CgIxsjlTBgI",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "xjvD3RN-ZmI",
+     "status": "downloaded",
+     "trimmed": 0.394104,
+     "duration": 214.692
+    },
+    "piano.m4a": {
+     "video_id": "CgIxsjlTBgI",
+     "status": "downloaded",
+     "trimmed": 0.429116,
+     "duration": 218.674
+    },
+    "song.m4a": {
+     "video_id": "z39Tf_7cRJw",
+     "status": "downloaded",
+     "trimmed": 0.325692,
+     "duration": 210.279
+    }
+   }
+  },
+  {
+   "piano_id": "zleHmDMI9ZU",
+   "files": {
+    "piano.m4a": {
+     "video_id": "zleHmDMI9ZU",
+     "status": "downloaded",
+     "trimmed": 5.3,
+     "duration": 256.366
+    },
+    "song.m4a": {
+     "video_id": "zleHmDMI9ZU",
+     "status": "downloaded",
+     "trimmed": 2.261088,
+     "duration": 259.405
+    }
+   }
+  },
+  {
+   "piano_id": "aIkj0-O6cFg",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "mzcCDeQN6QE",
+     "status": "downloaded",
+     "duration": 199.506
+    },
+    "piano.m4a": {
+     "video_id": "aIkj0-O6cFg",
+     "status": "downloaded",
+     "trimmed": 7.578639,
+     "duration": 206.231
+    },
+    "song.m4a": {
+     "video_id": "zkE8HD10EU0",
+     "status": "downloaded",
+     "duration": 262.339
+    }
+   }
+  },
+  {
+   "piano_id": "R-s4mFwuJzk",
+   "files": {
+    "instrumental.m4a": {
+     "video_id": "boyQATU1PTA",
+     "status": "downloaded",
+     "duration": 203.476
+    },
+    "piano.m4a": {
+     "video_id": "R-s4mFwuJzk",
+     "status": "downloaded",
+     "trimmed": 0.504898,
+     "duration": 207.221
+    },
+    "song.m4a": {
+     "video_id": "zvpo0STisUI",
+     "status": "downloaded",
+     "trimmed": 0.485102,
+     "duration": 185.995
+    }
+   }
+  }
+ ]
+}

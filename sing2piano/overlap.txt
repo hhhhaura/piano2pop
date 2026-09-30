@@ -1,0 +1,346 @@
+Songs in sing2piano/test.csv that also appear in the p2p-acestep training corpus.
+
+checked          571 matched songs
+training corpus  4362 tracks (4167 distinct title keys)
+kong covers      192 held-out recordings
+
+exact pop_id overlap   32   contaminated, no judgement call
+title-key overlap      49   probably the same song, different upload
+kong cover overlap     2   in the other held-out set
+
+== exact pop_id overlap — REMOVE THESE ROWS ==
+
+  song_id  60ItHLz5WEA   piano_id TKF0sLW3hwo
+    sing2piano  Alan Walker - Faded
+    corpus      60ItHLz5WEA  Alan Walker - Faded
+
+  song_id  QYh6mYIJG2Y   piano_id f-BGNDkd0pU
+    sing2piano  Ariana Grande - 7 rings
+    corpus      QYh6mYIJG2Y  Ariana Grande - 7 rings (Official Video)
+
+  song_id  hKgl5-lkT8U   piano_id -lR-S6fdQGE
+    sing2piano  Best Part - Daniel Caesar, H.E.R.
+    corpus      hKgl5-lkT8U  Daniel Caesar & H.E.R. - Best Part, a Visual
+
+  song_id  h5jz8xdpR0M   piano_id dYNQoXYjv5A
+    sing2piano  Bishop Briggs - River
+    corpus      UP9QFreDpOo  Bishop Briggs - River
+
+  song_id  ekzHIouo8Q4   piano_id uQlflQvnGBw
+    sing2piano  Bruno Mars - When I Was Your Man
+    corpus      ekzHIouo8Q4  Bruno Mars - When I Was Your Man (Official Music Video)
+
+  song_id  LjhCEhWiKXk   piano_id SxIhX2BE3dg
+    sing2piano  Bruno Mars - Just The Way You Are
+    corpus      LjhCEhWiKXk  Bruno Mars - Just The Way You Are (Official Music Video)
+
+  song_id  xaPNR-_Cfn0   piano_id wcdkMg57j0I
+    sing2piano  Chappell Roan - HOT TO GO!
+    corpus      xaPNR-_Cfn0  Chappell Roan - HOT TO GO! (Official Music Video)
+
+  song_id  oygrmJFKYZY   piano_id qLL5nVCVF9s
+    sing2piano  Dua Lipa - Don't Start Now
+    corpus      oygrmJFKYZY  Dua Lipa - Don't Start Now (Official Music Video)
+
+  song_id  8UVNT4wvIGY   piano_id aI1BS2tLXtU
+    sing2piano  Gotye - Somebody That I Used To Know
+    corpus      8UVNT4wvIGY  Gotye - Somebody That I Used To Know (feat. Kimbra) [Official Music Video]
+
+  song_id  fV4DiAyExN0   piano_id Oogv-ny9yvE
+    sing2piano  Hoobastank - The Reason
+    corpus      fV4DiAyExN0  Hoobastank - The Reason (Official Music Video)
+
+  song_id  PVjiKRfKpPI   piano_id 91W2B8nbOnI
+    sing2piano  Hozier - Take Me To Church
+    corpus      PVjiKRfKpPI  Hozier - Take Me To Church
+
+  song_id  Sih0v01Wbek   piano_id H7T02bKK01c
+    sing2piano  Lady Gaga - Disease
+    corpus      Sih0v01Wbek  Lady Gaga - Disease (Official Lyric Video)
+
+  song_id  nqmHQLY1iBE   piano_id TCEh1ckEG8c
+    sing2piano  Lewis Capaldi - One
+    corpus      jK3432_u4yU  Lewis Capaldi - One (Lyrics)
+
+  song_id  s-dr_KJvmO4   piano_id OQW8_L_ttAw
+    sing2piano  Miley Cyrus - Younger You (From the "Hannah Montana 20th Anniversary Special")
+    corpus      s-dr_KJvmO4  Miley Cyrus - Younger You (From the "Hannah Montana 20th Anniversary Special")
+
+  song_id  Jwgf3wmiA04   piano_id ZMK9K8I7ckM
+    sing2piano  One Direction - Drag Me Down
+    corpus      Jwgf3wmiA04  One Direction - Drag Me Down (Official Video)
+
+  song_id  fJ9rUzIMcZQ   piano_id watimPzF6JY
+    sing2piano  Queen - Bohemian Rhapsody
+    corpus      fJ9rUzIMcZQ  Queen – Bohemian Rhapsody (Official Video Remastered)
+
+  song_id  CKZvWhCqx1s   piano_id zmZQXL7RjZQ
+    sing2piano  ROSÉ - On The Ground
+    corpus      LlLoMb77dE8  ROSÉ - 'On The Ground' M/V
+
+  song_id  -2U0Ivkn2Ds   piano_id 3gmEMG4mXjA
+    sing2piano  Say Something - A Great Big World, Christina Aguilera
+    corpus      eJWuyx5ZpMU  A Great Big World, Christina Aguilera - Say Something (Official Video)
+
+  song_id  t7bQwwqW-Hc   piano_id aFtqvXrPvgQ
+    sing2piano  Shaboozey - A Bar Song (Tipsy)
+    corpus      t7bQwwqW-Hc  Shaboozey - A Bar Song (Tipsy) [Official Visualizer]
+
+  song_id  36tggrpRoTI   piano_id BGR51mkYRF8
+    sing2piano  Shawn Mendes - In My Blood
+    corpus      36tggrpRoTI  Shawn Mendes - In My Blood
+
+  song_id  dT2owtxkU8k   piano_id HGg8iIRHr_Q
+    sing2piano  Shawn Mendes - There's Nothing Holdin' Me Back
+    corpus      dT2owtxkU8k  Shawn Mendes - There's Nothing Holdin' Me Back (Official Music Video)
+
+  song_id  pyGU-UudvrM   piano_id QiT3yj0o4qc
+    sing2piano  She & Him - I Thought I Saw Your Face Today
+    corpus      pyGU-UudvrM  She & Him - I Thought I Saw Your Face Today (Official Lyric Video)
+
+  song_id  ApXoWvfEYVU   piano_id x1bLmJxOQBE
+    sing2piano  Sunflower - Post Malone, Swae Lee
+    corpus      ApXoWvfEYVU  Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)
+
+  song_id  PVjiKRfKpPI   piano_id UyVod1C_obg
+    sing2piano  Take Me To Church - Hozier
+    corpus      PVjiKRfKpPI  Hozier - Take Me To Church
+
+  song_id  4FUIEcnvT04   piano_id gK2XNWVGXHo
+    sing2piano  Taylor Swift - Opalite
+    corpus      4FUIEcnvT04  Taylor Swift - Opalite (Visualizer)
+
+  song_id  e-ORhEE9VVg   piano_id iSVAaKdFElw
+    sing2piano  Taylor Swift - Blank Space
+    corpus      e-ORhEE9VVg  Taylor Swift - Blank Space
+
+  song_id  ic8j13piAhQ   piano_id AcVsWhqPjs8
+    sing2piano  Taylor Swift - Cruel Summer
+    corpus      ic8j13piAhQ  Taylor Swift - Cruel Summer (Official Audio)
+
+  song_id  VOk5_r3Fm0g   piano_id C8FPt7oe63I
+    sing2piano  Taylor Swift - Crazier
+    corpus      dP74DkHyTQg  Crazier
+
+  song_id  zvCBSSwgtg4   piano_id T6_o_eFpmxA
+    sing2piano  The Lumineers - Ho Hey
+    corpus      zvCBSSwgtg4  The Lumineers - Ho Hey (Official Video)
+
+  song_id  NwFVSclD_uc   piano_id diKR2_A8RlY
+    sing2piano  The Walters - I Love You So
+    corpus      4Om6_1QEcwI  The Walters -- I Love You So
+
+  song_id  AIOAlaACuv4   piano_id NtdXDu4Dj2o
+    sing2piano  Tracy Chapman - Fast Car
+    corpus      AIOAlaACuv4  Tracy Chapman - Fast Car (Official Music Video)
+
+  song_id  Cwkej79U3ek   piano_id HJvg3HdxkrE
+    sing2piano  Vanessa Carlton - A Thousand Miles
+    corpus      Cwkej79U3ek  Vanessa Carlton - A Thousand Miles
+
+== title-key overlap — verify by ear or by eye ==
+
+  song_id  jb5g4UFHmfQ   piano_id JgFDg084r4s
+    sing2piano  Adele - All I Ask
+    corpus      0FrIBDIGkRY / pop zzNz9nQhrUo  Adele - All I ask 가사&해석
+
+  song_id  a1IuJLebHgM   piano_id Sf2noeL7oGw
+    sing2piano  Adele - When We Were Young
+    corpus      g4St-s4YBBw / pop k0J1z82kVYQ  Adele - When We Were Young 한글/가사/해석
+
+  song_id  NaZznqme2hg   piano_id gDasUA2mq3Q
+    sing2piano  Alex Warren - Ordinary
+    corpus      u2ah9tWTkmk / pop u2ah9tWTkmk  Alex Warren - Ordinary (Official Video)
+
+  song_id  F-cO2CMue4Q   piano_id 1yP1x0FPaIU
+    sing2piano  Ali Gatie - It's You
+    corpus      Xn0F4E-Wm-8 / pop UEDzW_cmTKQ  [가사 번역] 알리 게티 (Ali Gatie) - It's You
+
+  song_id  NN6J-aYI0d4   piano_id 9M9gSPdVsJk
+    sing2piano  Anson Seabra - Welcome To Wonderland
+    corpus      HsdMvs0q9jA / pop emnB9kam3vg  원더랜드에 온 걸 환영해: Anson Seabra - Welcome To Wonderland [가사해석/번역/자막]
+
+  song_id  dvndP8di-Uw   piano_id 7v0QWPvKT94
+    sing2piano  Ariana Grande, The Weeknd - off the table
+    corpus      WWccmeSozzs / pop AWFo-qZu6RY  다시 뭉친 꿀조합, Ariana Grande, The Weeknd - off the table [가사 번역/한글 자막]
+
+  song_id  d_HlPboLRL8   piano_id jtVSCzurCbQ
+    sing2piano  AURORA - Runaway
+    corpus      O-7IE2KJX4E / pop zuEhm3xX0XQ  *띵곡추천*🌈👌 AURORA - Runaway [가사 해석]
+
+  song_id  XmIgg9De9hY   piano_id -oAo7-dKMxw
+    sing2piano  Avicii - The Nights
+    corpus      MYR8lKaZ4QE / pop 2n25t5n8qu8  Avicii - The Nights (한국어 가사/해석/자막)
+
+  song_id  2fnaFzFluM0   piano_id sQjwIBCG5rw
+    sing2piano  Bette Midler - The Rose
+    corpus      aZxp5e43ZfQ / pop 8azjpk8AB9c  Bette Midler  - The Rose ［가사 자막］
+
+  song_id  yaJx0Gj_LCY   piano_id Gcis1qY9AHc
+    sing2piano  Billie Eilish - wish you were gay
+    corpus      v1mkuAO9o0Q / pop fvxZROGx3Pw  [ 가사 해석 ] 빌리 아일리시 (Billie Eilish) - wish you were gay ｜ 자막 채널 루나 가사 해석 ☾
+
+  song_id  dpnTd9Dx2OM   piano_id pFeH0uiqwXM
+    sing2piano  Billie Eilish - What Was I Made For?
+    corpus      cW8VLC9nnTo / pop cW8VLC9nnTo  Billie Eilish - What Was I Made For? (Official Music Video)
+
+  song_id  d5gf9dXbPi0   piano_id oPS73JoJerE
+    sing2piano  Billie Eilish - BIRDS OF A FEATHER
+    corpus      V9PVRfjEBTI / pop V9PVRfjEBTI  Billie Eilish - BIRDS OF A FEATHER (Official Music Video)
+
+  song_id  W-w3WfgpcGg   piano_id g34WlqEcIkE
+    sing2piano  Bruno Mars - It Will Rain
+    corpus      8VZo3_Pu0u4 / pop DoC9Wglch6s  Bruno Mars - It Will Rain [가사해석/번역/자막]
+
+  song_id  Fp_P_e1cPOE   piano_id JYVdWfp36hc
+    sing2piano  Camila Cabello - Shameless
+    corpus      Gci82jX_X4M / pop 8Owq2eCosiA  [한글자막뮤비] Camila Cabello - Shameless
+
+  song_id  -MsvER1dpjM   piano_id Axo1kcjvLqA
+    sing2piano  Demi Lovato - Sorry Not Sorry
+    corpus      2m2jqhp5dWE / pop q2NAU8XjqG4  Demi Lovato - Sorry Not Sorry (가사 번역)
+
+  song_id  TUVcZfQe-Kw   piano_id wW3cCGYjFTM
+    sing2piano  Dua Lipa - Levitating
+    corpus      dsxNDYdEYq8 / pop tq3ofks0P8c  🏆 그래미 어워드 수상 : Dua Lipa - Levitating [가사/해석]
+
+  song_id  0qTQR92UuUA   piano_id cwEcD-5EuzM
+    sing2piano  Ed Sheeran - Overpass Graffiti
+    corpus      U3348s19Sqg / pop 8cBDnA89bcY  첫사랑은 결코 못 잊는 법💔 : Ed Sheeran - Overpass Graffiti [가사/자막/해석]
+
+  song_id  2Vv-BfVoq4g   piano_id CWEqbuJ6DlQ
+    sing2piano  Ed Sheeran - Perfect
+    corpus      -gZnkrw7BZ0 / pop XXww1SikEMY  Ed Sheeran - Perfect (한국어 자막/해석/가사)
+
+  song_id  KKQl-pIRQMY   piano_id 9WBPOLBXg3A
+    sing2piano  Ed Sheeran - Photograph
+    corpus      GqJ7iNf9Xz0 / pop SlswUnZLFfA  (가사/한국어자막/가사해석/가사번역)Ed Sheeran-Photograph
+
+  song_id  uDx8cNqXmZE   piano_id wOOW5ZCQwBM
+    sing2piano  Gracie Abrams - Hit The Wall
+    corpus      jFCTQ68gxoY / pop jFCTQ68gxoY  Gracie Abrams - Hit the Wall (Official Music Video)
+
+  song_id  tEnCoocmPQM   piano_id -avWCT7qHUk
+    sing2piano  Halsey - Sorry
+    corpus      IoWLPQH0y0U / pop YPtGc7L_kAs  저스틴 비버  - sorry   한영가사
+
+  song_id  HZX7MB_m13M   piano_id m6jpk-_i2to
+    sing2piano  I Love You So - The Walters
+    corpus      4Om6_1QEcwI / pop NwFVSclD_uc  The Walters -- I Love You So
+
+  song_id  pvrkfb1C4tE   piano_id LBERSUWR5JA
+    sing2piano  Imagine Dragons - Demons
+    corpus      O9792EANtjE / pop iCacTjDewaA  Imagine Dragons - Demons (한국어 자막/가사/해석)
+    corpus      mWRsgZuwf_8 / pop mWRsgZuwf_8  Imagine Dragons - Demons (Official Music Video)
+
+  song_id  yJYcrYnAEoU   piano_id fAgydoHFQfw
+    sing2piano  James Blunt - You're Beautiful
+    corpus      4pwOYkmixPg / pop oOjEeAPmZfU  "넌 정말 아름다워,정말로"  James Blunt -  You're Beautiful [가사해석/번역/자막]
+
+  song_id  450p7goxZqg   piano_id qdfHkAfalZY
+    sing2piano  John Legend - All of Me
+    corpus      LJPIeO79Bkk / pop sY1vJLf0Juo  John Legend - All of me (한국어 가사/해석/자막)
+
+  song_id  8ELbX5CMomE   piano_id QO_2FWNMZMw
+    sing2piano  Justin Bieber - Sorry
+    corpus      IoWLPQH0y0U / pop YPtGc7L_kAs  저스틴 비버  - sorry   한영가사
+
+  song_id  ZkO2qrMTWig   piano_id oYdEUPhGmqw
+    sing2piano  Katy Perry - Wide Awake
+    corpus      k0BWlvnBmIE / pop k0BWlvnBmIE  Katy Perry - Wide Awake (Official Video)
+
+  song_id  KkOF8UiB7u8   piano_id Nnat-ClvLjQ
+    sing2piano  Khalid - Better
+    corpus      x3bfa3DZ8JM / pop x3bfa3DZ8JM  Khalid - Better (Official Video)
+
+  song_id  LXuSOkf2M3c   piano_id PCO-dWaj7Y4
+    sing2piano  Lady Gaga - Abracadabra
+    corpus      vBynw9Isr28 / pop vBynw9Isr28  Lady Gaga - Abracadabra (Official Music Video)
+
+  song_id  Te11UaHOHMQ   piano_id anZsiaFWMPQ
+    sing2piano  Lana Del Rey - Young And Beautiful
+    corpus      57YkGFK7CDA / pop UQrxaF5yJ1A  Lana Del Rey - Young and Beautiful • 가사해석/한글자막
+
+  song_id  Vzo-EL_62fQ   piano_id nPDdvhE6Zg8
+    sing2piano  Leona Lewis - Bleeding Love
+    corpus      h1-tVZBatiA / pop PMu598GJ-G8  [가사 좋은 노래] Leona Lewis - Bleeding Love 라이브 [한글자막]
+
+  song_id  Jtauh8GcxBY   piano_id mc8A8N5fTAQ
+    sing2piano  Lewis Capaldi - Before You Go
+    corpus      i6wNrspdcBk / pop dAgkbvQFrjw  /남겨진 사람들을 위해/ Lewis Capaldi - Before You Go (한국어 가사/해석/자막)
+
+  song_id  LHCob76kigA   piano_id dlbCcf5OKFg
+    sing2piano  Lukas Graham - 7 Years
+    corpus      aLmEowCi4HA / pop cM4qYy-bAg8  Lukas Graham (루카스 그라햄) - 7 years (가사/해석/한국어 자막)
+
+  song_id  jzD_yyEcp0M   piano_id LwGnrmolY6o
+    sing2piano  Marshmello, Anne-Marie - FRIENDS
+    corpus      auUOYHHYTHU / pop _WR2n5SwlCE  Marshmello & Anne-Marie - Friends (한국어 가사/해석/자막)
+
+  song_id  w7Xqzji5p_0   piano_id XXsfY7VUK8A
+    sing2piano  Miley Cyrus - You
+    corpus      yP_3a3810w4 / pop NtCJPeMGo9Y  You - 멜로망스/가사
+
+  song_id  987xHnVfRI4   piano_id JN65mbjeExs
+    sing2piano  P!nk - What About Us
+    corpus      dJvbqo6DiPA / pop s3GMjlYWRiA  P!nk - What About Us (한국어 자막/가사/해석)
+
+  song_id  RBumgq5yVrA   piano_id yu0cHfG45Uc
+    sing2piano  Passenger - Let Her Go
+    corpus      gahRqD3mAwU / pop 8QKPLYpObd8  Passenger - Let Her Go (가사/해석/한국어 자막)
+
+  song_id  j1KbciHiR4I   piano_id LahJY7guOn0
+    sing2piano  Rachel Platten - Fight Song
+    corpus      9G7zlxqhJRs / pop Pk4mJK0vyqQ  힘들어도 좌절하지 않을 거야 Rachel Platten - Fight Song (가사/번역)
+    corpus      xo1VInw-SKc / pop xo1VInw-SKc  Rachel Platten - Fight Song (Official Video)
+
+  song_id  YiQ7qiL73aI   piano_id vclz7vKKeBk
+    sing2piano  Sabrina Carpenter - Please Please Please
+    corpus      cF1Na4AIecM / pop cF1Na4AIecM  Sabrina Carpenter - Please Please Please
+
+  song_id  VbfpW0pbvaU   piano_id Rbf7Fjijjig
+    sing2piano  Shawn Mendes - Stitches
+    corpus      JGDYu5mnAwI / pop hj37vl0uX8k  Shawn Mendes - Stitches  (한글 자막/가사/번역/해석/가사해석)
+
+  song_id  BrMp5w2PtLA   piano_id tNsMJRJ4dbE
+    sing2piano  Shawn Mendes, Justin Bieber - Monster
+    corpus      NKj86YpzS7s / pop nr4ERYYDJaw  내가 괴물인걸까? : Shawn Mendes & Justin Bieber - Monster [가사 번역/한글자막/Lyrics]
+
+  song_id  SlJz2p3qdr4   piano_id JeRYzRaJdIo
+    sing2piano  Snowman - Sia
+    corpus      VAAix9FLqkw / pop lvFq6JixFrs  Sia - Snowman (한국어 가사/해석/자막)
+
+  song_id  -62V1vpMLZ0   piano_id Sa0eis7P2oY
+    sing2piano  Tate McRae - Revolving Door
+    corpus      rwlFWWGaZ5Y / pop rwlFWWGaZ5Y  Tate McRae - Revolving door (Official Video)
+
+  song_id  aXzVF3XeS8M   piano_id hazB3kd_xnY
+    sing2piano  Taylor Swift - Love Story
+    corpus      SojAkORca9g / pop WQ3R47nGAw4  이건 사랑 이야기니까｜Taylor Swift - Love Story
+    corpus      tHg0fqzjus0 / pop 9GlvEhOX_ZI  Taylor Swift - Love Story [가사/해석]
+
+  song_id  j1fsEAF3Xo4   piano_id wZ0janVl36s
+    sing2piano  Taylor Swift - We Are Never Ever Getting Back Together
+    corpus      WA4iX5D9Z64 / pop WA4iX5D9Z64  Taylor Swift - We Are Never Ever Getting Back Together
+
+  song_id  7NJqUN9TClM   piano_id w7i1VgkCQYQ
+    sing2piano  The Band Perry - If I Die Young
+    corpus      HKu7-F3C6Og / pop 1c-0O1k00NU  [가사/해석] 내가 어린 나이에 죽는다면 The Band Perry - If I Die Young
+
+  song_id  2qA9sTe9nuA   piano_id wOWCgj9DMO8
+    sing2piano  The Chainsmokers, 5 Seconds of Summer - Who Do You Love
+    corpus      8aIB2nn-B1U / pop 8aIB2nn-B1U  Who Do You Love?
+
+  song_id  -QOSz9G1GnY   piano_id uG6O1C2sr_s
+    sing2piano  We Don't Talk About Bruno - Encanto
+    corpus      C-zIPynKlLU / pop 2qdxQgcqI8k  We Don’t Talk About Bruno(디즈니 엔칸토/encanto) 가사/자막
+
+  song_id  QiHMkiPGlv4   piano_id jC25P5Da59E
+    sing2piano  You're Still The One - Shania Twain
+    corpus      tBEshP-nNgo / pop GQyNauDR3yk  You're Still The One - SHANIA TWAIN 가사.번역.자막
+
+== also in the Kong held-out covers set ==
+
+  song_id  gIOyB9ZXn8s   Into the Unknown - Frozen 2
+
+  song_id  nrZxwPwmgrw   Show Yourself - Frozen 2

@@ -1,0 +1,55 @@
+# The "p2p update" corpus: full-length pop songs with conditioning MIDI.
+# The target audio is Pop2Piano's original vocal-free separation, copied into this corpus layout
+# after listening showed it was preferable to p2pdata's newer separation. The MIDI remains the
+# p2pdata transcription; that deliberate cross-separation pairing is part of this data revision.
+
+manifest_dir: .cache/manifests
+latent_dir: .cache/latents
+prompt_dir: .cache/prompt
+notes_dir: .cache/notes
+# `p2pa-unpack` places the real pianist recordings and Kong MIDI here. This directory is read only
+# by listening exports and evaluation; it is not part of the training or validation datasets.
+covers_root: covers
+
+min_notes: 24
+
+train_fraction: 0.95
+validation_fraction: 0.03
+
+# Four 30 s windows fit one 80 GB card under a full finetune with gradient checkpointing.
+batch_size: 4
+
+# --- host memory ------------------------------------------------------------------------------
+# The failure this project exists not to repeat was host RAM, not VRAM. Four workers, not eight;
+# a bounded prefetch; no pinned staging buffers; and no persistent workers, so a worker's arena is
+# returned between passes rather than growing for the life of the run. `worker_init_fn` also pins
+# each worker to one BLAS thread. Together these bound resident items at
+# num_workers x prefetch_factor x batch_size = 32 windows.
+num_workers: 4
+prefetch_factor: 2
+pin_memory: false
+persistent_workers: false
+
+ffmpeg: ffmpeg
+ffprobe: ffprobe
+fluidsynth: fluidsynth
+# Relative, so it resolves under $P2PA_DATA_ROOT like every other artifact; `scripts/setup.sh`
+# places MuseScore_General.sf2 there.
+soundfont: assets/MuseScore_General.sf2
+
+source:
+  name: p2pdata
+  # These files are byte-for-byte copies of Pop2Piano's original separated instrumentals. The
+  # revision participates in the latent fingerprint; changing target audio creates a new cache.
+  audio_revision: pop2piano_separated_v1
+  root: data/p2pdata
+  audio_subdir: audio
+  instrumental_name: instrumental.mp3
+  midi_subdir: midi
+  baseline_midi: full-piano.mid
+  picogen_midi: full-picogen.mid
+  beats_subdir: beats
+  # Variants are `<stem mix>-<decode target>.mid`. These decode targets are globbed off the draw:
+  # organ and strings voice a sustained pad, not a piano right hand, so they are the wrong thing
+  # for the model to learn to imitate. The files remain on disk; set this to `[]` to restore them.
+  excluded_variant_programs: [organ, strings]

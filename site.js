@@ -76,7 +76,7 @@
     if (ref.alignment === "automatic") {
       const note = document.createElement("p");
       note.className = "fine-print alignment-note";
-      note.textContent = "Starts where the piano window starts; not yet hand-aligned, so the song may lead or lag.";
+      note.textContent = "Approximate timing; the song may lead or lag the piano.";
       cell.append(note);
     }
     return cell;
@@ -85,11 +85,11 @@
   const GROUPS = {
     karaokeys: {
       title: "KaraoKeysPH covers",
-      note: "Every KaraoKeysPH song in the 476-song evaluation panel, hand-picked samples first.",
+      note: "KaraoKeysPH covers from the evaluation set; selected samples first.",
     },
     sing2piano: {
       title: "Sing2Piano covers",
-      note: "Sing2Piano does not allow its videos to be embedded, so these covers open on YouTube.",
+      note: "These covers open on YouTube.",
     },
   };
 
@@ -100,7 +100,7 @@
     link.href = `https://www.youtube.com/watch?v=${ref.video_id}&t=${Math.floor(ref.start)}s`;
     link.target = "_blank";
     link.rel = "noopener";
-    link.textContent = `Piano input: open the cover on YouTube at ${clock(ref.start)} ↗`;
+    link.textContent = `Piano input · YouTube ${clock(ref.start)} ↗`;
     line.append(link);
     return line;
   }
@@ -163,7 +163,7 @@
         const details = document.createElement("details");
         details.className = "listening-comment";
         const summary = document.createElement("summary");
-        summary.textContent = "Authors’ listening comment";
+        summary.textContent = "Listening notes";
         const comment = document.createElement("p");
         comment.textContent = sample.comment;
         details.append(summary, comment);

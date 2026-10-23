@@ -108,7 +108,7 @@ window.LISTENING_SAMPLES = {
           }
         }
       },
-      "comment": "A pleasing example with clearly audible differences in quality between the systems."
+      "comment": "Clear quality differences between systems."
     },
     {
       "key": "AqBlCKOlOrg_w4",
@@ -182,7 +182,7 @@ window.LISTENING_SAMPLES = {
           }
         }
       },
-      "comment": "A pleasing example with striking timbres from PiCo, although PiCo's audio quality still leaves room for improvement."
+      "comment": "PiCo has striking timbres but some audio-quality issues."
     },
     {
       "key": "2NFCXSbkcxE_w2",
@@ -551,7 +551,7 @@ window.LISTENING_SAMPLES = {
           }
         }
       },
-      "comment": "FST adds effects, as it tends to more often than Base. RDA adds some here too, but does not sound as good as FST."
+      "comment": "FST adds effects more successfully than RDA."
     },
     {
       "key": "0THo2R6cLks_w0",
@@ -844,7 +844,7 @@ window.LISTENING_SAMPLES = {
           }
         }
       },
-      "comment": "FST has drums where Base and RDA have none, and it is more balanced, with a clear bass."
+      "comment": "FST adds drums and clear bass; Base and RDA lack drums."
     },
     {
       "key": "3oVHWBxdCqk_w0",
@@ -918,7 +918,7 @@ window.LISTENING_SAMPLES = {
           }
         }
       },
-      "comment": "Base and RDA again lack low-frequency content, and PiCo tends to sound less clear (somewhat muddy)."
+      "comment": "Base and RDA lack low end; PiCo sounds muddy."
     },
     {
       "key": "44Zk43pOhsk_w0",
@@ -992,7 +992,7 @@ window.LISTENING_SAMPLES = {
           }
         }
       },
-      "comment": "As in the previous sample: Base and RDA lack low-frequency content, and PiCo is less clear."
+      "comment": "Base and RDA lack low end; PiCo sounds less clear."
     },
     {
       "key": "4NOJc2Cu4so_w0",
@@ -8879,7 +8879,7 @@ window.LISTENING_SAMPLES = {
           }
         }
       },
-      "comment": "We find this a pleasing example overall."
+      "comment": "A strong example overall."
     },
     {
       "key": "zf-KVaOvPTM_w1",
@@ -8953,7 +8953,7 @@ window.LISTENING_SAMPLES = {
           }
         }
       },
-      "comment": "Base remains almost entirely piano, while PiCo produces a particularly strong result."
+      "comment": "Base stays piano-heavy; PiCo adds a fuller arrangement."
     },
     {
       "key": "-sS1aUJrZxE_w2",

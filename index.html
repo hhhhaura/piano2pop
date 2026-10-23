@@ -10,38 +10,48 @@
 </head>
 <body>
   <main>
-    <header><h1>Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision</h1>
-      <a class="paper-link" href="https://arxiv.org/abs/2610.31510" target="_blank" rel="noopener">Paper on arXiv ↗</a>
+    <header class="hero">
+      <p class="eyebrow">From piano to pop</p>
+      <h1>Piano<span>2Pop</span></h1>
+      <p class="subtitle">Expanding Piano Demos into Pop Productions<br class="desktop-break"> Without Aligned Supervision</p>
+      <a class="paper-link" href="https://arxiv.org/abs/2610.31510" target="_blank" rel="noopener">Read the paper <span aria-hidden="true">↗</span></a>
+      <p class="release-note"><em>Code will be released upon acceptance.</em></p>
     </header>
+    <figure class="demo-video">
+      <video id="demo-video" controls playsinline preload="none" poster="assets/demo/poster.jpg" aria-label="Piano2Pop demonstration">
+        <source src="assets/demo/piano2pop_demo_v2.mp4" type="video/mp4">
+        <a href="assets/demo/piano2pop_demo_v2.mp4">Watch the demo video</a>.
+      </video>
+      <figcaption><span>Hear the transformation</span><span>Demo film · 1:10</span></figcaption>
+    </figure>
+    <div class="listen-heading"><p class="eyebrow">Explore the results</p><h2>Listen &amp; compare</h2></div>
     <nav class="tabs" aria-label="Demo collections">
-      <a id="samples-tab" href="#samples" aria-current="page">Piano2Pop vs Baselines</a>
-      <a id="comparison-tab" href="#system-comparison">Comparison of our systems</a>
-      <a id="detailed-tab" href="#detailed">Implementation details</a>
+      <a id="samples-tab" href="#samples" aria-current="page">Baselines</a>
+      <a id="comparison-tab" href="#system-comparison">Our systems</a>
+      <a id="detailed-tab" href="#detailed">Methods &amp; results</a>
     </nav>
     <section id="samples" aria-labelledby="samples-title">
-      <h2 id="samples-title">Piano2Pop vs Baselines</h2>
-      <p class="intro">Twelve 30-second samples comparing Piano2Pop (PiCo), MuseControlLite, and ACE-Step. Piano covers and original songs are linked on YouTube; only generated audio is hosted here. Outputs are instrumental; original songs include vocals.</p>
-      <p class="intro">All models use the prompt <strong>&ldquo;instrumental, no vocals&rdquo;</strong>; only the piano input changes. Audio is matched to <strong>&minus;16 LUFS</strong> and <strong>&minus;1 dBTP</strong>. Headphones recommended.</p>
+      <h2 id="samples-title" class="section-title">Piano2Pop vs. baselines</h2>
+      <p class="intro">Twelve 30-second comparisons of PiCo, MuseControlLite, and ACE-Step. Expand each sample to hear its piano input and original song on YouTube.</p>
+      <p class="listening-meta">Same prompt: &ldquo;instrumental, no vocals.&rdquo; Outputs matched to &minus;16 LUFS / &minus;1 dBTP. Headphones recommended.</p>
       <div id="highlight-samples"></div>
     </section>
     <section id="system-comparison" aria-labelledby="comparison-title" hidden>
-      <h2 id="comparison-title">Comparison of our systems</h2>
+      <h2 id="comparison-title" class="section-title">Compare our systems</h2>
       <p class="intro"><strong>Our listening notes.</strong> PiCo sounds fuller but can be muddy. FST adds clearer bass and drums; Base and RDA often remain piano-heavy. Not all measured differences are statistically significant.</p>
       <p class="intro">Eighteen samples comparing Base, FST, RDA, and PiCo, with optional listening notes. Piano inputs are linked on YouTube. Prompt and loudness settings match the baseline comparison.</p>
       <div id="comparison-samples"></div>
     </section>
     <section id="detailed" aria-labelledby="detailed-title" hidden>
-      <h2 id="detailed-title">Implementation details</h2>
+      <h2 id="detailed-title" class="section-title">Methods &amp; results</h2>
       <p class="intro">Training choices, evaluation results, and system comparisons. Training choices are sampled per four-bar segment.</p>
 
-      <article class="detail-card">
-        <h3>What changes between the four systems?</h3>
+      <details class="detail-card"><summary>What changes between the four systems?</summary><div class="detail-body">
         <div class="table-scroll"><table id="system-mixtures"></table></div>
         <p class="fine-print">Ratios are sampling probabilities. Missing or unsuitable transcriptions fall back to eligible variants or Base, so actual ratios may vary.</p>
-      </article>
+      </div></details>
 
-      <article class="detail-card">
-        <h3>Function-Selective Transcription (FST)</h3>
+      <details class="detail-card"><summary>Function-Selective Transcription (FST)</summary><div class="detail-body">
         <p>HTDemucs separates each instrumental into stems. FST transcribes four stem mixtures, sampled equally within its augmentation branch:</p>
         <div class="table-scroll"><table class="plain-table"><thead><tr><th>Stem mixture</th><th>Included stems</th><th>Within branch</th><th>All FST draws</th></tr></thead><tbody>
           <tr><td>Full</td><td>Drums, bass, other, guitar, piano</td><td>0.25</td><td>0.55</td></tr>
@@ -50,39 +60,36 @@
           <tr><td>Piano + bass</td><td>Piano, bass</td><td>0.25</td><td>0.15</td></tr>
         </tbody></table></div>
         <p>FST uses the original transcription 40% of the time and a stem-mixture transcription 60%. Full therefore totals 55%; each other mixture totals 15%. No further MIDI augmentation is applied.</p>
-      </article>
+      </div></details>
 
-      <article class="detail-card">
-        <h3>Register&ndash;Density Augmentation (RDA)</h3>
+      <details class="detail-card"><summary>Register&ndash;Density Augmentation (RDA)</summary><div class="detail-body">
         <p>RDA uses the baseline transcription: 50% unchanged, 20% note deletion, and 30% octave folding.</p>
         <div class="table-scroll"><table class="plain-table"><thead><tr><th>Operation</th><th>Draw ratio</th><th>Exact transformation</th></tr></thead><tbody>
           <tr><td>Function-aware note deletion</td><td>0.20</td><td>Keep each onset’s bass note. Other chord-function notes draw a 0.05–0.20 deletion rate; tension/passing-function notes draw 0.20–0.60.</td></tr>
           <tr><td>Octave folding</td><td>0.30</td><td>Move eligible notes ±12 semitones toward the local register at a 0.10–0.50 per-onset rate, staying between bass and top voice.</td></tr>
         </tbody></table></div>
         <p class="fine-print">Note functions are estimated from pitch intervals above the local bass, not inferred chords.</p>
-      </article>
+      </div></details>
 
-      <article class="detail-card">
-        <h3>Real-piano (OOD) results</h3>
+      <details class="detail-card"><summary>Real-piano (OOD) results</summary><div class="detail-body">
         <p>Paper Table 2: estimate ± bootstrap SE. Lower FAD and Shape are better; higher APA is better. Shape is in dB; B+D (bass + drums) and Piano are HTDemucs energy shares (%). APA uses PCA-32. Ground-truth APA is omitted because the pairs are unaligned; its FAD and Shape are zero by definition.</p>
         <div class="table-scroll"><table id="estimate-table"></table></div>
-      </article>
+      </div></details>
 
-      <article class="detail-card">
-        <h3>Paired between-system comparisons</h3>
+      <details class="detail-card"><summary>Paired between-system comparisons</summary><div class="detail-body">
         <p>First system minus second: difference [95% basic-bootstrap CI]. <span class="significant">†</span> marks intervals excluding zero.</p>
         <h4>Real-piano (OOD) inputs</h4>
         <div class="table-scroll"><table id="real-piano-comparisons"></table></div>
         <h4>Training-distribution inputs (MuScriptor transcriptions)</h4>
         <div class="table-scroll"><table id="muscriptor-comparisons"></table></div>
-      </article>
+      </div></details>
 
-      <article class="detail-card">
-        <h3>Evaluation protocol and scope</h3>
+      <details class="detail-card"><summary>Evaluation protocol and scope</summary><div class="detail-body">
         <p>476 held-out songs × five windows; 1,000 shared song-cluster bootstrap draws (seed 42). Reference distributions stay fixed. APA uses PCA-32 fitted to 171 aligned reference windows from 33 pairs (89.8% variance, no whitening); rankings also hold at PCA-64.</p>
         <p class="fine-print">Intervals condition on fixed references and are not corrected for multiple comparisons. HTDemucs energy shares depend on the separator.</p>
-      </article>
+      </div></details>
     </section>
+    <footer>Piano2Pop <span aria-hidden="true">·</span> <a href="https://arxiv.org/abs/2610.31510">arXiv:2610.31510</a></footer>
   </main>
   <script src="highlight-data.js"></script>
   <script src="detailed-data.js"></script>

@@ -16,11 +16,12 @@
   }
   const players = [];
   function pauseAll(except) {
-    for (const audio of document.querySelectorAll("audio")) if (audio !== except) audio.pause();
+    for (const audio of document.querySelectorAll("audio, video")) if (audio !== except) audio.pause();
     for (const player of players) {
       if (player !== except && player.pauseVideo) player.pauseVideo();
     }
   }
+  document.getElementById("demo-video").addEventListener("play", event => pauseAll(event.target));
   const clock = seconds => {
     const whole = Math.floor(seconds);
     return `${Math.floor(whole / 60)}:${String(whole % 60).padStart(2, "0")}`;
@@ -128,7 +129,10 @@
       const identifier = document.createElement("p");
       identifier.className = "sample-id";
       identifier.textContent = `${sample.item_id} · Window ${sample.window}`;
-      article.append(title, identifier);
+      const sampleHeading = document.createElement("div");
+      sampleHeading.className = "sample-heading";
+      sampleHeading.append(title, identifier);
+      article.append(sampleHeading);
 
       if (embedded) {
         const refs = document.createElement("div");
@@ -136,17 +140,23 @@
         for (const key of ["piano", "song"]) {
           refs.append(reference(sample.references[key], title.textContent));
         }
-        article.append(refs);
+        const sources = document.createElement("details");
+        sources.className = "sample-sources";
+        const summary = document.createElement("summary");
+        summary.textContent = "Piano input & original song";
+        sources.append(summary, refs);
+        article.append(sources);
       } else {
         article.append(pianoLink(sample.references.piano));
       }
 
       const tracks = document.createElement("div");
       tracks.className = "tracks";
+      tracks.style.setProperty("--track-count", order.length);
       for (const key of order) {
         const track = sample.tracks[key];
         const cell = document.createElement("div");
-        cell.className = "track";
+        cell.className = key === "pico" ? "track track-featured" : "track";
         const name = document.createElement("h4");
         name.textContent = track.label;
         const audio = document.createElement("audio");

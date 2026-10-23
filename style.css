@@ -22,7 +22,7 @@ a:hover { color: var(--plum); }
 .eyebrow { margin: 0 0 14px; color: var(--purple); font-size: .72rem; font-weight: 700; letter-spacing: .17em; text-transform: uppercase; }
 h1 { margin: 0; color: var(--plum); font-size: clamp(3.6rem, 8vw, 6rem); line-height: 1.05; font-weight: 650; letter-spacing: -.065em; }
 h1 span { color: var(--purple); }
-.subtitle { margin: 20px auto 24px; max-width: 640px; color: var(--muted); font-size: clamp(1rem, 2vw, 1.2rem); line-height: 1.6; text-wrap: balance; }
+.subtitle { margin: 20px auto 24px; max-width: 100%; color: var(--muted); font-size: clamp(1rem, 2vw, 1.2rem); line-height: 1.6; text-wrap: balance; }
 .paper-link { display: inline-flex; gap: 24px; align-items: center; padding: 11px 20px; border-radius: 8px; background: var(--purple); color: white; font-size: .85rem; font-weight: 600; text-decoration: none; }
 .paper-link:hover { background: var(--plum); color: white; }
 .release-note { margin: 14px 0 0; color: var(--muted); font-size: .79rem; }
@@ -87,7 +87,6 @@ footer { display: flex; gap: 12px; justify-content: center; padding: 38px 0; mar
 @media (max-width: 600px) {
   main { padding: 0 18px; }
   .hero { padding: 40px 0 26px; }
-  .desktop-break { display: none; }
   .subtitle { font-size: 1rem; }
   .demo-video { margin-bottom: 40px; }
   .demo-video video { border-radius: 9px; }
